@@ -14,6 +14,11 @@ class Connection():
             self.cur.execute("INSERT INTO cidade VALUES (%s, '%s', '%s', %d)" % ('default', nome, estado, int(populacao)))
         self.con.commit()
 
+    def select_data_in_city(self):
+        self.cur.execute('SELECT codigo FROM cidade')
+        rs = self.cur.fetchall()
+        print rs
+
     def insert_data_in_casa_show(self):
         file = open('./Data/casa_show.txt', 'r')
         for i in file:
@@ -72,4 +77,4 @@ class Connection():
         self.con.commit()
 
 c = Connection()
-c.insert_data_in_museu()
+c.select_data_in_city()
