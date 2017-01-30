@@ -1,5 +1,4 @@
 # coding=utf-8
-import json
 import psycopg2
 
 class Connection():
@@ -7,12 +6,6 @@ class Connection():
     def __init__(self):
         self.con = psycopg2.connect(host='localhost', port='5432', database='TURISMO_DB', user='postgres', password='041097')
         self.cur = self.con.cursor()
-
-    # def insert_data_in_city(self):
-    #     for i in self.input_city:
-    #         self.cur.execute("INSERT INTO cidade VALUES (%s, '%s', '%s', %d)" % ('default', i['nome'], i['estado'], i['populacao']))
-    #
-    #     self.con.commit()
 
     def insert_data_in_city(self):
         file = open('./Data/cidades.txt', 'r')
