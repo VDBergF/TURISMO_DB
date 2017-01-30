@@ -1,502 +1,500 @@
-[
-	{
-		"numero_salas": 64,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/12/1914"
-	},
-	{
-		"numero_salas": 58,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "22/04/1950"
-	},
-	{
-		"numero_salas": 21,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "10/08/1972"
-	},
-	{
-		"numero_salas": 46,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "11/07/1969"
-	},
-	{
-		"numero_salas": 47,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "08/07/1960"
-	},
-	{
-		"numero_salas": 29,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "23/09/1920"
-	},
-	{
-		"numero_salas": 46,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "18/01/1959"
-	},
-	{
-		"numero_salas": 96,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "19/05/1919"
-	},
-	{
-		"numero_salas": 15,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "08/08/1966"
-	},
-	{
-		"numero_salas": 86,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "26/04/1901"
-	},
-	{
-		"numero_salas": 22,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "22/08/1980"
-	},
-	{
-		"numero_salas": 13,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "23/11/1963"
-	},
-	{
-		"numero_salas": 97,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "06/02/1937"
-	},
-	{
-		"numero_salas": 36,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "27/10/1988"
-	},
-	{
-		"numero_salas": 54,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/12/1912"
-	},
-	{
-		"numero_salas": 82,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "08/05/1954"
-	},
-	{
-		"numero_salas": 58,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/04/1929"
-	},
-	{
-		"numero_salas": 89,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "28/11/1906"
-	},
-	{
-		"numero_salas": 77,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "20/10/1911"
-	},
-	{
-		"numero_salas": 99,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "13/11/1980"
-	},
-	{
-		"numero_salas": 85,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/02/1939"
-	},
-	{
-		"numero_salas": 47,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/04/1985"
-	},
-	{
-		"numero_salas": 23,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "11/06/1946"
-	},
-	{
-		"numero_salas": 65,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "31/10/1901"
-	},
-	{
-		"numero_salas": 43,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "29/10/1926"
-	},
-	{
-		"numero_salas": 25,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "22/10/1989"
-	},
-	{
-		"numero_salas": 30,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/09/1945"
-	},
-	{
-		"numero_salas": 50,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/08/1943"
-	},
-	{
-		"numero_salas": 44,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "25/09/1915"
-	},
-	{
-		"numero_salas": 54,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "10/08/1954"
-	},
-	{
-		"numero_salas": 53,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/04/1917"
-	},
-	{
-		"numero_salas": 94,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "10/03/1921"
-	},
-	{
-		"numero_salas": 43,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "22/06/1931"
-	},
-	{
-		"numero_salas": 7,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "15/01/1955"
-	},
-	{
-		"numero_salas": 33,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "06/04/1943"
-	},
-	{
-		"numero_salas": 8,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "14/02/1939"
-	},
-	{
-		"numero_salas": 75,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "22/11/1949"
-	},
-	{
-		"numero_salas": 48,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "19/05/1972"
-	},
-	{
-		"numero_salas": 12,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/09/1937"
-	},
-	{
-		"numero_salas": 66,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "10/12/1937"
-	},
-	{
-		"numero_salas": 42,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "01/06/1945"
-	},
-	{
-		"numero_salas": 81,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "01/08/1943"
-	},
-	{
-		"numero_salas": 79,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "21/09/1934"
-	},
-	{
-		"numero_salas": 6,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/08/1919"
-	},
-	{
-		"numero_salas": 71,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "23/06/1907"
-	},
-	{
-		"numero_salas": 55,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "03/08/1939"
-	},
-	{
-		"numero_salas": 12,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "04/10/1976"
-	},
-	{
-		"numero_salas": 18,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "09/01/1960"
-	},
-	{
-		"numero_salas": 79,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "14/12/1913"
-	},
-	{
-		"numero_salas": 9,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "28/08/1985"
-	},
-	{
-		"numero_salas": 56,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "21/05/1958"
-	},
-	{
-		"numero_salas": 13,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "02/12/1941"
-	},
-	{
-		"numero_salas": 33,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/06/1961"
-	},
-	{
-		"numero_salas": 52,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "26/04/1988"
-	},
-	{
-		"numero_salas": 59,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "03/04/1968"
-	},
-	{
-		"numero_salas": 96,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "04/09/1902"
-	},
-	{
-		"numero_salas": 18,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "12/09/1932"
-	},
-	{
-		"numero_salas": 90,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "25/05/1957"
-	},
-	{
-		"numero_salas": 60,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "29/11/1928"
-	},
-	{
-		"numero_salas": 9,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "23/10/1913"
-	},
-	{
-		"numero_salas": 33,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "15/03/1953"
-	},
-	{
-		"numero_salas": 89,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "05/05/1955"
-	},
-	{
-		"numero_salas": 78,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "06/03/1989"
-	},
-	{
-		"numero_salas": 75,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/11/1936"
-	},
-	{
-		"numero_salas": 27,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "05/01/1985"
-	},
-	{
-		"numero_salas": 98,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "03/01/1905"
-	},
-	{
-		"numero_salas": 11,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "30/07/1917"
-	},
-	{
-		"numero_salas": 18,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "30/05/1919"
-	},
-	{
-		"numero_salas": 17,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "15/02/1987"
-	},
-	{
-		"numero_salas": 11,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "28/02/1915"
-	},
-	{
-		"numero_salas": 61,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/03/1950"
-	},
-	{
-		"numero_salas": 44,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "30/11/1973"
-	},
-	{
-		"numero_salas": 35,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "11/09/1986"
-	},
-	{
-		"numero_salas": 58,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "18/05/1984"
-	},
-	{
-		"numero_salas": 49,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "21/04/1956"
-	},
-	{
-		"numero_salas": 60,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/05/1968"
-	},
-	{
-		"numero_salas": 76,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "16/02/1915"
-	},
-	{
-		"numero_salas": 68,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "29/05/1934"
-	},
-	{
-		"numero_salas": 33,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/02/1940"
-	},
-	{
-		"numero_salas": 60,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "11/06/1974"
-	},
-	{
-		"numero_salas": 70,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/10/1957"
-	},
-	{
-		"numero_salas": 16,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "07/09/1966"
-	},
-	{
-		"numero_salas": 89,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "27/03/1969"
-	},
-	{
-		"numero_salas": 47,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "25/05/1962"
-	},
-	{
-		"numero_salas": 88,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "18/06/1909"
-	},
-	{
-		"numero_salas": 28,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "15/11/1931"
-	},
-	{
-		"numero_salas": 63,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "29/05/1965"
-	},
-	{
-		"numero_salas": 20,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "02/06/1914"
-	},
-	{
-		"numero_salas": 15,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "01/01/1945"
-	},
-	{
-		"numero_salas": 79,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "11/03/1971"
-	},
-	{
-		"numero_salas": 54,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "06/07/1957"
-	},
-	{
-		"numero_salas": 93,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "23/04/1960"
-	},
-	{
-		"numero_salas": 41,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "21/02/1941"
-	},
-	{
-		"numero_salas": 74,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "12/12/1925"
-	},
-	{
-		"numero_salas": 48,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "12/04/1983"
-	},
-	{
-		"numero_salas": 56,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "17/05/1923"
-	},
-	{
-		"numero_salas": 20,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "24/01/1950"
-	},
-	{
-		"numero_salas": 77,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "28/11/1915"
-	},
-	{
-		"numero_salas": 30,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "03/03/1964"
-	},
-	{
-		"numero_salas": 34,
-		"descricao": "Museu que expõe antiguidades da era Medieval e Pré-histórica.",
-		"data_fundacao": "21/04/1935"
-	}
-]
+42|To study the past is to discover the future|10-03-1976|43543 North Fort Lauderdale Way|Murray
+30|To study the past is to discover the future|28-10-1983|13369 East Honduras Ln.|Faulkner
+24|To study the past is to discover the future|24-08-1980|53475 West Charlotte Amalie Blvd.|Jordan
+18|To study the past is to discover the future|14-04-1975|95839 West Areceibo Way|May
+19|To study the past is to discover the future|30-04-1989|64628 North Chad St.|Mayo
+37|To study the past is to discover the future|18-10-1972|56161  Honolulu Way|Cline
+12|To study the past is to discover the future|13-09-1981|46398 East Brunei Darussalam Ln.|Calhoun
+18|To study the past is to discover the future|27-07-1984|21597 North Burkina Faso Ct.|Shaw
+47|To study the past is to discover the future|14-01-1977|42204 East Aruba Ln.|Barry
+26|To study the past is to discover the future|31-10-1979|51111 South Turks and Caicos Islands Ave.|Pitts
+30|To study the past is to discover the future|15-12-1982|56137  Ukraine Way|Farmer
+17|To study the past is to discover the future|14-05-1980|37116 South Guam Way|Schmidt
+47|To study the past is to discover the future|21-10-1973|38188 South Saint Helena St.|Fitzpatrick
+27|To study the past is to discover the future|15-12-1981|39250 North Belgium St.|Jenkins
+7|To study the past is to discover the future|12-06-1971|10301 North Peru Blvd.|Kinney
+30|To study the past is to discover the future|30-10-1972|31565 South Slovakia Ct.|Nielsen
+46|To study the past is to discover the future|20-04-1979|62357 South Samoa Way|Mcdaniel
+12|To study the past is to discover the future|14-08-1985|75207 West Charleston Way|Clements
+9|To study the past is to discover the future|31-10-1984|72319 West Argentina Blvd.|Britt
+37|To study the past is to discover the future|24-01-1974|79812  Macedonia Ln.|Knox
+36|To study the past is to discover the future|01-12-1981|95078 North New Britain Blvd.|Shaw
+14|To study the past is to discover the future|31-03-1981|19170 West Kankakee Ln.|Richards
+14|To study the past is to discover the future|06-09-1976|21558 West Suriname Ct.|Vaughn
+19|To study the past is to discover the future|24-09-1979|93983  Oman Ave.|Duke
+50|To study the past is to discover the future|28-07-1972|7848 East Bouvet Island Ln.|Gilliam
+38|To study the past is to discover the future|08-11-1989|51143  Monaco Ln.|Cross
+44|To study the past is to discover the future|01-05-1976|52911 East British Indian Ocean Territory St.|Cole
+37|To study the past is to discover the future|18-08-1981|60518  Cayman Islands Blvd.|Schroeder
+23|To study the past is to discover the future|18-08-1989|6423 North Cocos (Keeling) Islands St.|Albert
+21|To study the past is to discover the future|12-08-1975|15711 North Dearborn St.|Preston
+48|To study the past is to discover the future|26-11-1971|42561 East Appleton Ct.|Larson
+38|To study the past is to discover the future|07-05-1980|21883 East Chad St.|Calhoun
+32|To study the past is to discover the future|18-02-1989|81007  Bolivia St.|Mullins
+18|To study the past is to discover the future|15-08-1974|56108 South Gambia Ave.|Norton
+6|To study the past is to discover the future|09-06-1970|88826  Corpus Christi Ln.|Rose
+13|To study the past is to discover the future|06-07-1979|1896 West Grenada Blvd.|Irwin
+6|To study the past is to discover the future|02-03-1973|3226  Holyoke Ave.|Roach
+35|To study the past is to discover the future|04-11-1973|59394  British Indian Ocean Territory Ln.|Fleming
+19|To study the past is to discover the future|22-04-1985|957 West Denmark Way|Barry
+15|To study the past is to discover the future|30-06-1976|21348 West Slovakia Ave.|Puckett
+7|To study the past is to discover the future|10-12-1972|47380 South Bangladesh Blvd.|Wooten
+10|To study the past is to discover the future|25-09-1976|4115 South Barbados Ave.|Frye
+41|To study the past is to discover the future|20-09-1983|11763 West Israel Way|Conway
+38|To study the past is to discover the future|01-05-1978|76163 South Baton Rouge Ln.|Craft
+32|To study the past is to discover the future|04-06-1979|32306  Pitcairn Ct.|Cobb
+22|To study the past is to discover the future|12-09-1974|24568  Fairfield Ave.|Burke
+43|To study the past is to discover the future|26-05-1978|80723  Cambodia Ave.|Lawrence
+47|To study the past is to discover the future|07-02-1973|48872 South Easthampton Ln.|Forbes
+43|To study the past is to discover the future|17-06-1988|81572 South Camden St.|Moran
+49|To study the past is to discover the future|24-09-1978|68272 West Mongolia Blvd.|Whitaker
+23|To study the past is to discover the future|21-02-1971|75565 West Chickasha Blvd.|Benjamin
+33|To study the past is to discover the future|03-11-1985|25634 East Botswana Ln.|Ortega
+27|To study the past is to discover the future|17-02-1976|32842  Cuba Blvd.|Powell
+28|To study the past is to discover the future|03-02-1986|51567 North Dominica Way|Bridges
+39|To study the past is to discover the future|22-08-1987|39726 East Micronesia Blvd.|Mercado
+9|To study the past is to discover the future|15-09-1980|10777 South Fairbanks Blvd.|Thornton
+48|To study the past is to discover the future|26-11-1985|7848 South Bouvet Island Ave.|Conrad
+18|To study the past is to discover the future|02-09-1973|92229 North Dickinson Ave.|Baldwin
+6|To study the past is to discover the future|18-06-1979|83463 South Tunisia Ct.|Schmidt
+28|To study the past is to discover the future|20-10-1970|48703 East Pascagoula Blvd.|Boyd
+7|To study the past is to discover the future|02-09-1973|19377 South Nauru Ave.|Rasmussen
+11|To study the past is to discover the future|27-10-1987|46360 North Christmas Island Ln.|Mills
+22|To study the past is to discover the future|08-03-1985|46448 East Tonga Ln.|Walton
+45|To study the past is to discover the future|11-04-1971|32706 South Hungary Ct.|Branch
+34|To study the past is to discover the future|18-07-1973|44720 East Nigeria Blvd.|Stuart
+33|To study the past is to discover the future|16-12-1971|62039  Argentina St.|Hernandez
+47|To study the past is to discover the future|08-07-1977|64839 West Cheyenne Blvd.|Bass
+8|To study the past is to discover the future|04-02-1986|26468 North Dominica Ave.|Bright
+19|To study the past is to discover the future|06-01-1972|32523 West Spain St.|Wells
+25|To study the past is to discover the future|23-07-1984|6468 North Peru Ln.|Woodard
+5|To study the past is to discover the future|18-11-1983|30809 East Greenland Blvd.|Farley
+41|To study the past is to discover the future|25-08-1981|27466  Grenada Way|Joseph
+10|To study the past is to discover the future|23-11-1975|90600 West Anguilla Ct.|Wynn
+13|To study the past is to discover the future|23-08-1972|888 West International Falls Ave.|Duran
+42|To study the past is to discover the future|20-04-1986|30337 North Andorra Ct.|Serrano
+50|To study the past is to discover the future|30-05-1976|99875  Beckley Ave.|Knight
+39|To study the past is to discover the future|26-08-1977|94731 East Algeria Way|Pratt
+39|To study the past is to discover the future|14-04-1971|29210  Albania Ave.|Brewer
+48|To study the past is to discover the future|31-08-1978|36762 East Bolivia Ct.|Harmon
+9|To study the past is to discover the future|18-06-1979|6896 North Baltimore Blvd.|Hendrix
+48|To study the past is to discover the future|23-06-1975|66856 North Bremerton Ave.|Hudson
+21|To study the past is to discover the future|18-03-1985|76896 West Cairo Ave.|Chase
+41|To study the past is to discover the future|14-03-1988|82145 West Brookings Way|Obrien
+24|To study the past is to discover the future|18-10-1979|56728  Faroe Islands Blvd.|Sargent
+38|To study the past is to discover the future|13-07-1981|71606  Barbados Way|Francis
+41|To study the past is to discover the future|25-01-1985|21967 West Angola Ave.|Hess
+50|To study the past is to discover the future|25-03-1989|69393 North India Ln.|Powell
+41|To study the past is to discover the future|31-01-1980|30377  Hartford Way|Gordon
+38|To study the past is to discover the future|10-05-1978|95977 East Antigua and Barbuda Ave.|Ellis
+22|To study the past is to discover the future|29-08-1988|93186 North Thailand Way|Tanner
+37|To study the past is to discover the future|29-05-1981|3311 South Bahrain Blvd.|Atkins
+30|To study the past is to discover the future|26-08-1988|4005 North Mauritius St.|Rios
+48|To study the past is to discover the future|07-07-1979|76751  Antigua and Barbuda Way|Stanton
+16|To study the past is to discover the future|26-05-1978|35225 West United States Ave.|Huber
+45|To study the past is to discover the future|09-02-1975|23358 East Philippines Blvd.|Garner
+17|To study the past is to discover the future|02-02-1986|61671 North Australia Ln.|Solomon
+33|To study the past is to discover the future|26-09-1985|67269 West Fiji Ave.|Fitzgerald
+27|To study the past is to discover the future|18-01-1988|35221  Nashville Blvd.|Soto
+23|To study the past is to discover the future|25-08-1974|10715 West British Indian Ocean Territory Ct.|Joyce
+14|To study the past is to discover the future|17-03-1972|80234  Australia St.|Fitzpatrick
+45|To study the past is to discover the future|08-02-1970|24972 East Afghanistan Way|Cunningham
+11|To study the past is to discover the future|25-08-1984|76406  Saint Vincent and The Grenadines Ln.|Gilbert
+14|To study the past is to discover the future|27-11-1972|51629 West Andorra Ct.|Hendrix
+24|To study the past is to discover the future|08-01-1971|61252 West Baldwin Park Blvd.|Hendrix
+16|To study the past is to discover the future|15-01-1972|27994 North Brea Way|Rose
+6|To study the past is to discover the future|23-04-1970|98574 West Anaconda Ct.|Cook
+9|To study the past is to discover the future|13-07-1983|27878 North Nauru Way|Anthony
+34|To study the past is to discover the future|20-06-1971|93690 East Eau Claire St.|Bradley
+16|To study the past is to discover the future|26-11-1981|28908 South Belgium St.|Tate
+13|To study the past is to discover the future|13-12-1970|39098 North Brown Deer Ct.|Ballard
+19|To study the past is to discover the future|04-01-1981|10322 South Aguadilla Blvd.|Garcia
+40|To study the past is to discover the future|30-09-1989|70772 South Ireland Ln.|Bridges
+18|To study the past is to discover the future|30-07-1983|23294 South Canada St.|Reese
+12|To study the past is to discover the future|31-10-1979|31476 East Saudi Arabia Ct.|Bolton
+26|To study the past is to discover the future|15-10-1975|25250 North Heard Island and Mcdonald Islands St.|Duncan
+49|To study the past is to discover the future|05-03-1976|13628 North Eden Prairie Ave.|Garza
+29|To study the past is to discover the future|11-12-1988|74656 North Ukraine Ave.|Phillips
+38|To study the past is to discover the future|29-09-1987|7477 South Geneva St.|Callahan
+20|To study the past is to discover the future|23-08-1983|73761 West Central African Republic Ave.|King
+44|To study the past is to discover the future|22-10-1973|98174 North Barbados Ln.|Lucas
+10|To study the past is to discover the future|20-08-1971|86751 South Greenland Way|Stephens
+22|To study the past is to discover the future|21-07-1977|31506 East Pitcairn Ave.|Strickland
+20|To study the past is to discover the future|24-10-1984|30061  Cook Islands Ct.|Craig
+14|To study the past is to discover the future|15-08-1971|74525 West Miami Ln.|Russo
+21|To study the past is to discover the future|01-12-1979|85241 East New Zealand St.|Fox
+32|To study the past is to discover the future|25-05-1973|1455 South Bermuda Ln.|Williamson
+12|To study the past is to discover the future|18-10-1980|32580 North Pottsville Blvd.|Savage
+14|To study the past is to discover the future|27-07-1975|44147 East Central African Republic St.|Glass
+48|To study the past is to discover the future|21-08-1975|28412 West Geneva Way|Allison
+21|To study the past is to discover the future|28-03-1988|58509 West Anguilla Blvd.|Lamb
+46|To study the past is to discover the future|23-07-1973|2030 North Benin Ln.|Wilkins
+40|To study the past is to discover the future|08-10-1985|51857 West Korea Ave.|Solis
+27|To study the past is to discover the future|09-05-1981|10323  United Kingdom Ln.|Barton
+22|To study the past is to discover the future|11-04-1975|60850 West Christmas Island Ave.|Bryant
+25|To study the past is to discover the future|12-05-1981|30831 South Fitchburg Ct.|House
+16|To study the past is to discover the future|20-09-1982|15029 South Newark Ct.|Chandler
+33|To study the past is to discover the future|16-06-1980|58323 North Barbados Ct.|Hess
+22|To study the past is to discover the future|09-12-1970|81696 North Norfolk Island Ct.|Reed
+48|To study the past is to discover the future|22-10-1973|27012 West Djibouti Ln.|Murray
+27|To study the past is to discover the future|27-10-1975|16231 West Nicaragua Ct.|Blake
+34|To study the past is to discover the future|24-06-1982|44937 North United Kingdom Ct.|Lambert
+11|To study the past is to discover the future|25-09-1977|47705 East Cambodia Blvd.|Higgins
+8|To study the past is to discover the future|23-12-1974|25663  Bosnia and Herzegovina Ct.|Peters
+21|To study the past is to discover the future|28-03-1988|28363 West Agat Ct.|Buck
+41|To study the past is to discover the future|18-07-1972|41886  Ukraine Way|Dorsey
+30|To study the past is to discover the future|22-01-1974|49910 North Slovenia Way|Mccarthy
+14|To study the past is to discover the future|02-07-1976|56144 West Forrest City Blvd.|Reynolds
+19|To study the past is to discover the future|22-09-1971|93262 South Turkmenistan Ave.|Hayes
+28|To study the past is to discover the future|09-03-1970|55302 East Samoa St.|Mcclain
+41|To study the past is to discover the future|02-08-1978|45267 North Fontana Way|Curry
+30|To study the past is to discover the future|24-06-1975|54960 South Fairmont Ln.|Bentley
+24|To study the past is to discover the future|17-10-1978|75575 North Micronesia Ln.|Brewer
+47|To study the past is to discover the future|04-09-1985|50023 West Paraguay Ln.|Mcmahon
+37|To study the past is to discover the future|05-09-1988|70446 West Korea Blvd.|Clay
+15|To study the past is to discover the future|24-01-1974|58885 North Jordan Ct.|Buckley
+39|To study the past is to discover the future|19-02-1978|44786 North Elsmere Ave.|Sanders
+20|To study the past is to discover the future|05-06-1984|4813 South Arlington Ct.|Ellis
+43|To study the past is to discover the future|28-06-1977|26071 South Tanzania, United Republic of Blvd.|Nunez
+37|To study the past is to discover the future|23-01-1976|20533  Bouvet Island Way|Chandler
+34|To study the past is to discover the future|28-12-1979|46628 West Poland Way|Clayton
+26|To study the past is to discover the future|22-09-1989|4493 West Dover Ln.|Espinoza
+49|To study the past is to discover the future|06-05-1973|23166 East Galesburg Way|Strong
+12|To study the past is to discover the future|12-09-1976|77316 South Duluth Blvd.|Kline
+39|To study the past is to discover the future|28-02-1988|80775 East Guinea-bissau Ave.|Nielsen
+46|To study the past is to discover the future|17-11-1975|59528 West Dodge City Ave.|Stuart
+27|To study the past is to discover the future|10-02-1981|70728 East Belleville Way|Booth
+15|To study the past is to discover the future|17-05-1971|30836  Comoros St.|Pena
+32|To study the past is to discover the future|09-12-1983|84218 North Fond du Lac Ct.|Wallace
+28|To study the past is to discover the future|08-12-1989|65198 East Fort Collins Way|Kirk
+40|To study the past is to discover the future|17-08-1983|39412 North Central African Republic Ave.|Gilmore
+32|To study the past is to discover the future|14-03-1989|1810 West Lodi Blvd.|Reyes
+10|To study the past is to discover the future|03-09-1982|65291 North Brunei Darussalam Ave.|Kent
+30|To study the past is to discover the future|23-09-1987|28227 North Sao Tome and Principe St.|Colon
+9|To study the past is to discover the future|28-08-1971|41420 South Covington Blvd.|Ramos
+25|To study the past is to discover the future|16-01-1971|88145 South Ephraim St.|Galloway
+14|To study the past is to discover the future|17-10-1977|62528 South Palestinian Territory, Occupied Blvd.|Mclaughlin
+39|To study the past is to discover the future|25-08-1971|95871 North Bermuda Way|Chavez
+47|To study the past is to discover the future|04-02-1977|80646 West Buffalo Ave.|Joyner
+28|To study the past is to discover the future|25-02-1977|22141 East Austria Ln.|Baldwin
+23|To study the past is to discover the future|11-11-1977|59349 North Greensboro St.|Dorsey
+35|To study the past is to discover the future|09-04-1982|14973  Virgin Islands, British St.|Gross
+27|To study the past is to discover the future|31-12-1979|45658 South Guatemala Ave.|Kirby
+9|To study the past is to discover the future|18-04-1972|96220 North Korea Ave.|Fuller
+41|To study the past is to discover the future|03-06-1977|70002 North Australia Way|Mckay
+39|To study the past is to discover the future|29-04-1976|17206  Chile Blvd.|Snider
+31|To study the past is to discover the future|20-02-1982|24763 North British Indian Ocean Territory Ln.|Dejesus
+6|To study the past is to discover the future|11-05-1970|69032  Equatorial Guinea St.|Irwin
+18|To study the past is to discover the future|16-10-1979|79437  Belarus Way|Webb
+21|To study the past is to discover the future|21-10-1987|77127  Angola Blvd.|Potter
+22|To study the past is to discover the future|19-03-1976|21726 South Bandera Way|Daniel
+29|To study the past is to discover the future|20-08-1977|53290 South Colombia Way|Skinner
+9|To study the past is to discover the future|24-06-1975|37797 North New Caledonia Ave.|Avila
+33|To study the past is to discover the future|03-10-1981|87655 East Guyana Blvd.|Salinas
+9|To study the past is to discover the future|15-09-1978|51644 South Biddeford Blvd.|Hamilton
+40|To study the past is to discover the future|20-06-1982|69927 North Bolivia St.|Arnold
+33|To study the past is to discover the future|29-06-1972|75530 North Djibouti Ave.|Harrell
+6|To study the past is to discover the future|23-03-1977|89381 South Colombia Ln.|Jackson
+11|To study the past is to discover the future|06-02-1981|44605 North Slovenia Ave.|Hooper
+20|To study the past is to discover the future|10-06-1972|13480 South Cocos (Keeling) Islands Way|Gillespie
+44|To study the past is to discover the future|21-08-1989|11085  Australia Way|Powers
+45|To study the past is to discover the future|09-05-1980|90233 South Algeria Ln.|Buchanan
+15|To study the past is to discover the future|23-01-1976|88547  Bermuda Ct.|Smith
+9|To study the past is to discover the future|23-07-1971|93049  Cudahy St.|Hammond
+18|To study the past is to discover the future|05-03-1980|68304 West Bhutan Ave.|Gross
+14|To study the past is to discover the future|14-09-1975|74392 East Taiwan, Province of China Ave.|Gray
+21|To study the past is to discover the future|23-01-1989|77923 East Togo Way|Rowland
+14|To study the past is to discover the future|29-01-1974|3475 West Timor-leste St.|Meyer
+33|To study the past is to discover the future|10-05-1971|52657 North Cocos (Keeling) Islands Ct.|Huff
+5|To study the past is to discover the future|20-10-1975|59265  Spain Ln.|Hall
+6|To study the past is to discover the future|25-09-1970|21122 South Tajikistan Ct.|Dickson
+40|To study the past is to discover the future|20-12-1982|49648 North Colombia Ln.|Page
+23|To study the past is to discover the future|22-08-1974|71642  Plainfield Ln.|Blackwell
+39|To study the past is to discover the future|18-04-1978|70501  Greece Blvd.|Tate
+41|To study the past is to discover the future|20-12-1981|61469 East Bowie Ave.|Grimes
+29|To study the past is to discover the future|01-06-1980|43625 West Cicero Ct.|Mckee
+6|To study the past is to discover the future|01-12-1983|38285 East Cape Verde Ave.|Miranda
+32|To study the past is to discover the future|13-04-1971|94037 South Palo Alto Ave.|Macias
+34|To study the past is to discover the future|08-03-1971|20987  Austria Ct.|Todd
+43|To study the past is to discover the future|14-11-1977|40416 East British Indian Ocean Territory Ln.|Riley
+50|To study the past is to discover the future|29-08-1973|25561  Haiti Ct.|Marsh
+22|To study the past is to discover the future|06-02-1975|81456 South Niue Ave.|Perry
+27|To study the past is to discover the future|01-11-1984|55389 West Dallas St.|Buckley
+28|To study the past is to discover the future|13-09-1981|15839 North Iran, Islamic Republic of Way|Witt
+11|To study the past is to discover the future|07-09-1972|90149  Andorra Blvd.|Briggs
+46|To study the past is to discover the future|01-05-1989|35684 East French Guiana Way|Foreman
+43|To study the past is to discover the future|27-01-1977|23989 East Colombia Ct.|Dennis
+29|To study the past is to discover the future|20-08-1972|91280 South Aruba St.|Gardner
+40|To study the past is to discover the future|09-11-1977|72310 South Cuba Ave.|Eaton
+5|To study the past is to discover the future|29-10-1974|46485 West Christmas Island St.|Salazar
+17|To study the past is to discover the future|01-08-1979|26008 East Frederick Ave.|Flynn
+36|To study the past is to discover the future|01-06-1977|7960 West Bakersfield Ave.|Rowe
+40|To study the past is to discover the future|15-09-1985|26162 East Anguilla Ln.|Stafford
+49|To study the past is to discover the future|02-05-1976|97822 East Malta Way|Wilson
+24|To study the past is to discover the future|21-11-1980|69929 North Azerbaijan Ct.|Yang
+38|To study the past is to discover the future|29-11-1976|9334 East Dominican Republic Way|Jensen
+17|To study the past is to discover the future|29-11-1971|66521 East Armenia Way|Stevens
+29|To study the past is to discover the future|03-04-1978|64361  France Ave.|Torres
+21|To study the past is to discover the future|19-11-1986|759 South Bulgaria Ln.|Pennington
+40|To study the past is to discover the future|12-01-1972|97444 East Frederick St.|Mcgowan
+37|To study the past is to discover the future|04-08-1973|49936 West Andorra Ave.|Hooper
+16|To study the past is to discover the future|07-11-1970|75871 East Cameroon Ct.|Silva
+34|To study the past is to discover the future|22-03-1971|33271 West Kemmerer Ave.|Holder
+47|To study the past is to discover the future|23-10-1980|35863 East Hot Springs Ln.|Hickman
+49|To study the past is to discover the future|22-08-1987|31702 East Cook Islands St.|Yang
+38|To study the past is to discover the future|28-06-1986|35179 North Plainfield St.|Marks
+26|To study the past is to discover the future|27-03-1981|62451  Bhutan Blvd.|Gay
+36|To study the past is to discover the future|28-10-1974|37597 South Holy See (Vatican City State) Ct.|Nelson
+15|To study the past is to discover the future|18-09-1979|42340 North Barbados Way|Hodges
+9|To study the past is to discover the future|07-07-1983|25722 South Belize Way|Rose
+46|To study the past is to discover the future|03-07-1973|24308 East Bossier City Ct.|Alvarez
+35|To study the past is to discover the future|29-08-1986|71096  Athens Ave.|Whitley
+20|To study the past is to discover the future|15-03-1973|26355 East Bangladesh St.|Stafford
+5|To study the past is to discover the future|18-04-1984|20917 North Butte Blvd.|Richards
+37|To study the past is to discover the future|08-02-1970|507 East American Samoa Way|Mullen
+7|To study the past is to discover the future|04-03-1970|48026 East Togo Ct.|Douglas
+23|To study the past is to discover the future|25-11-1982|82786  Myanmar Ln.|Dunn
+44|To study the past is to discover the future|07-03-1988|29442  Bulgaria Blvd.|Curtis
+19|To study the past is to discover the future|02-09-1985|50166 West Aspen Blvd.|Lewis
+26|To study the past is to discover the future|03-09-1978|67985 North Netherlands Ln.|Hodge
+18|To study the past is to discover the future|21-10-1985|47370  Saint Kitts and Nevis Ln.|Walls
+41|To study the past is to discover the future|08-01-1987|66574 East Virgin Islands, U.S. Ct.|Frazier
+42|To study the past is to discover the future|20-01-1975|33283 East Iceland Ave.|Graves
+36|To study the past is to discover the future|04-01-1975|50805 North Montserrat Ct.|Mccoy
+40|To study the past is to discover the future|11-08-1977|80982 West Boulder Junction Ave.|Hoffman
+36|To study the past is to discover the future|30-12-1977|82300 North Virgin Islands, British Ln.|Haney
+50|To study the past is to discover the future|16-05-1973|72669  Solomon Islands Ct.|Riggs
+35|To study the past is to discover the future|10-09-1983|83867  Venezuela Ave.|Rosales
+36|To study the past is to discover the future|04-11-1974|74780 East South Georgia and The South Sandwich Islands St.|Rhodes
+31|To study the past is to discover the future|08-01-1974|34808  Burundi Ct.|Leon
+45|To study the past is to discover the future|10-07-1975|61003 East Lakewood Way|Maynard
+23|To study the past is to discover the future|23-11-1986|74326 East Ecuador Ave.|Kelley
+14|To study the past is to discover the future|10-07-1978|67548 North Brunei Darussalam Ave.|Ramirez
+20|To study the past is to discover the future|28-10-1978|87143 South Korea Ave.|Sanford
+30|To study the past is to discover the future|04-02-1977|98733 North Bouvet Island Way|Robertson
+45|To study the past is to discover the future|05-07-1985|76299  Mali Ct.|Yang
+39|To study the past is to discover the future|26-05-1977|37971 East Luxembourg Blvd.|Cooley
+48|To study the past is to discover the future|19-01-1970|50000 South Brazil Way|Hayes
+19|To study the past is to discover the future|24-10-1973|28798  British Indian Ocean Territory St.|Henry
+14|To study the past is to discover the future|01-07-1988|54505  Cape Verde Ln.|Mann
+16|To study the past is to discover the future|12-08-1981|3224 South Bossier City Ave.|Velasquez
+17|To study the past is to discover the future|19-12-1975|69298 East Bermuda Blvd.|Walters
+33|To study the past is to discover the future|28-06-1982|37444  Nepal Ct.|Mays
+9|To study the past is to discover the future|04-01-1980|93454 West Brigham City Ln.|Harrington
+29|To study the past is to discover the future|10-08-1977|14003 West Liberia Blvd.|Yang
+7|To study the past is to discover the future|06-12-1984|90294 North Comoros Ave.|Morales
+19|To study the past is to discover the future|08-02-1971|24251  Antigua and Barbuda Way|Sears
+25|To study the past is to discover the future|18-05-1972|45792 West Greenville St.|Donovan
+11|To study the past is to discover the future|07-11-1979|82369  Glendora Ct.|Powell
+49|To study the past is to discover the future|18-12-1975|63940 East Fiji Ave.|David
+17|To study the past is to discover the future|14-09-1981|67046 North Philippines Ave.|Trujillo
+27|To study the past is to discover the future|31-12-1971|78416 South Australia Ct.|Austin
+22|To study the past is to discover the future|18-10-1972|96953 West Cape Verde Way|Mcdowell
+13|To study the past is to discover the future|31-08-1972|66739 South Costa Rica Blvd.|Bolton
+18|To study the past is to discover the future|09-11-1973|73763 West San Marino Ln.|Hawkins
+36|To study the past is to discover the future|08-09-1974|69446 North Beaumont Way|Reeves
+11|To study the past is to discover the future|25-01-1987|70282 West Costa Rica Blvd.|Brennan
+46|To study the past is to discover the future|27-06-1987|75818 South Guam Blvd.|Medina
+48|To study the past is to discover the future|06-08-1988|34043 East Bethlehem St.|Ochoa
+29|To study the past is to discover the future|18-09-1982|28945 South Kenya Blvd.|Harvey
+15|To study the past is to discover the future|10-09-1988|18848 East Cumberland Ave.|Stout
+28|To study the past is to discover the future|05-08-1979|71140 North Colorado Springs St.|Moon
+42|To study the past is to discover the future|15-07-1985|55153 East Azerbaijan St.|Lopez
+22|To study the past is to discover the future|08-11-1980|65012 East North Tonawanda Ct.|Shaw
+34|To study the past is to discover the future|30-10-1987|26969  Croatia Blvd.|Ingram
+11|To study the past is to discover the future|22-12-1984|6966 North Romania St.|Britt
+18|To study the past is to discover the future|06-11-1986|94550 North El Paso Way|Hays
+49|To study the past is to discover the future|22-04-1987|7005 North Hialeah Ln.|Mccray
+13|To study the past is to discover the future|21-06-1970|96881 South Armenia Ln.|Rivers
+48|To study the past is to discover the future|29-07-1971|86421 West Saint Pierre and Miquelon Ln.|Conley
+17|To study the past is to discover the future|20-05-1989|7939 East Clemson Way|Howard
+37|To study the past is to discover the future|04-03-1979|37635 East Oman Ave.|Eaton
+16|To study the past is to discover the future|07-01-1979|62221  French Southern Territories Ct.|Gonzalez
+8|To study the past is to discover the future|11-02-1984|19649 West Samoa Ave.|Hoover
+39|To study the past is to discover the future|28-11-1972|91432 North Maldives Way|Neal
+24|To study the past is to discover the future|01-08-1970|98332 East Cape Verde St.|Calderon
+42|To study the past is to discover the future|13-05-1983|36511 East Asheville Ln.|Mullins
+7|To study the past is to discover the future|26-04-1979|91432 South Korea Ln.|Delacruz
+43|To study the past is to discover the future|04-11-1971|38272  Bermuda Ln.|Ford
+6|To study the past is to discover the future|06-11-1979|44695 West Senegal Ave.|Byers
+24|To study the past is to discover the future|08-12-1985|22361 South Andorra Way|Knapp
+13|To study the past is to discover the future|09-12-1985|92663 South Malawi St.|Salinas
+19|To study the past is to discover the future|01-06-1979|3666 South New Caledonia Blvd.|Downs
+35|To study the past is to discover the future|26-12-1980|42098 East Auburn Hills Way|Hamilton
+11|To study the past is to discover the future|03-01-1984|41978 North Austria Blvd.|Murray
+33|To study the past is to discover the future|06-05-1980|2376  Bermuda Ave.|Vega
+37|To study the past is to discover the future|03-06-1984|96331 South El Salvador Way|Tyler
+29|To study the past is to discover the future|19-02-1986|7600 East Chula Vista Ct.|Mendez
+31|To study the past is to discover the future|13-05-1981|82359 East Viet Nam Way|Dotson
+47|To study the past is to discover the future|20-09-1972|22091 West Hermitage St.|Burke
+45|To study the past is to discover the future|28-01-1981|26079 North Netherlands St.|Pittman
+33|To study the past is to discover the future|09-11-1980|1469 South Cape Verde Ct.|Crosby
+38|To study the past is to discover the future|22-01-1986|43693  Swaziland Ave.|Newton
+27|To study the past is to discover the future|04-01-1977|41732 South Saudi Arabia Ave.|Bullock
+34|To study the past is to discover the future|27-06-1978|25475  American Samoa Way|Cole
+15|To study the past is to discover the future|21-04-1974|20300 South Bangladesh Ave.|Lang
+45|To study the past is to discover the future|26-02-1986|36314 South United States Ct.|Bradford
+12|To study the past is to discover the future|01-05-1988|66359 West Kuwait Ln.|Woodward
+14|To study the past is to discover the future|10-12-1983|21387 South Brownsville St.|Brown
+32|To study the past is to discover the future|26-07-1971|92592 West Yemen Ct.|Bean
+28|To study the past is to discover the future|13-01-1984|16200 North Egypt Ct.|Alvarez
+37|To study the past is to discover the future|07-03-1976|13387 West Casper Ave.|Pruitt
+32|To study the past is to discover the future|27-03-1979|12243 South Ukraine Ln.|Barr
+8|To study the past is to discover the future|29-09-1987|48414 South Sao Tome and Principe Way|Mccarthy
+31|To study the past is to discover the future|20-05-1978|70398 East Slovakia St.|Woods
+11|To study the past is to discover the future|27-10-1972|80597  Uruguay St.|Bradley
+6|To study the past is to discover the future|24-04-1978|11613 North Austria Ave.|Fitzpatrick
+19|To study the past is to discover the future|31-08-1988|24417 East Charlotte Amalie Blvd.|Holcomb
+40|To study the past is to discover the future|10-06-1971|39247 North Cape Verde Ln.|Hardin
+12|To study the past is to discover the future|29-11-1977|88318 South Belarus Way|Keller
+7|To study the past is to discover the future|22-05-1974|73892 North Anaconda Ave.|Palmer
+39|To study the past is to discover the future|22-11-1979|20256  Seychelles Ct.|Burks
+14|To study the past is to discover the future|18-11-1971|23487 East Ireland Ct.|Hurley
+31|To study the past is to discover the future|05-10-1985|35345 West South Georgia and The South Sandwich Islands Ct.|Gaines
+11|To study the past is to discover the future|25-02-1977|90410  Bulgaria Ave.|Garrett
+49|To study the past is to discover the future|19-12-1977|59159 West Cayman Islands Ave.|Russo
+42|To study the past is to discover the future|13-10-1983|45042 South Hidden Hills St.|Callahan
+16|To study the past is to discover the future|19-08-1971|54036 West Marshall Islands Ct.|Wheeler
+46|To study the past is to discover the future|02-06-1970|14603 East Vanuatu Ct.|Boyer
+45|To study the past is to discover the future|02-06-1980|38156  Papua New Guinea Way|Boyer
+13|To study the past is to discover the future|21-10-1981|82856 South Pitcairn Ln.|Riley
+7|To study the past is to discover the future|07-10-1970|58825 South Slovenia Ct.|Black
+39|To study the past is to discover the future|23-12-1972|1150 West Antarctica Ave.|Deleon
+34|To study the past is to discover the future|14-04-1978|8603 South Cape Verde Ct.|Wade
+36|To study the past is to discover the future|13-09-1988|88175 North Micronesia Way|Burton
+40|To study the past is to discover the future|26-10-1971|36090  United Arab Emirates Way|Padilla
+23|To study the past is to discover the future|05-07-1972|14537 South Antarctica St.|Villarreal
+13|To study the past is to discover the future|31-07-1976|20378 East Lithuania Ct.|Hartman
+14|To study the past is to discover the future|17-07-1975|13604  Oshkosh Ave.|Riggs
+40|To study the past is to discover the future|16-03-1971|26887 South College Park Ln.|Morin
+22|To study the past is to discover the future|26-06-1971|97839 North Libyan Arab Jamahiriya Ln.|Foreman
+36|To study the past is to discover the future|19-08-1986|71434 East Cayman Islands St.|Marks
+28|To study the past is to discover the future|21-09-1975|68285 North Bouvet Island Way|Wallace
+13|To study the past is to discover the future|03-05-1986|23529  Brunei Darussalam Ct.|Rocha
+12|To study the past is to discover the future|26-02-1989|14543 West Lebanon Blvd.|Melendez
+13|To study the past is to discover the future|28-02-1980|94955 North El Monte Ln.|Jordan
+38|To study the past is to discover the future|14-07-1986|80908  Zimbabwe Way|Donaldson
+17|To study the past is to discover the future|23-03-1987|94431  Bouvet Island St.|Small
+11|To study the past is to discover the future|26-10-1988|15042 West Gilette Ln.|Vang
+49|To study the past is to discover the future|06-12-1989|31074 South Senegal Ln.|Garcia
+11|To study the past is to discover the future|21-07-1979|41978 West Sudan Blvd.|Martin
+14|To study the past is to discover the future|31-10-1988|24404 East Belarus St.|Harding
+42|To study the past is to discover the future|23-03-1981|21274 North Burbank Ln.|Estrada
+20|To study the past is to discover the future|22-07-1977|76513 West Hialeah Ave.|Berger
+17|To study the past is to discover the future|04-05-1981|21264 South Canada Ln.|Delacruz
+9|To study the past is to discover the future|03-06-1980|97522 East Lebanon Blvd.|Noble
+44|To study the past is to discover the future|04-08-1982|78531 East Algeria St.|Molina
+45|To study the past is to discover the future|11-09-1983|33297 East Fort Smith Way|Fields
+19|To study the past is to discover the future|30-10-1980|91906 East Macao Way|Serrano
+31|To study the past is to discover the future|11-11-1974|73582 South Carbondale Blvd.|Rice
+6|To study the past is to discover the future|29-06-1984|21682 East Bend Ave.|Perez
+10|To study the past is to discover the future|16-04-1978|12784 East Sudan Ct.|Benson
+39|To study the past is to discover the future|23-06-1971|79088 West Reunion Ave.|Galloway
+17|To study the past is to discover the future|11-01-1989|62960  Japan Ave.|Page
+44|To study the past is to discover the future|11-02-1985|53658 South Lowell Ln.|Hernandez
+15|To study the past is to discover the future|20-10-1985|86265 North Hastings Blvd.|Bauer
+7|To study the past is to discover the future|19-01-1971|67052 East Congo Ln.|Erickson
+48|To study the past is to discover the future|09-11-1989|47909  Half Moon Bay Ln.|Melendez
+29|To study the past is to discover the future|23-08-1976|29129 East Afghanistan Way|Stephens
+5|To study the past is to discover the future|09-12-1988|29140 West Anguilla Blvd.|Dalton
+6|To study the past is to discover the future|16-06-1986|26624 West Lincoln Way|Norman
+8|To study the past is to discover the future|20-12-1971|18664 West Clarksville Ct.|Bauer
+24|To study the past is to discover the future|22-06-1970|61360 North Virgin Islands, British Ln.|Francis
+32|To study the past is to discover the future|11-09-1986|3096 South Maldives St.|Woodward
+18|To study the past is to discover the future|30-06-1982|685 South Saint Helena Way|Roman
+50|To study the past is to discover the future|04-05-1982|5567  French Polynesia Way|Valencia
+40|To study the past is to discover the future|27-01-1976|68520 South Afghanistan Blvd.|Kramer
+29|To study the past is to discover the future|23-12-1981|36941  Ansonia Ln.|Hoover
+44|To study the past is to discover the future|05-10-1982|27733 North Homer Ave.|Stuart
+38|To study the past is to discover the future|09-04-1989|64775  Central African Republic Ave.|Hudson
+41|To study the past is to discover the future|01-03-1979|65020 North Gaithersburg Blvd.|Witt
+22|To study the past is to discover the future|12-04-1983|10362 West Farmington Blvd.|Jones
+34|To study the past is to discover the future|08-01-1983|51521  Pitcairn St.|Sloan
+31|To study the past is to discover the future|13-08-1980|93895 South Heard Island and Mcdonald Islands Ave.|Cooke
+33|To study the past is to discover the future|08-12-1979|48786 North Auburn Ct.|Reeves
+39|To study the past is to discover the future|28-12-1970|32507 North Geneva St.|Calhoun
+16|To study the past is to discover the future|26-02-1971|32308 North China Blvd.|Downs
+34|To study the past is to discover the future|20-08-1979|18606  Equatorial Guinea Blvd.|Shelton
+21|To study the past is to discover the future|16-12-1981|445 East Belgium Blvd.|Alford
+39|To study the past is to discover the future|10-11-1980|36509  Easton St.|Peterson
+17|To study the past is to discover the future|04-09-1986|91017 West Philippines Way|Schultz
+33|To study the past is to discover the future|26-04-1980|10616 North Argentina Ln.|Oneal
+30|To study the past is to discover the future|15-09-1987|67231  Branson Ave.|Irwin
+18|To study the past is to discover the future|10-02-1984|33702  Cocos (Keeling) Islands Blvd.|West
+19|To study the past is to discover the future|07-12-1980|10011 East Italy Ave.|Burns
+14|To study the past is to discover the future|05-12-1976|17662 North Ann Arbor Blvd.|Rosa
+24|To study the past is to discover the future|19-01-1979|77670 North Burundi Ave.|Robertson
+27|To study the past is to discover the future|10-12-1984|93450 East Barbados Way|Mckinney
+47|To study the past is to discover the future|03-03-1971|11426 East Egg Harbor Way|Herman
+39|To study the past is to discover the future|22-04-1987|53697 West Benin St.|Wright
+38|To study the past is to discover the future|08-11-1971|7460 West Portugal Ct.|Mccarty
+40|To study the past is to discover the future|29-06-1985|40078 North Ghana St.|Riley
+38|To study the past is to discover the future|02-09-1976|11462 South Portugal Ave.|Martinez
+38|To study the past is to discover the future|07-06-1984|40855 East Belgium Blvd.|Lindsey
+15|To study the past is to discover the future|06-04-1974|55377  Montserrat Ave.|Estrada
+43|To study the past is to discover the future|17-06-1987|65976 West Corry Ln.|Byrd
+37|To study the past is to discover the future|10-05-1978|82643 East Brookings Ct.|Hanson
+27|To study the past is to discover the future|06-03-1979|71011 West Charlotte Amalie Ct.|Stewart
+16|To study the past is to discover the future|27-05-1980|99702 North Newburgh Way|Bullock
+38|To study the past is to discover the future|18-08-1971|57770  Niger Blvd.|Wilder
+39|To study the past is to discover the future|24-10-1977|39633  Saint Pierre and Miquelon Blvd.|Yang
+37|To study the past is to discover the future|03-08-1984|83061 West Artesia Way|Tillman
+32|To study the past is to discover the future|02-01-1971|41658 West Gold Beach Ln.|Cobb
+22|To study the past is to discover the future|23-06-1979|76751 East Saint Vincent and The Grenadines Blvd.|Thomas
+23|To study the past is to discover the future|09-02-1973|32299 South Lithuania Ct.|Flynn
+5|To study the past is to discover the future|20-04-1989|2282 East Ephraim Blvd.|Wong
+15|To study the past is to discover the future|12-11-1981|59763 West Spain Ave.|Nixon
+14|To study the past is to discover the future|30-07-1973|76511 East Oman Ln.|Raymond
+8|To study the past is to discover the future|11-06-1977|53823  Bradbury Ave.|Lloyd
+36|To study the past is to discover the future|14-04-1971|46211 South Austria Ct.|Merrill
+26|To study the past is to discover the future|15-08-1988|43878  Bhutan Ave.|Poole
+40|To study the past is to discover the future|13-08-1982|15459 North Central African Republic Ln.|Curtis
+14|To study the past is to discover the future|03-02-1984|62864  Switzerland Ct.|Torres
+5|To study the past is to discover the future|30-03-1981|48708 North Anaheim Ct.|Payne
+12|To study the past is to discover the future|12-09-1981|19765 South Barbados Way|Mason
+23|To study the past is to discover the future|26-03-1985|35276 East South Georgia and The South Sandwich Islands Ave.|Wells
+39|To study the past is to discover the future|30-07-1987|33921 North Armenia Way|Weber
+36|To study the past is to discover the future|15-04-1987|7654 North Spain Blvd.|Solomon
+26|To study the past is to discover the future|23-04-1984|44505 South Guinea-bissau Blvd.|Trujillo
+23|To study the past is to discover the future|23-04-1984|39897 North Mayotte Ct.|Wilkins
+43|To study the past is to discover the future|27-07-1979|34818  Bahamas Ave.|Bailey
+10|To study the past is to discover the future|21-09-1970|57712 West Suriname Way|Bender
+32|To study the past is to discover the future|05-05-1988|42324  Fairmont Ln.|Robles
+40|To study the past is to discover the future|15-08-1976|19778 East Zambia Ln.|Manning
+41|To study the past is to discover the future|15-03-1974|83881 North Poland St.|Thomas
+21|To study the past is to discover the future|08-07-1985|81361  British Indian Ocean Territory Blvd.|Torres
+12|To study the past is to discover the future|14-04-1989|80268 North Costa Rica Way|Valenzuela
+47|To study the past is to discover the future|01-02-1989|53753 North Seychelles St.|Terrell
+32|To study the past is to discover the future|14-04-1985|19807 South Western Sahara Ln.|Duncan
+42|To study the past is to discover the future|16-12-1985|53767 West Gibraltar Way|Rowland
+21|To study the past is to discover the future|20-07-1981|59860 North Fort Wayne Ln.|Rush
+15|To study the past is to discover the future|04-06-1978|31728 North Palo Alto Ave.|Odom
+12|To study the past is to discover the future|04-04-1979|8325 North Gettysburg St.|Abbott
+33|To study the past is to discover the future|17-11-1976|1218 South Belgium Ln.|Patel
+28|To study the past is to discover the future|05-06-1982|40354 South Azerbaijan Ct.|Ross
+30|To study the past is to discover the future|04-09-1979|8156  Lesotho St.|Baldwin
+47|To study the past is to discover the future|14-01-1980|34830  Brunei Darussalam Ct.|Hoffman
+39|To study the past is to discover the future|15-07-1973|57782 East Corvallis Way|Harris
+25|To study the past is to discover the future|14-04-1986|69708 South Samoa Blvd.|Jefferson
+38|To study the past is to discover the future|08-08-1983|10118 North Morocco Blvd.|Tyler
+16|To study the past is to discover the future|13-05-1976|92555 East Congo Blvd.|Marsh
+14|To study the past is to discover the future|06-07-1974|12549 North Paraguay Ct.|Mack
+41|To study the past is to discover the future|23-03-1970|6271 North Mozambique Ave.|Griffin
+29|To study the past is to discover the future|28-06-1985|26236 West Colombia Blvd.|Cohen
+49|To study the past is to discover the future|22-11-1988|643 West Trinidad and Tobago Way|Mathis
+7|To study the past is to discover the future|28-07-1986|97546 North Fort Dodge Blvd.|Miranda
+47|To study the past is to discover the future|09-02-1984|19925 West Spain Ln.|Mcdowell
+32|To study the past is to discover the future|08-06-1987|64190 North Brazil Ln.|Hayes
+46|To study the past is to discover the future|19-10-1984|87797 East Cruz Bay St.|Frye
+22|To study the past is to discover the future|30-08-1984|20707 South Hope St.|Osborne
+42|To study the past is to discover the future|15-03-1981|34531 West Italy Blvd.|Mclaughlin
+47|To study the past is to discover the future|19-12-1971|1851 North Aliquippa St.|Little
+47|To study the past is to discover the future|03-11-1986|1663 North Cocos (Keeling) Islands Way|Richard
+49|To study the past is to discover the future|02-04-1971|61280 West Montebello St.|Langley
+19|To study the past is to discover the future|12-10-1974|10623 South Cambodia Way|Reynolds
+18|To study the past is to discover the future|21-03-1971|25514 East Papua New Guinea Ct.|Clayton
+30|To study the past is to discover the future|16-07-1983|85469 West Farmer City Way|Rowland
+32|To study the past is to discover the future|05-09-1972|84955 South Botswana Ct.|Lancaster
+41|To study the past is to discover the future|05-06-1975|89293 West British Indian Ocean Territory Way|Leon
+36|To study the past is to discover the future|27-01-1975|33239 North Colombia Ave.|Peck
+15|To study the past is to discover the future|03-05-1978|13162 North Togo Way|Holcomb
