@@ -1,500 +1,500 @@
-Japanese food|200.17|Luxury|Wright|87436 North Cerritos Way
-Japanese food|289.17|Super luxury|Mack|75181  Comoros Ct.
-Japanese food|18.28|Super luxury|Owens|1832 South Arcadia Ave.
-Arabic food|162.54|Master|Floyd|52567 South Switzerland St.
-Brazilian food|129.59|Super luxury|Jenkins|87165 East Japan Ln.
-Japanese food|240.27|Luxury|Bates|72805 South Greece Ct.
-Chinese food|191.36|Master|Manning|18036  Djibouti Ct.
-Japanese food|117.40|Luxury|Pacheco|27017 West Culver City Ln.
-Chinese food|133.35|Master|Dalton|26564 North Azerbaijan Way
-Arabic food|76.26|Luxury|Callahan|6809 North Costa Rica Ln.
-Brazilian food|32.44|Intermediary|Davis|52557 North Georgia Ct.
-Japanese food|68.27|Simple|Massey|82075 South Philippines Ln.
-Arabic food|225.21|Super luxury|Hood|26790 West El Salvador Way
-Italian food|156.76|Intermediary|Espinoza|71222 North Congo Ln.
-Arabic food|204.55|Intermediary|Curtis|20814 West Kazakhstan Ct.
-Chinese food|276.55|Luxury|Gibson|41075 North Chico Way
-Brazilian food|97.63|Simple|Hooper|37313  Austria Ct.
-Brazilian food|157.42|Master|Ayers|50631 North American Samoa Ave.
-Italian food|97.04|Intermediary|Holmes|19324 North Cameroon Ln.
-Italian food|271.84|Master|Estrada|53751 East Oman Ct.
-Chinese food|134.56|Master|Cervantes|46063 North Tanzania, United Republic of Ave.
-Chinese food|294.54|Simple|Booker|48409  Taiwan, Province of China Ave.
-Arabic food|12.84|Luxury|Burris|52168 South Japan Ct.
-Japanese food|138.55|Simple|Perry|93261 West Taiwan, Province of China Ln.
-Chinese food|109.61|Simple|Parks|71168 East Singapore Ln.
-Arabic food|56.99|Super luxury|Moss|76927 North Bangladesh Ct.
-Arabic food|274.47|Super luxury|Hansen|72866 South Denmark Ct.
-Brazilian food|190.34|Intermediary|Watkins|20510 East Guinea St.
-Italian food|240.85|Simple|Klein|29193 West Blacksburg St.
-Chinese food|147.39|Simple|Blankenship|59367 South Brazil Way
-Chinese food|205.47|Luxury|Francis|52405 North Mozambique Ct.
-Japanese food|181.69|Simple|Rowland|2741 West Saint Lucia St.
-Japanese food|214.57|Master|Chang|24341 West Micronesia Ln.
-Italian food|169.72|Super luxury|Glover|17671  Azusa Blvd.
-Japanese food|243.86|Luxury|Becker|19486 North Odessa Way
-Japanese food|11.92|Intermediary|Alston|2725 North Falkland Islands (Malvinas) Ct.
-Italian food|138.78|Super luxury|Elliott|68874  Cambodia Way
-Chinese food|227.47|Intermediary|Wallace|53252 East Bulgaria Ln.
-Japanese food|27.41|Super luxury|Benson|10880 South Afghanistan St.
-Japanese food|160.25|Super luxury|Merritt|80601  Kyrgyzstan Way
-Brazilian food|140.68|Simple|Tyler|23979 West Japan Ave.
-Brazilian food|217.28|Luxury|Peck|15185 East Cocos (Keeling) Islands Ct.
-Italian food|155.29|Super luxury|Sexton|9595 South Germany Way
-Arabic food|41.70|Master|Mccoy|7839 East Bolivia St.
-Italian food|171.73|Luxury|Phelps|85463 West Lesotho Blvd.
-Italian food|139.06|Luxury|Spence|83208  British Indian Ocean Territory Blvd.
-Arabic food|142.18|Super luxury|Wynn|60734 East Palestinian Territory, Occupied Blvd.
-Arabic food|220.00|Simple|Cherry|28402 South United Arab Emirates Way
-Brazilian food|152.18|Intermediary|Berry|18484 South Georgetown St.
-Chinese food|106.95|Super luxury|Mcintosh|77842 South Beacon Blvd.
-Chinese food|218.06|Intermediary|Byers|33978 South Dickinson Ct.
-Italian food|255.63|Luxury|Dalton|1082 East Aruba St.
-Japanese food|282.11|Luxury|Collins|39006  Aruba Ct.
-Japanese food|122.18|Super luxury|Snyder|61012 West Spain Ln.
-Arabic food|278.95|Simple|Holt|88301  Bolivia Blvd.
-Japanese food|14.43|Luxury|Rodriguez|86904 North Benin Ct.
-Italian food|78.21|Master|West|56725 West New Castle Ln.
-Italian food|85.03|Master|Ingram|73687 South Albuquerque Way
-Arabic food|107.09|Luxury|Davis|62338 East Honduras St.
-Brazilian food|286.61|Simple|Justice|37318 South Virgin Islands, British St.
-Italian food|221.47|Super luxury|Peterson|90738  Equatorial Guinea Ct.
-Chinese food|105.02|Super luxury|Woods|44905 East Cameroon Ct.
-Brazilian food|241.75|Super luxury|Anthony|22403  Albania Way
-Italian food|29.09|Intermediary|Shannon|74073 South Bahrain Ave.
-Arabic food|11.00|Master|Ortiz|5293 North Anderson St.
-Arabic food|55.20|Intermediary|Mccoy|82911 West Angola Ave.
-Brazilian food|276.35|Simple|Lindsey|79727 North Chula Vista Blvd.
-Brazilian food|45.62|Master|Herman|42786  United Arab Emirates St.
-Arabic food|45.17|Master|Gentry|21634 West Namibia Blvd.
-Japanese food|76.11|Master|Franks|80466 North Myanmar Ct.
-Brazilian food|204.88|Simple|Ramirez|348 South Pomona Ln.
-Arabic food|151.78|Luxury|Wilkerson|2115 East Cairo Way
-Italian food|22.02|Intermediary|Terrell|41258 East Dodge City St.
-Arabic food|289.51|Super luxury|Fitzgerald|91811 South Fiji Ln.
-Chinese food|215.29|Luxury|Mcbride|97423 East Burundi Way
-Japanese food|196.30|Master|Frost|23959 East Falkland Islands (Malvinas) Ln.
-Italian food|111.44|Simple|Mays|4532 North Botswana Ln.
-Italian food|279.72|Super luxury|Parsons|41503 East Farrell St.
-Italian food|226.53|Luxury|Steele|4314 South Yemen Blvd.
-Arabic food|207.12|Super luxury|Clark|55106  Bangladesh St.
-Brazilian food|277.72|Luxury|Franco|30019 South Hungary Ln.
-Japanese food|274.86|Super luxury|Moore|65709 South Deadwood Ct.
-Arabic food|247.39|Intermediary|Winters|32746 North Hannibal Ln.
-Chinese food|146.50|Super luxury|Mcneil|23649 South Finland Ln.
-Italian food|285.80|Super luxury|Browning|44976 North Manassas Park Blvd.
-Brazilian food|204.02|Master|Burgess|86694  Japan Ave.
-Chinese food|87.96|Luxury|Little|77783 East Fiji Ave.
-Italian food|253.51|Luxury|Casey|9864 East North Tonawanda St.
-Japanese food|137.76|Simple|Morton|32927 West Saudi Arabia Ln.
-Japanese food|216.09|Simple|Shannon|24643 South Cumberland Ct.
-Italian food|139.81|Luxury|Fulton|16606  Belize Blvd.
-Brazilian food|259.44|Luxury|Cortez|16845 East Newcastle Way
-Brazilian food|178.34|Master|Vasquez|72783  Hampton Ln.
-Japanese food|215.92|Master|Finley|90509 South East Hartford Way
-Brazilian food|139.17|Simple|Mcmillan|11813 West Venezuela Ln.
-Chinese food|117.83|Super luxury|Mason|18905 East Nepal Ave.
-Brazilian food|67.12|Simple|Melton|77905 East Glens Falls Blvd.
-Brazilian food|103.60|Intermediary|Hess|65689 North Uruguay Way
-Chinese food|268.14|Luxury|Mercer|18973  Falkland Islands (Malvinas) Ct.
-Japanese food|243.88|Intermediary|Burns|34817  Antigua and Barbuda Way
-Italian food|63.26|Intermediary|Meadows|81446 East Nepal St.
-Japanese food|118.40|Simple|Clark|143 South Berlin Ct.
-Japanese food|184.88|Intermediary|Lee|73785 North Jordan Ave.
-Italian food|86.88|Luxury|Graves|23977 South Antarctica Blvd.
-Japanese food|162.23|Simple|Sharpe|6993 West Duncan Way
-Brazilian food|195.08|Super luxury|Reid|39447 North Afghanistan Ln.
-Italian food|100.97|Super luxury|Farmer|84951 North Gettysburg Ct.
-Italian food|181.53|Simple|Cline|29590  Pasco Way
-Italian food|88.19|Super luxury|Davis|56405 North Cook Islands Ct.
-Japanese food|16.20|Super luxury|Gilliam|15769  Frisco Ave.
-Italian food|107.14|Simple|Haynes|44510  Bermuda Ln.
-Italian food|29.85|Master|Jefferson|91365  Eritrea Ave.
-Brazilian food|264.52|Super luxury|Cross|84489 West Suriname St.
-Brazilian food|43.90|Master|Higgins|88860  Burbank Ln.
-Italian food|119.79|Luxury|Knowles|99079 South Fairmont Ct.
-Brazilian food|226.13|Super luxury|Benjamin|11150 South Algeria St.
-Italian food|72.81|Master|Kelly|45741 East Saint Pierre and Miquelon Way
-Brazilian food|196.35|Super luxury|Crawford|24723 West Georgia St.
-Japanese food|44.50|Master|Pace|30137 West Barbados Ln.
-Arabic food|208.62|Super luxury|Hurley|45001 East Fresno Ave.
-Japanese food|284.71|Intermediary|Brewer|17523 West French Polynesia St.
-Arabic food|219.57|Master|Keith|83302 East Burundi Ln.
-Arabic food|251.49|Super luxury|Travis|44824 North Chile Way
-Japanese food|127.19|Intermediary|Greene|19561 East Camden Ln.
-Chinese food|159.83|Super luxury|Reyes|38185 North Jordan Valley Blvd.
-Italian food|154.10|Simple|Sherman|3528 South Belgium Ct.
-Arabic food|56.61|Simple|Rowe|69642  Concord Blvd.
-Arabic food|173.25|Super luxury|Santana|63978 East Georgia Way
-Japanese food|87.42|Intermediary|Herrera|86373  Mongolia Ave.
-Brazilian food|296.17|Super luxury|Summers|57178 South Chad Ave.
-Arabic food|228.62|Simple|Randall|58641 East Bessemer Ln.
-Arabic food|38.30|Simple|Bruce|82360 East China Ln.
-Brazilian food|127.54|Luxury|Glass|69248 West Bolivia Ln.
-Chinese food|207.55|Simple|Gordon|6233  Moline Ave.
-Italian food|12.66|Luxury|Hawkins|60312 West Kuwait Way
-Chinese food|155.72|Intermediary|Glenn|47048 North Samoa St.
-Chinese food|54.88|Super luxury|Robbins|41885 South Guadeloupe St.
-Italian food|12.42|Luxury|Shepherd|42684 West Qatar St.
-Chinese food|22.16|Luxury|Davenport|34139 North Chad St.
-Arabic food|250.86|Super luxury|Faulkner|60843 North Guam Ct.
-Chinese food|24.89|Super luxury|Aguilar|29296 South Korea, Republic of Ave.
-Chinese food|42.27|Luxury|May|59641 West Dallas Ave.
-Japanese food|183.72|Simple|Burnett|18826  Tanzania, United Republic of St.
-Italian food|197.65|Luxury|Chaney|16147 North Norfolk Island Ln.
-Chinese food|216.89|Simple|Macias|76186 West Dover Blvd.
-Japanese food|263.92|Luxury|Wells|36174 West Mongolia Ct.
-Japanese food|121.67|Simple|Scott|59233 North Hayward Way
-Arabic food|80.56|Simple|Benton|96162  Fairfield Ave.
-Japanese food|78.68|Intermediary|Carney|16137 West Bolivia Ave.
-Italian food|227.43|Simple|Oconnor|36276 East Hoover Ct.
-Brazilian food|34.10|Super luxury|Woodward|56539 North Croatia St.
-Chinese food|111.20|Super luxury|Myers|22202 South Gadsden Ct.
-Arabic food|155.29|Intermediary|Carey|98499 West Ireland St.
-Arabic food|247.89|Intermediary|Woodward|62837 West Bolivia Ln.
-Italian food|63.66|Super luxury|Farley|66984 North India Way
-Brazilian food|227.00|Simple|Cash|44152 East Austria Ln.
-Japanese food|118.48|Intermediary|Rutledge|10443  Denver Way
-Brazilian food|209.11|Intermediary|Bird|87346 East Dominica Ln.
-Italian food|79.93|Master|Harrell|66876 North Heard Island and Mcdonald Islands Blvd.
-Brazilian food|19.09|Master|Gill|20513 West Knoxville Ct.
-Italian food|158.74|Simple|Thomas|83567  Independence Way
-Brazilian food|148.93|Super luxury|Hester|55466 East Micronesia St.
-Italian food|28.50|Luxury|Mayo|21104 North Biloxi St.
-Brazilian food|232.73|Intermediary|Hebert|60890 East Bhutan Ct.
-Chinese food|44.74|Master|Burgess|3353 South Tokelau Ave.
-Japanese food|212.90|Super luxury|Decker|25113 North Uzbekistan St.
-Italian food|122.22|Simple|Shannon|95372 West Mauritania St.
-Arabic food|34.14|Intermediary|Colon|85269 West Iowa City Way
-Arabic food|284.31|Super luxury|Becker|63175 West Afghanistan Ave.
-Chinese food|248.21|Master|Hendricks|60742  New Caledonia Blvd.
-Japanese food|108.54|Luxury|Barber|89966 East Ponce Ln.
-Brazilian food|130.98|Intermediary|Sosa|5276 East Maldives Ln.
-Italian food|202.83|Simple|Ruiz|1854  Angola Blvd.
-Brazilian food|42.87|Simple|Emerson|4336 East Botswana Blvd.
-Chinese food|266.51|Master|Garner|13471 North Cocos (Keeling) Islands Ave.
-Brazilian food|194.79|Luxury|Stevens|30455 South Heard Island and Mcdonald Islands Way
-Japanese food|70.97|Luxury|Rosales|66625  United Arab Emirates Ct.
-Chinese food|281.18|Luxury|Turner|93366 North Joliet Ct.
-Italian food|180.05|Luxury|Merritt|27695 West Flint Way
-Japanese food|263.30|Intermediary|Harrell|42170 South Martinique Blvd.
-Italian food|28.73|Master|Maddox|20914 South Botswana St.
-Chinese food|35.33|Intermediary|Berry|78665 West Greenfield St.
-Chinese food|26.75|Luxury|Odom|70313  Luxembourg St.
-Chinese food|51.71|Simple|Juarez|87280  Alexandria St.
-Chinese food|147.89|Master|Woods|71757 North Barbados Ct.
-Italian food|262.77|Simple|Byrd|74289 East Claremore Ave.
-Japanese food|124.73|Simple|Sampson|83725 West Guinea St.
-Brazilian food|177.00|Luxury|Smith|62191 West Ansonia St.
-Brazilian food|291.24|Luxury|Bryan|48046 North Belgium Blvd.
-Italian food|290.63|Super luxury|Bell|37171 East Bermuda St.
-Brazilian food|101.87|Intermediary|Conrad|86778  Philippines Blvd.
-Italian food|123.25|Super luxury|Savage|78925 East Brazil Ave.
-Arabic food|242.97|Super luxury|Casey|58684 East Malaysia Way
-Japanese food|277.91|Intermediary|Knox|5152  Lebanon Blvd.
-Arabic food|37.25|Luxury|Ochoa|3283 West Cuba Way
-Brazilian food|131.35|Luxury|Pugh|38437 East Botswana Way
-Arabic food|93.86|Super luxury|Kirkland|70610 South Bolivia Ln.
-Arabic food|291.74|Master|Palmer|85907 East Algeria Ct.
-Japanese food|128.84|Master|Stanley|76951 West Mongolia Ct.
-Japanese food|251.91|Luxury|Mathis|25977 North Peekskill Way
-Chinese food|161.85|Simple|Pena|34260  Malaysia Ave.
-Arabic food|30.86|Luxury|Castaneda|62149  Aspen Ct.
-Arabic food|62.59|Luxury|Navarro|99983 West Belarus Blvd.
-Brazilian food|90.89|Intermediary|Washington|67601 North Oak Ridge Blvd.
-Brazilian food|125.33|Master|Gaines|43979 East Vanuatu Way
-Arabic food|229.25|Simple|Becker|21627 South Niger St.
-Japanese food|206.50|Simple|Zamora|84971 East Barbados Way
-Japanese food|223.62|Luxury|Riddle|17259 North Comoros Way
-Chinese food|258.10|Intermediary|Blake|5360 West New Zealand Ln.
-Chinese food|118.63|Luxury|Espinoza|21305 West Tajikistan Ln.
-Brazilian food|233.93|Intermediary|Terrell|46619 North Aruba Blvd.
-Arabic food|90.20|Intermediary|Humphrey|37858 West Lakeland Ave.
-Brazilian food|154.48|Luxury|Ellison|95297  Grenada St.
-Brazilian food|137.81|Super luxury|Nicholson|88735  Togo Ave.
-Brazilian food|149.09|Simple|Lambert|54399  Slovenia St.
-Italian food|179.35|Super luxury|Acevedo|70177 West Florence St.
-Japanese food|64.85|Intermediary|Jacobs|15895 South Iraq Ave.
-Italian food|220.63|Intermediary|Cash|54044  Pitcairn Ln.
-Arabic food|53.59|Simple|Cote|9735 East Irving Ave.
-Italian food|203.51|Simple|Blevins|71314  Buena Park Ave.
-Italian food|41.63|Simple|Oliver|85515 South Western Sahara Way
-Italian food|153.16|Super luxury|Whitehead|70058 East Gulfport St.
-Chinese food|157.03|Super luxury|Stark|30815  Congo Blvd.
-Japanese food|215.36|Simple|Hunter|65344 South Brownsville Ct.
-Japanese food|84.56|Super luxury|Sparks|86385 West Saint Helena Blvd.
-Japanese food|195.54|Super luxury|Dorsey|24502 South Fairfield Ave.
-Chinese food|48.97|Super luxury|Rios|97507 West East Hartford Ave.
-Brazilian food|220.41|Super luxury|Ware|80332 South Biddeford Blvd.
-Japanese food|227.47|Super luxury|Contreras|39220 East Cocos (Keeling) Islands St.
-Italian food|194.42|Super luxury|Pate|13072 East Cocos (Keeling) Islands Ct.
-Japanese food|201.00|Luxury|Ashley|33596  South Georgia and The South Sandwich Islands Way
-Arabic food|110.27|Master|Stephenson|80579 West Bulgaria Blvd.
-Arabic food|228.80|Super luxury|Hendrix|49211 East Carbondale Way
-Arabic food|113.75|Simple|Noble|86845 West Montserrat Blvd.
-Arabic food|151.98|Intermediary|Green|92989 North Bahamas Ln.
-Italian food|123.84|Super luxury|Mann|41010 North Spain Ln.
-Chinese food|237.61|Luxury|Mccray|13202  Fountain Valley Ln.
-Japanese food|241.89|Simple|Boyle|19416 South Burundi Ave.
-Japanese food|17.69|Master|Sweeney|28753 South Syrian Arab Republic Blvd.
-Arabic food|104.22|Luxury|Horton|48962 South Chicago Way
-Italian food|85.73|Master|Bolton|97194 North Uruguay Ave.
-Italian food|182.58|Super luxury|Rhodes|85057 North Eden Prairie St.
-Chinese food|156.01|Master|Schroeder|63769  South Africa Way
-Chinese food|153.11|Super luxury|Parks|41093 North Biddeford St.
-Arabic food|245.65|Luxury|Kelley|14760 East Suriname Ln.
-Chinese food|242.32|Super luxury|Lee|74235 West Canada Blvd.
-Japanese food|266.42|Intermediary|Robertson|25459 South Chicago Blvd.
-Brazilian food|137.63|Luxury|Dodson|71064 South Lock Haven Blvd.
-Japanese food|179.41|Simple|Mccormick|19070 West Eritrea Ct.
-Arabic food|184.29|Luxury|Mclean|51509 West Ogden Ln.
-Arabic food|15.15|Simple|Walters|31933 South Estonia Ct.
-Brazilian food|198.69|Master|Pearson|23196 North Hungary Way
-Italian food|125.33|Master|Riddle|84727 South Saint Kitts and Nevis Ln.
-Japanese food|71.66|Simple|Donaldson|23933 East Asheville Ln.
-Japanese food|168.77|Master|Brock|47098 North El Segundo Blvd.
-Italian food|143.05|Master|Carroll|4451 West Edmond Way
-Japanese food|297.99|Intermediary|Blair|31223 South Chad Ln.
-Arabic food|239.73|Intermediary|Lyons|42025 East Binghamton Ln.
-Italian food|189.64|Super luxury|Santiago|51783 East India Ln.
-Japanese food|223.81|Simple|Baxter|64386 West Enid Blvd.
-Arabic food|256.72|Luxury|Rose|38755  Bay St. Louis Ct.
-Chinese food|21.36|Intermediary|Becker|27967 West Bangladesh St.
-Arabic food|111.13|Super luxury|Allen|19041 West Haiti Blvd.
-Arabic food|294.10|Intermediary|Parks|32719  French Guiana Way
-Chinese food|84.69|Luxury|Roy|78029 South Haverhill Ct.
-Japanese food|105.93|Simple|Duran|87291 West Antigua and Barbuda St.
-Japanese food|155.48|Simple|Bernard|90920  Armenia Ct.
-Japanese food|35.80|Master|Patterson|36057 South Bowie Way
-Arabic food|201.90|Intermediary|Beard|75502 North Yemen Ave.
-Chinese food|128.97|Master|Todd|61882 West Palau Ln.
-Arabic food|196.91|Master|Washington|9706 East Iran, Islamic Republic of Ct.
-Arabic food|255.80|Luxury|Valencia|97704 West Huntington Beach Ct.
-Italian food|164.61|Master|Martinez|89698 West Turkey Blvd.
-Brazilian food|72.48|Super luxury|Mcpherson|26911 West Brunei Darussalam Ave.
-Brazilian food|132.66|Luxury|Bullock|29707 West Tuvalu Ave.
-Arabic food|40.33|Intermediary|Brennan|58417  Macao Ave.
-Arabic food|31.17|Master|Benjamin|55100 North Chad St.
-Chinese food|171.76|Luxury|Brewer|26188  Tokelau Way
-Arabic food|150.25|Simple|Pugh|49821 North Chester St.
-Chinese food|69.45|Luxury|Nunez|3615 East Laughlin St.
-Brazilian food|25.35|Master|Nielsen|13827  Falkland Islands (Malvinas) Blvd.
-Arabic food|209.89|Luxury|Christian|93730 North Belize Ave.
-Arabic food|44.97|Luxury|Bates|36112  Goose Creek Ct.
-Chinese food|276.68|Master|Boyer|94696 North Agoura Hills St.
-Japanese food|265.85|Intermediary|Valentine|18961 South Spain Ave.
-Chinese food|170.38|Simple|Morton|40197  Cayman Islands Blvd.
-Arabic food|132.08|Luxury|Stafford|48544 East Northern Mariana Islands Way
-Brazilian food|71.96|Luxury|Morrison|2729 East Norfolk Island Ave.
-Japanese food|101.44|Simple|Juarez|10403 East Palestinian Territory, Occupied Blvd.
-Brazilian food|129.19|Intermediary|Kemp|16875 North Serbia and Montenegro Ln.
-Japanese food|97.36|Luxury|Head|36861  Virgin Islands, British St.
-Brazilian food|37.99|Luxury|Carter|34665 West Australia Ct.
-Italian food|101.95|Intermediary|Robertson|27923 South Papua New Guinea Way
-Chinese food|238.82|Intermediary|Odonnell|55223  Grambling Way
-Japanese food|52.97|Luxury|Sloan|14314 East Trinidad and Tobago Ln.
-Arabic food|138.35|Simple|Terry|21256 East Christmas Island Ave.
-Chinese food|116.49|Luxury|Mayo|11217 West Champaign Ln.
-Italian food|191.37|Simple|Calhoun|15227  Canada Ave.
-Italian food|268.43|Super luxury|Hester|47640  Burkina Faso St.
-Chinese food|22.22|Simple|Morse|46808  Andorra Ave.
-Japanese food|134.98|Master|Dawson|40013 West Suriname Ct.
-Chinese food|55.00|Luxury|Ramirez|97399 South Boulder Junction Ct.
-Chinese food|161.00|Master|Noble|14700 South Brazil Way
-Japanese food|192.56|Luxury|Poole|6556 North Svalbard and Jan Mayen Ln.
-Brazilian food|285.62|Intermediary|Franco|20996 North Oman Ave.
-Japanese food|146.50|Simple|Dodson|41462 North Gallup St.
-Italian food|111.34|Master|Burton|16429 North Lancaster Way
-Chinese food|244.96|Intermediary|Mcclure|43490 South Manhattan Beach Way
-Italian food|19.36|Master|Boyle|30817 East Cedarburg Blvd.
-Arabic food|179.92|Luxury|Harper|25068 North American Samoa St.
-Italian food|177.31|Master|Kane|31668 East Bouvet Island Ave.
-Chinese food|281.09|Master|Gomez|74328 South Altoona St.
-Italian food|62.44|Intermediary|Ingram|30528  Dallas Ln.
-Brazilian food|54.69|Master|Hayes|61055 West Bosnia and Herzegovina Ln.
-Italian food|154.22|Intermediary|Hines|18983 East Bermuda Ave.
-Italian food|189.07|Intermediary|Nash|15999 East LaGrange Blvd.
-Brazilian food|63.45|Master|Cash|59137 South Bangladesh Ct.
-Chinese food|126.56|Master|Stanton|17815 East El Salvador St.
-Arabic food|186.52|Super luxury|Owen|77078 North Frisco Ave.
-Italian food|67.51|Simple|Garrett|44177 East Saint Helena Blvd.
-Japanese food|140.02|Luxury|Charles|31240 South Myanmar Ln.
-Italian food|286.30|Simple|Alvarado|64448 East Uruguay St.
-Chinese food|259.82|Intermediary|Todd|31061 South Cranston Ln.
-Japanese food|240.97|Luxury|Huff|49048 West Chile St.
-Japanese food|287.78|Simple|Stein|98817 West Bosnia and Herzegovina Ln.
-Arabic food|210.30|Luxury|Wynn|51018 West Dubuque Ct.
-Chinese food|279.39|Intermediary|Lawrence|95226 West Saint Helena Way
-Chinese food|196.45|Luxury|Bernard|52446 South Austria Ave.
-Japanese food|40.64|Super luxury|Brown|31669 North South Africa Way
-Brazilian food|282.07|Luxury|Dickson|52437  Idabel Ct.
-Italian food|129.85|Luxury|Hunter|13565 South France Ln.
-Italian food|156.25|Super luxury|Valdez|58616 East Bakersfield Ave.
-Italian food|197.04|Simple|Acevedo|46601  Mongolia Way
-Italian food|298.52|Master|Howard|57412 West Fort Wayne Way
-Arabic food|155.26|Intermediary|Cantrell|58610  Basin St.
-Italian food|130.22|Intermediary|Palmer|55854 South Myanmar Ave.
-Italian food|83.73|Intermediary|Hays|29934 South Botswana Ln.
-Chinese food|46.81|Simple|Griffith|71099 North Bangladesh Ave.
-Chinese food|52.65|Simple|Cotton|70395 South Argentina Blvd.
-Japanese food|213.37|Super luxury|Anthony|33094 West Mauritius Way
-Arabic food|152.88|Simple|Bernard|27701 North Charlottesville St.
-Arabic food|293.89|Luxury|Meyer|61201 South Sri Lanka St.
-Japanese food|203.28|Luxury|Guthrie|16988 North Australia Ave.
-Arabic food|93.97|Master|Hinton|73852 North New Haven Blvd.
-Japanese food|243.60|Simple|Castro|82290  Afghanistan Blvd.
-Chinese food|62.11|Luxury|Patel|97979 East Botswana Blvd.
-Japanese food|65.38|Super luxury|Nieves|33735 West Comoros Ct.
-Chinese food|146.55|Master|Dominguez|29155 North Costa Rica Way
-Chinese food|104.21|Luxury|Johnston|40801 West Mexico Ave.
-Italian food|236.28|Simple|Velasquez|22702 East Djibouti Blvd.
-Arabic food|265.41|Master|Norris|91187 West Algeria Way
-Arabic food|33.53|Simple|Grant|54717 South Nigeria St.
-Chinese food|114.18|Master|Gross|29478 West Beckley Ct.
-Arabic food|203.48|Master|Russo|6847 South Oman Ave.
-Japanese food|277.56|Intermediary|Wise|46614 South Haiti Ct.
-Chinese food|39.01|Master|Lowery|97534 West Nashville Way
-Arabic food|268.33|Intermediary|Hurst|25927 North Israel Ct.
-Japanese food|18.41|Simple|Gross|72111 West Bermuda Blvd.
-Chinese food|166.38|Intermediary|Harper|75200 South Bangor Way
-Chinese food|188.78|Master|Ayers|88271  Bouvet Island Ln.
-Brazilian food|164.53|Simple|Levy|35288 South Andorra Ave.
-Italian food|140.87|Master|Huff|73556 West Fort Worth St.
-Chinese food|153.55|Super luxury|Hester|54755 East Marshall Islands Ct.
-Arabic food|89.88|Super luxury|Lamb|37454  Batavia Way
-Arabic food|168.20|Simple|Sexton|71482  Andorra Ln.
-Arabic food|176.72|Intermediary|Tyler|57507 East Cape Verde Ave.
-Chinese food|274.33|Luxury|Herring|58732 East Guatemala Way
-Brazilian food|125.49|Master|Hart|80875 North Brown Deer Ave.
-Brazilian food|218.14|Master|Delgado|29665 West Peru Ave.
-Brazilian food|16.52|Master|Bush|23114  Bulgaria Ave.
-Italian food|175.88|Luxury|Vasquez|52033 East Gibraltar Way
-Brazilian food|77.56|Simple|Joyce|63228  Hong Kong Blvd.
-Arabic food|201.84|Super luxury|Howard|50893 East Botswana Ct.
-Brazilian food|86.36|Luxury|Delacruz|80625 North Canada Ct.
-Italian food|297.28|Simple|Haley|9672 North Chad Ave.
-Brazilian food|274.09|Super luxury|Matthews|97382 East Saudi Arabia Ave.
-Japanese food|52.92|Luxury|Donovan|83174 South Guadeloupe Ln.
-Arabic food|129.09|Master|Sims|37675 North Canada Ave.
-Japanese food|266.05|Intermediary|Zimmerman|61850 West Oman Way
-Chinese food|170.88|Master|Barker|79878  Elkhart St.
-Brazilian food|73.55|Master|Waller|31771  Vanuatu St.
-Brazilian food|100.77|Super luxury|England|27889  Finland Ln.
-Arabic food|285.72|Super luxury|Hudson|4598 East Manhattan Beach Ave.
-Japanese food|231.36|Super luxury|Bush|61554 North Puerto Rico Blvd.
-Brazilian food|129.43|Intermediary|Pitts|53426 West Russian Federation Blvd.
-Arabic food|245.95|Simple|Riddle|37087 North British Indian Ocean Territory Ln.
-Arabic food|174.69|Simple|Osborn|5547 East Bosnia and Herzegovina Ln.
-Japanese food|238.29|Simple|Giles|86129  Taiwan, Province of China Blvd.
-Italian food|224.87|Master|Carney|43310 West Lebanon Way
-Italian food|62.34|Super luxury|Wilder|72738 West Lander Blvd.
-Japanese food|200.23|Luxury|Estes|17208 East Canada Way
-Brazilian food|196.27|Master|Singleton|91635 East Macedonia Blvd.
-Italian food|295.15|Super luxury|Elliott|83151 East Mongolia St.
-Italian food|288.22|Master|Mejia|431 East Pakistan Ave.
-Brazilian food|130.38|Luxury|Hopkins|30709 West Maldives Ct.
-Japanese food|212.74|Master|Vinson|28655 West New Zealand St.
-Brazilian food|227.24|Master|Lopez|21705 East Greece Ct.
-Brazilian food|269.63|Luxury|Ayala|77261 South Christmas Island St.
-Arabic food|273.27|Simple|Preston|70553 West Cook Islands Way
-Italian food|222.89|Intermediary|Phillips|84310 East Butte Ln.
-Brazilian food|126.90|Simple|Morse|83109 South Bahamas Ct.
-Arabic food|160.41|Simple|Chen|43315 South Jeannette Blvd.
-Chinese food|236.70|Simple|Weaver|79609  Belize Way
-Japanese food|250.72|Super luxury|Peterson|91745 North Oakland Ct.
-Brazilian food|42.56|Master|Lowe|80658 South Portugal Ln.
-Chinese food|213.34|Super luxury|Baird|22677 East Fulton Ct.
-Japanese food|262.93|Master|Keith|4907 South Thailand Way
-Italian food|283.42|Simple|Hess|15945 West American Samoa Blvd.
-Japanese food|196.29|Intermediary|Sloan|69053  Covina Ct.
-Arabic food|146.74|Simple|Ellison|13933  Cody Ln.
-Brazilian food|156.76|Intermediary|Frost|55017  Faroe Islands Ct.
-Japanese food|231.09|Simple|Tyson|42662 West Mauritania St.
-Arabic food|165.45|Super luxury|Ewing|19362  Boston Ln.
-Arabic food|237.84|Master|Mueller|24521  Alpharetta Way
-Chinese food|130.24|Master|Delgado|50628 North Kyrgyzstan Ln.
-Japanese food|296.95|Simple|Nixon|97838 North Nicaragua Way
-Arabic food|208.83|Luxury|Mitchell|64832 South Barbados Ave.
-Japanese food|233.98|Simple|Mills|75660  Svalbard and Jan Mayen Blvd.
-Arabic food|53.72|Luxury|Obrien|41293 North Baldwin Park Way
-Brazilian food|221.24|Super luxury|Obrien|34133 East Guatemala Ave.
-Japanese food|192.97|Simple|Guthrie|89771 South Derby St.
-Italian food|165.28|Intermediary|Estrada|35804 South Bakersfield Way
-Brazilian food|297.88|Simple|Nielsen|99077  Burundi Ave.
-Japanese food|271.23|Luxury|Watson|40865  Suriname Blvd.
-Brazilian food|33.29|Master|Oliver|81336 West Irving Ct.
-Chinese food|236.19|Simple|Rosales|52495 East Finland Way
-Italian food|195.74|Luxury|Merrill|47036 North Lakeland Way
-Brazilian food|246.17|Luxury|Schultz|19634 North Central African Republic Ln.
-Chinese food|149.49|Luxury|Case|55576 South Peru Way
-Arabic food|259.11|Luxury|Rasmussen|29558 East Senegal Ct.
-Chinese food|296.91|Luxury|Goff|10461 South Aruba Ave.
-Japanese food|97.29|Master|Baker|3406 East Central African Republic Blvd.
-Arabic food|43.14|Luxury|Wilcox|92842 East Brunei Darussalam Ave.
-Japanese food|182.41|Intermediary|Gilliam|95291  Cameroon Ct.
-Italian food|235.17|Simple|Berger|86055 South Gibraltar Ct.
-Chinese food|98.16|Super luxury|Ratliff|53124 East Anchorage Ave.
-Japanese food|87.13|Intermediary|Oneill|34345 North Svalbard and Jan Mayen Way
-Arabic food|231.09|Intermediary|Langley|78633 East Gibraltar Ave.
-Italian food|219.45|Luxury|Lindsey|42770 West Costa Rica Ln.
-Italian food|95.28|Simple|Mccall|77841 West Pakistan Ln.
-Chinese food|279.24|Master|Castro|14543  Ada Way
-Italian food|174.39|Intermediary|Mcguire|26780 West Armenia St.
-Brazilian food|127.88|Simple|Mcconnell|26738 North Clearwater Ct.
-Chinese food|295.36|Super luxury|Duke|37137 South China Ln.
-Japanese food|18.10|Intermediary|Burns|59814  Paraguay St.
-Chinese food|34.32|Super luxury|Dotson|30062 North Costa Rica St.
-Japanese food|186.13|Simple|Waller|36797 East Ukraine Way
-Italian food|244.85|Simple|Vazquez|61246 South Grand Rapids Way
-Chinese food|136.61|Luxury|Maldonado|93355 North Latvia Ct.
-Arabic food|235.81|Luxury|Lawson|29326 East Libyan Arab Jamahiriya Ct.
-Chinese food|198.15|Intermediary|Cameron|27137  Dominican Republic Ave.
-Chinese food|228.21|Master|Hensley|46237 North Tuvalu Ave.
-Italian food|31.85|Super luxury|Gilliam|21183  Bosnia and Herzegovina Ln.
-Brazilian food|97.30|Master|Byers|2126 South Beaver Falls Blvd.
-Chinese food|278.31|Luxury|Vance|75971 South Dixon Blvd.
-Japanese food|109.32|Super luxury|Bullock|18108 West Gloucester Ln.
-Chinese food|228.14|Intermediary|Rosa|72331 East Bosnia and Herzegovina Ave.
-Italian food|199.17|Luxury|Madden|48908 East Kahului Ave.
-Italian food|210.77|Luxury|Farmer|36399  Central African Republic St.
-Japanese food|211.04|Super luxury|Wilkinson|22167 South Martinique Ave.
-Brazilian food|39.87|Simple|Gilliam|234 North Easthampton Ln.
-Italian food|214.47|Luxury|Lyons|81769 South Cocos (Keeling) Islands Ave.
-Chinese food|63.39|Intermediary|Underwood|58749 West Concord St.
-Chinese food|102.55|Master|Sherman|72123  Algeria Ave.
-Arabic food|34.08|Super luxury|Lucas|1726 West Norway Ave.
-Italian food|202.93|Super luxury|Tanner|69013 East Afghanistan Way
-Italian food|206.42|Luxury|Barton|29220 West Hong Kong Way
-Brazilian food|209.33|Luxury|Goodwin|10720 North Greenland St.
-Chinese food|107.67|Super luxury|Ramirez|93008 West Paraguay Way
-Italian food|205.50|Luxury|Lancaster|93209 South Jeffersonville St.
-Japanese food|223.61|Luxury|Conrad|15799 East Hungary Ct.
-Brazilian food|276.86|Luxury|Patton|25820 West Gettysburg St.
-Japanese food|28.59|Intermediary|Lambert|29578 East La Verne St.
-Brazilian food|97.39|Master|Whitfield|13122 East Plattsburgh Ln.
-Japanese food|59.92|Super luxury|Sanford|84343 West East Rutherford Ln.
-Brazilian food|193.86|Intermediary|Maldonado|31137 West Somalia Ave.
-Japanese food|17.42|Luxury|Watson|68661 North Netherlands Ln.
-Brazilian food|292.09|Master|Tran|2706 North Belgium St.
-Japanese food|190.34|Intermediary|Trevino|51322 East Mali Ct.
-Japanese food|17.75|Super luxury|Harper|7087 West Brunei Darussalam St.
-Arabic food|245.27|Luxury|Santana|15608 North Saint Pierre and Miquelon Ct.
-Chinese food|235.42|Luxury|Keith|93938 North Azerbaijan Ave.
-Brazilian food|96.60|Simple|Norris|84955  Wallis and Futuna Blvd.
-Japanese food|118.07|Simple|Hines|89441 East Antigua and Barbuda Blvd.
-Brazilian food|192.35|Simple|Carey|13812 West Bolivia Ln.
-Arabic food|226.40|Master|Henson|22827  Charleston Way
-Arabic food|292.58|Simple|Yates|27003 North Chicopee Ct.
-Brazilian food|138.49|Luxury|Atkinson|71192 South Burkina Faso Ave.
-Japanese food|170.42|Intermediary|Carr|941 South Belarus Way
-Chinese food|287.74|Luxury|Bush|62927 West Jordan Ave.
-Italian food|88.20|Luxury|Singleton|43737 North Bethlehem Ln.
-Brazilian food|71.53|Super luxury|Pickett|41936 South Duarte Blvd.
-Arabic food|172.44|Luxury|Barnett|31134 East Western Sahara St.
-Brazilian food|179.87|Master|Webb|33716 East Clearwater Ave.
-Japanese food|43.62|Intermediary|Richmond|85291 East Anguilla St.
-Italian food|248.24|Luxury|Holman|29468  Bhutan Blvd.
-Japanese food|249.02|Master|Scott|64277  Gainesville Ave.
-Chinese food|115.18|Master|Hutchinson|66379 East Armenia St.
-Brazilian food|136.53|Intermediary|Mann|21536 East Lahaina Way
-Chinese food|87.86|Luxury|Ray|40189 East Burkina Faso Ave.
+Ramsey|Olympia Mcfarland|Guy Bridges|5488|Chinese|170.87|Super luxury
+Weaver|Jarrod Holder|Ebony Bell|427341|Chinese|84.81|Intermediary
+Dejesus|Xyla Vaughn|Martena Fletcher|608657|Arabic|84.11|Intermediary
+Rutledge|Lionel Gonzales|Laurel Bonner|642851|Italian|20.02|Super luxury
+James|Ashton Crosby|Cherokee Brennan|167661|Japanese|218.06|Super luxury
+Farrell|Lewis Harrington|Elizabeth Galloway|337520|Italian|201.99|Simple
+Fisher|Maggie Butler|Hadley Ball|973051|Chinese|66.12|Simple
+Galloway|Barry Ellis|Lane Potter|88132|Brazilian|129.03|Super luxury
+Carpenter|Germane Stevenson|Clayton Duffy|277442|Italian|285.98|Luxury
+Carlson|Clio Harper|Hiram Becker|343603|Arabic|261.37|Master
+Trevino|Lawrence Odom|Quamar Keith|363768|Italian|90.49|Luxury
+Russell|Beatrice Good|Ira Barron|362713|Japanese|227.30|Master
+Walls|Finn Mays|Nell Lane|18983|Brazilian|185.91|Simple
+Landry|Caldwell Larson|Evan Mccray|976473|Japanese|37.82|Simple
+Conner|Martha Mccullough|Felicia Snyder|62531|Japanese|155.00|Master
+Goodwin|Byron Skinner|Ruby Booker|516149|Brazilian|135.15|Intermediary
+Chandler|Paul Love|Kellie Ramirez|302621|Brazilian|126.11|Luxury
+Adams|Pascale Patrick|Moses Vaughan|209593|Arabic|16.14|Intermediary
+Gordon|Zena Adkins|Galvin Pearson|131975|Brazilian|264.01|Simple
+Mathews|Callie Mcclain|Salvador Griffith|669646|Italian|271.93|Simple
+Rowland|Sophia Golden|Wang Alston|677117|Chinese|60.23|Super luxury
+Cantrell|Prescott Woodward|Aquila Weaver|327922|Brazilian|16.33|Master
+Torres|Portia Daniel|Whoopi Bonner|994170|Brazilian|160.88|Simple
+Boyle|Howard Combs|Graham Weeks|662131|Brazilian|193.30|Intermediary
+Garrison|Kirk Joyce|Xena Dixon|931445|Chinese|118.80|Luxury
+Dominguez|Walter Ballard|Cheyenne Shaffer|282862|Arabic|297.91|Intermediary
+Vazquez|Carter Slater|Autumn Boone|166652|Brazilian|216.93|Master
+Dillard|Noah Macdonald|Thor Navarro|729291|Brazilian|115.48|Luxury
+Pate|Nolan Pierce|Brendan Hickman|567297|Japanese|236.22|Simple
+Benjamin|Shana Riggs|Lee York|41865|Japanese|220.76|Super luxury
+Knight|Christopher Roy|Leandra Pena|574113|Japanese|65.22|Simple
+Olson|Marshall Nixon|Ethan Blackwell|995537|Chinese|171.54|Super luxury
+Monroe|Irma Swanson|Adam Garcia|97829|Arabic|73.69|Super luxury
+Hatfield|Kenyon Kirkland|Kelsey Buchanan|633174|Brazilian|126.22|Master
+Wade|Caldwell Hodge|Fletcher Briggs|391512|Brazilian|40.00|Intermediary
+Sullivan|Castor Vincent|Brady Potts|4908|Chinese|279.23|Simple
+Winters|Olga Juarez|Lila Morton|350319|Brazilian|223.21|Super luxury
+Baldwin|Thomas Dunlap|Cade Delacruz|496488|Japanese|200.95|Intermediary
+Dickerson|Pandora Sargent|Eve Charles|729645|Chinese|270.05|Master
+Jackson|Gareth Castillo|Anika Stein|338465|Chinese|137.06|Super luxury
+Wood|Jaquelyn Sanchez|Hamilton Brewer|177571|Italian|115.82|Master
+Velasquez|Basil Mills|Amos Carver|103643|Japanese|228.00|Master
+Dotson|Xena Huber|Cullen Woodward|53068|Brazilian|267.25|Luxury
+Rollins|Shana Fowler|Vivian Hardy|386329|Arabic|27.57|Simple
+Rojas|Vernon Fowler|Mari Nunez|780203|Brazilian|193.32|Intermediary
+Madden|Megan Delgado|Sebastian Paul|84689|Japanese|41.60|Super luxury
+Boyer|Bevis Wynn|Blythe Cooley|564815|Brazilian|45.37|Super luxury
+Kirk|Jael Hopper|Quamar Hubbard|572450|Arabic|187.92|Simple
+Jefferson|Brynne Rosa|Nero Shaw|34465|Arabic|292.85|Master
+Rosa|Iona Edwards|Fuller Adkins|107679|Japanese|109.09|Luxury
+Blankenship|Colorado Howe|Kylynn Medina|720324|Japanese|15.44|Super luxury
+Schroeder|Jeremy Walters|Amethyst Clemons|210571|Brazilian|242.95|Intermediary
+Odonnell|Doris Pruitt|Cade Russell|669172|Brazilian|284.23|Intermediary
+Stone|Abraham Spears|Garth Lester|634938|Brazilian|40.51|Simple
+Gentry|MacKenzie Griffin|Christian Harris|882018|Brazilian|114.85|Master
+Byrd|Wayne Moss|Amethyst Koch|454226|Japanese|114.42|Luxury
+Knox|Iona Weiss|Halla Nieves|551218|Chinese|81.75|Intermediary
+Palmer|Cadman Crawford|Judah Mendoza|135081|Italian|125.70|Luxury
+Delgado|Sage Campbell|Tatyana Acosta|169876|Italian|218.80|Luxury
+Witt|Iona Horn|Wade Ortiz|222384|Chinese|91.42|Simple
+Carrillo|Cruz Arnold|Lunea Holloway|572933|Italian|297.13|Intermediary
+Morse|Winter Cunningham|Ezekiel Caldwell|185204|Arabic|119.55|Super luxury
+Mays|Felix Berger|Kim Young|508327|Brazilian|32.92|Master
+Preston|Bruno Fitzgerald|Nathan Hoffman|827350|Brazilian|76.40|Simple
+Bowen|Oleg Cunningham|Cally Bullock|99753|Arabic|265.14|Super luxury
+Johnson|Wade Diaz|Arsenio Daugherty|992935|Chinese|152.75|Luxury
+Barber|Daquan Brock|Stewart Sanders|363787|Brazilian|223.92|Master
+Burke|Jared Avery|Sonya Malone|556673|Arabic|41.88|Luxury
+Kane|Ingrid Bowman|Myles Alexander|767731|Italian|163.40|Luxury
+Gray|Flavia Maldonado|Allistair Horne|300825|Chinese|211.09|Luxury
+Barnett|Vielka Francis|Otto Ramos|94241|Chinese|275.55|Master
+Craft|Hollee Boone|Blossom Trevino|271597|Arabic|41.67|Super luxury
+Floyd|Thomas Travis|Adam Farrell|749601|Arabic|170.37|Simple
+Durham|Nerea Compton|Jane Morales|724769|Italian|70.42|Super luxury
+Osborne|Chastity Holman|Laurel Best|812893|Italian|180.64|Luxury
+Mcguire|Shay Burris|Daryl Mayo|414348|Chinese|287.83|Intermediary
+Carlson|Quin Coffey|Lars Frank|781755|Arabic|231.53|Master
+Glass|Brenna Fields|Leonard Mcdaniel|947065|Japanese|104.18|Luxury
+Cole|Oliver Vance|Kaye Dunlap|145049|Chinese|63.61|Master
+Marshall|Shannon Silva|Malachi Hall|51692|Italian|240.13|Luxury
+Klein|Adam Sheppard|Faith Best|506782|Italian|232.28|Luxury
+Byrd|Tasha England|Elijah Spence|460593|Italian|243.04|Intermediary
+Goodman|Isadora Coffey|Hayfa Burris|556118|Brazilian|56.26|Super luxury
+Lindsey|Uriah Vega|Melanie Reese|34529|Chinese|43.35|Luxury
+Larson|Jenna Lawson|Cedric Rollins|684029|Brazilian|164.08|Super luxury
+Watts|Arsenio Fitzgerald|Warren Gibbs|582250|Italian|283.03|Master
+Mcneil|Karleigh Merritt|Aileen Boyer|544677|Brazilian|233.88|Intermediary
+Holden|Tamara Whitney|Lavinia Hahn|957417|Brazilian|65.27|Luxury
+Buckley|Germaine Simpson|Jarrod Hatfield|500251|Brazilian|298.67|Intermediary
+Calderon|Barrett Wyatt|Roary Acosta|362232|Chinese|200.32|Intermediary
+Barlow|Mufutau Wade|Susan Carpenter|586701|Chinese|235.34|Master
+Meadows|Eaton Cabrera|Lacota Rivers|548262|Italian|270.01|Super luxury
+Gilliam|Aristotle Adkins|Tiger Wynn|624936|Arabic|220.91|Intermediary
+Bartlett|Jenette Irwin|Ray Velez|684867|Chinese|43.10|Simple
+Hawkins|Jolie Barber|Nita Lloyd|310275|Japanese|222.26|Intermediary
+Tyler|Logan Gentry|Ann Mclaughlin|148020|Arabic|245.60|Super luxury
+Glenn|Minerva Paul|Pascale Gill|474312|Chinese|92.11|Luxury
+Irwin|Ishmael Walters|Minerva Larson|387929|Brazilian|249.31|Luxury
+Whitehead|Maxine Ware|Charissa Whitehead|894214|Chinese|253.82|Simple
+Figueroa|April Foster|Nichole Cantu|860816|Brazilian|81.60|Super luxury
+Rodriguez|Tyrone Bowen|Cynthia Higgins|94478|Italian|174.74|Simple
+Mcmillan|Indigo Kirkland|Joshua Bullock|93726|Brazilian|198.25|Luxury
+Compton|Byron Knight|Mona Crosby|915289|Italian|272.06|Simple
+Peters|Kai Baldwin|Kiara Booker|511790|Japanese|108.63|Intermediary
+Ballard|Winifred Weber|Mason Roth|591342|Italian|88.27|Super luxury
+Chase|Castor Daniels|Brett Morrison|517397|Chinese|284.55|Super luxury
+Floyd|George Schwartz|Ulric Rocha|13163|Chinese|273.30|Luxury
+Torres|Connor Juarez|Adrian Carpenter|225750|Chinese|265.63|Simple
+Barlow|Halee Alford|Jonas Allison|333428|Japanese|26.84|Simple
+Carr|Kameko Boyle|Joshua Solis|109619|Arabic|256.99|Simple
+Kaufman|Ursa Cotton|Bernard Buckner|176515|Arabic|19.26|Super luxury
+Ball|Ina Newton|Colleen Kennedy|793990|Chinese|125.79|Intermediary
+Barker|Ulric Johnson|Madaline Reid|635242|Italian|19.04|Luxury
+Garcia|Philip Little|Kasper Cross|255314|Arabic|189.30|Simple
+Butler|Brittany Bentley|Leila Howard|837353|Arabic|61.28|Intermediary
+Fitzpatrick|Kevyn Simpson|Simon Hernandez|293544|Brazilian|58.41|Master
+Miranda|Dieter Raymond|Darius Juarez|721068|Brazilian|21.68|Luxury
+Brewer|Craig Juarez|Oscar Williamson|358598|Japanese|170.91|Master
+Woodward|Lillith Rosario|Emery Lancaster|898313|Brazilian|290.31|Super luxury
+Bradshaw|McKenzie Wilson|Quail Meyers|269292|Japanese|183.40|Intermediary
+Bradford|Leo Rosa|Cassidy Burton|609744|Arabic|24.24|Intermediary
+Haley|Curran Montgomery|Isadora Horn|715667|Chinese|32.70|Simple
+Tanner|Jaime Chavez|Benjamin Mcclain|357720|Chinese|192.84|Master
+Cooper|Ruth Bates|Sean Strickland|969638|Chinese|85.05|Intermediary
+White|Coby Barnett|Alden Kinney|768785|Italian|110.70|Intermediary
+Morton|Melodie Watson|Jane Wagner|388888|Japanese|35.21|Master
+Cobb|Sawyer Lara|Jacob Shannon|790090|Japanese|231.02|Simple
+Snow|Yasir Petersen|Arthur Schmidt|291305|Arabic|52.02|Master
+Petty|Zelenia Emerson|Xyla House|997084|Brazilian|76.84|Super luxury
+Wynn|Devin Benjamin|Theodore Burns|275019|Italian|49.85|Luxury
+Olson|Aphrodite Dorsey|Noah Ramsey|378647|Brazilian|256.85|Simple
+Glover|Chastity Deleon|Jade Delaney|46569|Chinese|92.75|Super luxury
+Glenn|Palmer Skinner|Madeson Frazier|461362|Chinese|74.79|Intermediary
+Arnold|Donovan Turner|Gregory Haney|689992|Japanese|68.80|Simple
+Sandoval|Allen Gomez|Travis Morton|284609|Italian|180.39|Luxury
+Irwin|Macon Steele|Cheyenne Henderson|490052|Italian|190.43|Simple
+Hinton|Karyn Decker|Jeanette Roberts|935700|Italian|165.43|Master
+Jensen|Alexander Campbell|Darrel Mccoy|201509|Italian|278.24|Super luxury
+Mays|Gillian Oliver|Jessica Cannon|286156|Chinese|256.92|Luxury
+Rowland|Cameran Barnes|Mira Pitts|741315|Arabic|181.74|Master
+Rhodes|Donovan Zamora|Abbot Moss|169841|Chinese|21.97|Master
+Combs|Damian Garner|Stephanie Cannon|457413|Japanese|192.06|Simple
+Gould|Carl Brown|April Leonard|663077|Chinese|209.04|Intermediary
+Hester|Jermaine Moody|Coby Stone|87461|Japanese|71.93|Luxury
+Macdonald|Brady Huffman|Bert Mcclain|61174|Italian|283.98|Intermediary
+Johns|Yetta Ingram|Lev Hopkins|872706|Chinese|268.43|Master
+Cruz|Henry Mcdowell|Vernon Stokes|895018|Brazilian|55.05|Master
+Deleon|Lionel Snider|Catherine Shelton|15236|Japanese|295.95|Simple
+Glover|Cecilia Miles|Kieran Richardson|670475|Japanese|40.42|Super luxury
+Acosta|Charles Calderon|Adele Forbes|477513|Japanese|17.18|Master
+Carter|Davis Combs|Castor Leach|447256|Arabic|191.25|Master
+Tillman|Emmanuel Spencer|Tate Cline|806374|Brazilian|67.76|Intermediary
+Brown|Carissa Walsh|Gisela Bean|26595|Chinese|233.88|Luxury
+Massey|Len Horn|Odysseus Kidd|273948|Chinese|241.31|Intermediary
+Sargent|Roary Francis|Cleo Boone|122681|Brazilian|142.27|Simple
+Livingston|Bruce Nguyen|Colt Rosario|900513|Arabic|97.97|Simple
+Christian|Amir Jacobs|Zeph Stout|259147|Brazilian|294.11|Master
+Warner|Ingrid Mccormick|Jonas Mcleod|903713|Chinese|182.15|Intermediary
+Vazquez|Germane Morrow|Erasmus Hendrix|469657|Brazilian|58.65|Master
+Lang|Graiden Casey|Caesar Best|441414|Arabic|196.98|Luxury
+Warren|Wing Burnett|Seth Cooke|866987|Chinese|48.98|Master
+Benson|Alfonso Joseph|Piper Wilson|569395|Brazilian|199.61|Simple
+Zamora|Lee Hart|Kai Randall|534640|Japanese|231.11|Super luxury
+Randall|Irma Blevins|Cullen Foreman|255797|Italian|179.89|Intermediary
+Bass|William Bean|Kirsten Klein|930869|Japanese|16.89|Intermediary
+Boyd|Edan Ratliff|Bert Sears|81569|Japanese|19.16|Luxury
+Reid|Lisandra Dillard|Lucius Golden|927265|Japanese|179.96|Simple
+Mendoza|Fulton Golden|Christian Hyde|519987|Arabic|107.33|Luxury
+Kemp|Hayes Mcbride|Judah Carr|565573|Chinese|47.74|Master
+Woods|Echo Guy|Colleen Herman|141716|Japanese|95.51|Intermediary
+Burgess|Quail Garza|Steel Maldonado|89574|Italian|16.65|Master
+Freeman|Winifred Mcdowell|Hilda Guerra|503425|Italian|13.35|Super luxury
+Rasmussen|Adrienne Espinoza|Flavia Lara|287414|Italian|157.19|Simple
+Bowers|Melvin Keith|Daphne Fitzgerald|159358|Brazilian|133.29|Luxury
+Hayden|Chase Beard|Beck Leonard|164119|Arabic|230.96|Simple
+Gonzales|Virginia Harvey|Kirk Mcleod|852897|Chinese|43.83|Luxury
+Reid|Charity Cooper|Basia Cleveland|530120|Italian|277.11|Simple
+Paul|Noel Leon|Preston Cruz|60776|Chinese|234.68|Simple
+Edwards|Jemima Watson|Cameron Young|829713|Arabic|270.21|Super luxury
+Franco|Galvin Noble|Latifah Wright|539012|Italian|65.23|Simple
+Valdez|Branden Middleton|Neve Stokes|942526|Japanese|14.04|Luxury
+Mayer|Iona Morton|Martina Park|590754|Arabic|173.84|Intermediary
+Mcclure|Burton Golden|Kato Hanson|623026|Arabic|274.78|Luxury
+Myers|Kennedy Scott|Belle Warren|742702|Arabic|36.48|Super luxury
+Pena|Mira Doyle|Jane Pope|725644|Japanese|105.04|Simple
+Wilkinson|Ishmael Jensen|Myles Curtis|618773|Brazilian|221.12|Luxury
+James|Eliana Carr|Colby Hendricks|740980|Arabic|48.60|Super luxury
+Aguirre|Jasmine Wallace|Wynter Espinoza|8415|Japanese|10.10|Luxury
+Hernandez|Zeus Hardin|Kane Cummings|132990|Japanese|163.82|Luxury
+Rosales|Ava Valenzuela|Cody Nieves|589942|Chinese|63.38|Super luxury
+Gibbs|Iona Valdez|Gillian Mcneil|675971|Japanese|124.01|Luxury
+Ramsey|Clinton Frazier|Savannah Carr|954732|Arabic|65.93|Luxury
+Jennings|Steven Anthony|Lesley Shields|187900|Japanese|250.25|Master
+Mooney|William Mcbride|Alice Baker|797264|Italian|243.87|Luxury
+Goff|Sara Blevins|Norman Hubbard|821290|Japanese|17.76|Simple
+Dunn|Moses Acosta|Libby Alford|433593|Italian|199.93|Simple
+Wilson|Bruce Becker|Indigo Fitzgerald|177041|Brazilian|209.36|Luxury
+Guerra|Keefe Craig|Tallulah Finley|505551|Japanese|182.51|Simple
+Soto|Penelope Hardy|Astra Greene|309098|Chinese|254.21|Master
+Larson|Callum Good|Addison Foster|296790|Japanese|108.01|Intermediary
+Conway|Vance Beach|Eleanor Gallagher|995233|Arabic|15.76|Simple
+Dodson|Lynn Hill|Joseph Barrett|240488|Chinese|47.28|Intermediary
+Wiggins|Ursula Camacho|Nyssa Mcgee|67570|Japanese|40.56|Luxury
+Sweeney|Imani Howe|Shafira Hatfield|691895|Arabic|293.00|Master
+Zamora|Carol Mann|Nerea Cash|238943|Italian|216.23|Luxury
+Long|Olympia May|Nolan Puckett|712388|Arabic|291.80|Super luxury
+Townsend|Sydnee Delacruz|Farrah Emerson|18154|Arabic|12.97|Intermediary
+Vang|Wyatt Good|Lucian Cobb|678307|Chinese|70.11|Master
+Reed|Austin Mccarthy|Michelle Mack|326056|Chinese|93.05|Super luxury
+Mckenzie|Echo Fitzgerald|Bert Salazar|392663|Arabic|41.88|Master
+Barnes|Baker Garcia|Haley Boone|538511|Brazilian|16.97|Intermediary
+Wheeler|Eric Bowman|Lisandra Howell|131080|Brazilian|137.33|Intermediary
+Walters|Natalie Hines|Fatima Wagner|165220|Arabic|147.88|Super luxury
+Aguirre|Madaline Wong|Lester Pierce|842737|Chinese|106.42|Simple
+Edwards|Flynn Levy|Bert Vazquez|695567|Japanese|115.64|Simple
+Gardner|Eugenia Byrd|Sade Snyder|178740|Chinese|206.98|Intermediary
+Lott|Xena Ashley|Myles Mccarthy|575017|Chinese|29.72|Luxury
+Hebert|Emi Fuller|Ryder Lynn|165864|Arabic|83.60|Intermediary
+Frost|Galena Wooten|Fay Franks|646050|Chinese|30.70|Master
+Mcknight|Kiara Church|Fulton Mitchell|393055|Brazilian|196.87|Simple
+Andrews|Raja Oconnor|Lucian Alvarez|133928|Brazilian|83.12|Master
+Bryant|Jerry Henry|Mira Stone|948518|Brazilian|27.77|Simple
+Donaldson|Lara Valentine|Paloma Barker|403779|Brazilian|54.63|Master
+Olsen|Acton Pierce|Kirestin Spears|200945|Arabic|119.48|Intermediary
+Dotson|Hu Lopez|Sage Bartlett|480087|Arabic|142.13|Simple
+Branch|Olympia Ashley|Lois Shepherd|435701|Arabic|140.60|Master
+Hernandez|Lois Hyde|Ronan Butler|385022|Japanese|155.19|Super luxury
+Burgess|Carolyn Castaneda|Cedric Tyler|609726|Italian|153.01|Super luxury
+Gill|Winifred Santana|Jarrod Holder|555521|Japanese|198.74|Simple
+Ratliff|Kirestin Schwartz|Eric Leon|265830|Brazilian|41.03|Super luxury
+Carr|Zachery Kidd|Chester Leach|201527|Chinese|131.72|Simple
+Stark|Keith Patton|Melyssa Chen|642880|Brazilian|76.14|Intermediary
+Bennett|Lee Kirk|Bevis Ayala|743181|Japanese|216.83|Intermediary
+Chen|Ursa Quinn|Moana Boyle|623195|Arabic|193.73|Super luxury
+Mosley|Denise Castillo|Carlos Berg|318336|Italian|105.06|Super luxury
+Morris|Athena Sellers|Zelenia Solis|916844|Brazilian|44.59|Intermediary
+Hughes|Nyssa Collins|Rafael Hooper|564335|Brazilian|56.79|Super luxury
+Shelton|Quinn Boyd|Gloria Downs|114218|Brazilian|140.20|Intermediary
+Pena|Hamish Santiago|Aurelia Beard|372289|Italian|149.19|Luxury
+Park|Akeem Little|Hilel Cote|299496|Italian|141.48|Intermediary
+Stephenson|Baker Shannon|Wesley Holcomb|517619|Italian|122.04|Intermediary
+Mosley|Merrill Morrison|Ferdinand James|468769|Italian|221.84|Simple
+Lowery|Ivana Sparks|Kato Taylor|99223|Arabic|93.60|Super luxury
+Newman|Rowan Jacobs|Gregory Gill|386758|Chinese|289.81|Simple
+Hoffman|Arthur Guerra|Bruce Barber|400711|Italian|283.70|Intermediary
+Craft|Zeus Rosario|Diana Farmer|609126|Brazilian|213.92|Super luxury
+Bernard|Barbara Massey|Price Alvarado|246463|Japanese|90.66|Simple
+Thomas|Channing French|Charde Fuentes|889597|Chinese|253.73|Master
+Sutton|April Howell|Gretchen Middleton|451973|Japanese|239.02|Simple
+Puckett|Diana Mcmillan|Keelie Gibson|716331|Brazilian|239.82|Simple
+Estrada|Carl Justice|Illana Silva|621963|Arabic|12.73|Luxury
+Martin|Deborah Guerrero|Maia Wright|843137|Italian|282.76|Master
+Richards|Amy Elliott|Iona Walter|457831|Arabic|259.89|Simple
+Barnes|Idona Ortiz|Medge Blackburn|894680|Japanese|101.35|Master
+Bradford|Yardley Dean|Emily Emerson|480824|Arabic|252.93|Master
+Wooten|Adria Hill|Olga Sawyer|683748|Japanese|135.48|Intermediary
+Hopper|Chiquita Ramsey|Reese Daniel|597948|Arabic|172.32|Simple
+Ferguson|Raymond Patel|Owen Bennett|399617|Arabic|228.27|Simple
+Sweet|Paula Erickson|Shelby Doyle|409609|Italian|266.22|Master
+Jones|Ann Alexander|Pamela Clements|424110|Italian|75.86|Simple
+Gamble|Fritz Goodwin|Lillith Hill|712471|Chinese|209.48|Master
+Harrison|Melanie Butler|Keefe Nguyen|598221|Japanese|40.01|Simple
+Armstrong|Henry Roberson|Theodore Leonard|424788|Arabic|230.61|Simple
+Mann|Anne Benson|Mia Good|958556|Brazilian|174.96|Luxury
+Kane|Chava Velazquez|Tanek Shields|861446|Japanese|226.95|Luxury
+Davenport|Gannon Tran|Aurelia Ochoa|431632|Italian|17.24|Simple
+Carey|Zephania Leach|Yen Guerrero|286689|Italian|204.31|Luxury
+Peters|Asher Thomas|Wynne Cain|90154|Brazilian|114.76|Luxury
+Velazquez|Shelby Raymond|Yasir Peters|816587|Arabic|44.41|Master
+Gamble|Marah Keith|Cassady Weber|961610|Arabic|284.34|Master
+Molina|Jessamine Lowery|Macey Frederick|688711|Italian|85.23|Luxury
+Baird|Brock Patel|Gemma Charles|439252|Italian|187.62|Simple
+Bray|Aileen Peters|Merrill Sullivan|610774|Japanese|277.71|Master
+Stevens|Abbot Franco|Meredith Mendoza|612860|Italian|125.08|Luxury
+Mills|Nomlanga Mooney|Jamal Bell|808442|Japanese|270.78|Intermediary
+Jarvis|Amanda Gross|Carson Terrell|876795|Arabic|267.26|Master
+Massey|Willa Beard|Clio Rojas|28231|Arabic|62.32|Master
+Chen|Ross Frank|Theodore Howard|277712|Brazilian|36.86|Super luxury
+Pena|Kessie Livingston|Phillip Monroe|681236|Japanese|267.07|Luxury
+Butler|Amir Heath|Inez Jarvis|957462|Japanese|56.29|Super luxury
+Lopez|Cairo Villarreal|Darryl Eaton|691502|Japanese|214.62|Intermediary
+Dickerson|Upton Briggs|Abigail Dunn|899112|Japanese|152.00|Intermediary
+Slater|Patrick Rosario|Ryan French|990241|Brazilian|59.06|Simple
+Hunter|September Hamilton|Rachel Valentine|976583|Italian|24.63|Super luxury
+Byers|Dexter Avila|Elliott Oneil|883522|Arabic|144.54|Simple
+Velasquez|Tucker Scott|Uriah Parsons|810910|Italian|118.18|Super luxury
+Douglas|Jemima Mack|Eleanor Hancock|277261|Brazilian|253.93|Super luxury
+Gilliam|Maya Townsend|Vera Petersen|831132|Brazilian|184.55|Intermediary
+Thompson|Bo Trujillo|Aristotle Contreras|655820|Brazilian|125.06|Super luxury
+Gonzalez|Vladimir Ewing|Yvette Curtis|313146|Italian|199.34|Intermediary
+Walters|Daquan Mosley|Gregory Mills|940199|Japanese|282.42|Luxury
+Reynolds|Leila Serrano|Colette Gamble|105871|Brazilian|246.64|Intermediary
+Sanders|Macy Briggs|Nasim Becker|848002|Japanese|125.77|Luxury
+Osborn|Tallulah Santiago|Gary Hanson|13546|Japanese|22.23|Simple
+Wright|Camille Gilbert|Fulton Mcbride|115584|Brazilian|127.71|Simple
+Summers|Denise Floyd|Pascale Sims|383161|Chinese|147.76|Simple
+Norman|Magee Case|Hamilton Malone|607833|Arabic|76.95|Super luxury
+Curry|David Chapman|Phelan Gilbert|593903|Japanese|32.93|Super luxury
+Pearson|Amy Gibbs|Emily Zimmerman|10248|Italian|109.71|Simple
+Dixon|Steven Diaz|Elliott Weeks|18828|Italian|91.53|Master
+Pacheco|Shad Woodward|Risa Carney|752599|Italian|35.63|Master
+Santana|Liberty Hart|Lyle Kline|615083|Chinese|24.73|Intermediary
+Watson|Samantha Sutton|Brandon Tate|319338|Italian|24.01|Simple
+Clayton|Leigh Kelley|Cody Howell|118407|Italian|205.87|Super luxury
+Mcleod|Grace Schroeder|Travis Walker|195224|Japanese|270.36|Super luxury
+Burgess|Hedley Torres|Tatiana Gilmore|148001|Chinese|89.99|Intermediary
+Mitchell|Iliana Phelps|Xavier Myers|137620|Brazilian|289.93|Master
+Abbott|Jin Cunningham|Noelle Simmons|472618|Brazilian|280.08|Intermediary
+Davis|Zachary Maxwell|Ursula Mcguire|191086|Japanese|287.47|Luxury
+Swanson|Russell Bell|Kylan Craig|484387|Japanese|179.81|Intermediary
+Patel|Bryar Sears|Fatima Fuller|452990|Japanese|104.87|Simple
+Nieves|Eliana Holcomb|Porter Guzman|161506|Chinese|58.54|Super luxury
+Weber|Ciara Carney|Rosalyn Rich|613798|Italian|288.26|Super luxury
+Ballard|Cedric Moreno|Tashya Hester|623735|Arabic|162.86|Simple
+Nichols|Evangeline Flores|Malachi Diaz|786708|Chinese|265.05|Luxury
+Dickerson|Adria Mcbride|Luke Fleming|436109|Japanese|172.61|Simple
+Steele|Brenden Odonnell|Dora Mcbride|833814|Arabic|218.35|Intermediary
+Welch|Thane Le|Myles Frank|874997|Japanese|118.14|Master
+Henson|Tanek Dominguez|Freya Conner|382775|Brazilian|261.90|Master
+Gentry|Shaine Alvarez|Cathleen Barr|45794|Japanese|224.86|Super luxury
+Acosta|Audra Conrad|Jordan Whitney|35974|Brazilian|85.11|Super luxury
+Fleming|Lesley Conrad|Kathleen Burgess|206514|Chinese|225.85|Simple
+Hampton|Sebastian Shaw|Halee Baldwin|117944|Italian|248.99|Luxury
+Cline|Rinah Higgins|Keaton Bowers|366315|Chinese|277.26|Simple
+Holloway|Wanda Jacobs|Michelle Black|171504|Arabic|74.40|Luxury
+Vaughn|Jade Figueroa|Alma Mckinney|883547|Chinese|209.64|Intermediary
+Barron|Kieran Thomas|Alma Bruce|845466|Arabic|181.46|Intermediary
+Eaton|Ivor Hodge|Doris Summers|572601|Brazilian|184.49|Master
+Lyons|Hyatt Newman|Salvador Baird|298730|Brazilian|33.63|Super luxury
+Scott|Janna Bell|Kieran Byrd|538968|Japanese|208.08|Super luxury
+Moody|Simone Butler|Arthur Ortega|441706|Arabic|72.03|Luxury
+Hampton|Otto Forbes|Abbot Cooke|619072|Japanese|220.45|Intermediary
+Mcgee|Erasmus Cobb|Kato Lynch|6575|Italian|18.99|Master
+Phelps|Zeus Calderon|Melanie David|727456|Italian|195.77|Simple
+Beard|Virginia Contreras|Avye Whitehead|89192|Arabic|55.89|Luxury
+Stark|Asher Kelly|Hammett Hodge|740371|Italian|175.52|Intermediary
+Roach|Ali Snyder|Barrett Leonard|693981|Japanese|280.25|Intermediary
+Gilmore|Clare Duncan|Chelsea Levy|302046|Chinese|152.13|Luxury
+Wells|Shad Stanley|Larissa Hull|880254|Arabic|236.58|Master
+Baxter|Rooney Trevino|Hayes Mccarthy|457672|Chinese|120.29|Super luxury
+Green|Grace Hardin|Helen Rodriguez|893037|Brazilian|281.72|Simple
+Alexander|Pearl Hopper|Madeson Britt|570551|Brazilian|181.32|Simple
+Mccarty|Davis Manning|Evangeline Sanchez|89612|Arabic|166.05|Simple
+Whitaker|Alexis Arnold|Melissa Abbott|704240|Arabic|168.39|Super luxury
+Dillard|Oprah Barker|Timothy Emerson|88438|Brazilian|113.95|Super luxury
+Nicholson|Wesley Mccoy|Seth Petersen|714113|Chinese|119.46|Master
+Aguirre|Fiona Hogan|Damian Sosa|383431|Brazilian|172.44|Intermediary
+Caldwell|Vivian Mcguire|Kristen Velez|849731|Brazilian|161.84|Super luxury
+Fernandez|Plato Kent|John Cummings|301392|Chinese|160.42|Master
+Robertson|Nolan Nelson|Rina Odonnell|776444|Japanese|117.91|Intermediary
+Key|Lee Vasquez|Madeson Everett|727380|Italian|39.28|Luxury
+Hayden|Kelly Richard|Jada Gilliam|694373|Brazilian|111.92|Master
+Woods|Celeste Cooke|Bryar Rodriguez|220019|Chinese|186.84|Intermediary
+Macias|Daniel Morrison|Zoe Lawson|151309|Italian|58.89|Super luxury
+Ortega|Stuart Pittman|Conan Snyder|253529|Italian|62.45|Master
+Snider|Aphrodite Walker|Germane Knapp|214082|Chinese|273.84|Luxury
+Daugherty|Cooper Decker|Quamar Vasquez|159635|Italian|260.96|Master
+Charles|Anika Shannon|Lyle Church|827457|Italian|263.31|Simple
+Stephenson|Adena Collier|Ocean Jarvis|858399|Brazilian|19.14|Luxury
+Lancaster|Xenos King|Graiden Terrell|557403|Arabic|41.91|Super luxury
+Shaffer|Raven Jensen|Charde Garcia|599528|Japanese|249.90|Luxury
+Shepard|Abel Sandoval|Keaton Baxter|789946|Chinese|113.17|Simple
+Abbott|Alea Mcbride|Veronica Long|87889|Italian|25.46|Master
+Hardy|Cheryl Estrada|Mannix Lynn|498796|Chinese|210.73|Intermediary
+Noel|Nevada Austin|Mechelle Duke|785024|Chinese|225.26|Super luxury
+Holmes|Fleur Hurley|Larissa Giles|114165|Japanese|280.01|Luxury
+Oneill|Hilary Roberson|Hamish Kemp|320977|Arabic|62.99|Master
+Benjamin|Preston Mcdaniel|Xandra Gamble|84847|Chinese|166.09|Master
+Brock|Coby Watts|Edward Lindsay|184621|Brazilian|299.24|Intermediary
+Oneal|Ryder Riggs|McKenzie Blake|668483|Japanese|201.06|Luxury
+Rivera|Brenda Franco|Aileen Hudson|127970|Chinese|285.16|Super luxury
+Perkins|Hashim Cochran|Petra Leon|105163|Japanese|172.08|Simple
+Walter|Belle Howell|Miranda Mcdaniel|434015|Arabic|209.87|Master
+Merrill|Leila Mcconnell|Jonah Bartlett|557027|Italian|277.80|Luxury
+Richmond|Iola Holcomb|Anthony Myers|60979|Arabic|98.81|Simple
+Wallace|Ryan Kelley|Anne Mccray|484898|Chinese|117.71|Simple
+Mcdaniel|Aline Mercado|Francesca Durham|359955|Japanese|163.53|Master
+Ashley|Gregory Gordon|Kaye Estes|169518|Brazilian|183.92|Simple
+Patterson|Hope Dean|Stone Hurley|590994|Chinese|116.88|Luxury
+Lopez|Leila Nixon|Lance Sosa|158909|Italian|127.98|Super luxury
+Higgins|Dante Harmon|Elmo Head|720793|Chinese|137.27|Simple
+Delaney|Norman Duffy|Arden Kennedy|468310|Chinese|298.94|Master
+Sloan|Farrah Hopper|Inez Odonnell|564402|Japanese|159.76|Intermediary
+James|Felix Gibson|Hector Mcfarland|259715|Brazilian|140.15|Master
+Dalton|Allistair Rios|Dennis Castaneda|119005|Chinese|292.28|Master
+Gallegos|Denise Gaines|Raphael Wilkinson|664884|Chinese|68.70|Simple
+Leon|Brandon Hodges|Adara Miller|788067|Italian|299.76|Intermediary
+Hunt|September Foster|Chava Ashley|357976|Chinese|251.86|Intermediary
+Graham|Carol Mathis|Quail Ramos|360603|Italian|150.89|Master
+Acosta|Sonia Adams|Denise Molina|158427|Brazilian|298.20|Intermediary
+Whitney|Kelly Snyder|Anjolie Dudley|116749|Italian|184.20|Intermediary
+Matthews|Cadman Reyes|Eleanor Rich|768286|Japanese|30.24|Luxury
+Byrd|Rafael Richards|Martin Powers|97411|Japanese|220.88|Simple
+Osborn|Abel Kramer|Kristen Irwin|3245|Japanese|207.06|Simple
+Ayala|Rigel Craft|Jin Anthony|162783|Italian|112.02|Simple
+Bates|Kennedy Cervantes|Quail Odonnell|597882|Brazilian|276.02|Intermediary
+Jennings|Neville Mckenzie|Lana Collins|407216|Chinese|155.92|Master
+Chavez|Constance Cox|Gloria Allen|122362|Italian|201.38|Master
+Mcfarland|Adrian Stanley|Whilemina Chan|686889|Chinese|234.57|Master
+Herring|Palmer Bender|Coby Salas|321980|Brazilian|271.57|Super luxury
+Higgins|Kadeem May|Nyssa Mckay|613997|Brazilian|51.45|Simple
+Chavez|Griffith Giles|Alden Allen|767550|Brazilian|109.66|Super luxury
+Wilkins|Colorado Fernandez|Quinn Graves|785758|Italian|82.34|Intermediary
+Buckley|Pamela Estes|Galvin Logan|337514|Japanese|29.11|Super luxury
+Petty|Jennifer Lara|Mark Murphy|224322|Brazilian|21.53|Master
+Vang|Tatyana Humphrey|Orla Mcintyre|920632|Japanese|230.58|Simple
+Holman|Leslie Williams|Dominique Chandler|71603|Brazilian|59.90|Luxury
+Hull|Dale Cash|Jemima Rowland|769205|Italian|37.76|Intermediary
+Andrews|Jenna Mullins|Ginger Dalton|468708|Chinese|86.75|Simple
+Collier|Pascale Roth|Ferris Schroeder|454347|Chinese|65.45|Simple
+Brock|Maggie Roy|Fallon Clarke|256677|Chinese|94.86|Master
+Rivas|Calista Brooks|Teegan Rasmussen|788369|Arabic|13.06|Super luxury
+Salazar|Hyacinth Davenport|Hayley Wiley|829640|Chinese|89.56|Simple
+Mcfarland|Dora Guerrero|Macy Lawrence|492091|Arabic|131.83|Super luxury
+Ramos|Boris Hogan|Jeremy Avila|399746|Brazilian|165.10|Intermediary
+Oneal|Karyn Rivera|Plato Becker|844134|Italian|296.59|Super luxury
+Barrett|Hamish Bates|Hayes Burnett|429600|Japanese|251.81|Super luxury
+Roth|Harrison Sears|Barclay Washington|74692|Arabic|124.45|Simple
+Britt|Chaim Mcknight|Willow Langley|375519|Italian|188.87|Intermediary
+Allen|Britanney Chapman|Indigo Daugherty|759344|Chinese|35.05|Simple
+Chaney|Jade Marks|Wylie Blackwell|523609|Italian|197.91|Luxury
+Daniel|Rebekah Petty|Quin Ochoa|685422|Italian|250.87|Simple
+Skinner|Rhona Burris|Iliana Molina|553196|Japanese|158.26|Simple
+Lynn|Illana Robertson|August Burns|838777|Brazilian|12.02|Master
+Delgado|Lacota Soto|Oliver Hutchinson|480853|Italian|200.98|Simple
+Daugherty|Ignatius Harmon|Rogan Francis|25641|Arabic|209.75|Simple
+Joyner|Ella George|Keely Pierce|244717|Italian|284.37|Luxury
+Jennings|Margaret Mitchell|Kristen Pierce|109494|Italian|48.56|Master
+Rocha|Byron Brooks|Fay Benton|421243|Italian|10.18|Intermediary
+Moses|Lacota Benton|Guy Smith|981623|Chinese|263.42|Master
+Morin|Macaulay Rollins|Anastasia Bowen|210193|Chinese|49.47|Simple
+Carpenter|Vincent Ferrell|Regan Parrish|883742|Arabic|259.62|Master
+Sims|Vielka Knowles|Castor Horn|656004|Brazilian|196.06|Super luxury
+Mercer|Victoria Hensley|Nadine Wynn|347195|Italian|229.65|Luxury
+Figueroa|Kennan Houston|Fatima Patel|71621|Chinese|211.84|Intermediary
+Gould|Imani Perkins|Elizabeth Charles|891916|Italian|71.90|Intermediary
+Rios|Jane Brown|Kamal Bean|807825|Italian|66.68|Simple
+Shepard|Sarah Stevens|Chantale Wade|365834|Brazilian|210.00|Master
+Sims|Dahlia Livingston|Samson Calhoun|351642|Arabic|138.89|Intermediary
+Peterson|Upton Williams|Elijah Combs|108964|Italian|172.60|Simple
+Mccarty|Idona Harrell|Brendan Carney|42976|Japanese|224.40|Intermediary
+Harvey|Rebecca Haley|Maris Mooney|277308|Arabic|217.92|Master
+Holder|Hanna Beach|Bree Grant|555789|Italian|179.90|Master
+Pugh|Josephine Ruiz|Beau Carey|773427|Italian|214.02|Super luxury
+Price|Hall Sawyer|Fleur Cherry|760107|Chinese|116.44|Super luxury
+Jacobson|Quintessa Cohen|Norman Joseph|142834|Arabic|67.24|Intermediary
+Potts|Justin Goodwin|Zephania Moran|774771|Brazilian|205.31|Simple
+Clements|Adele Burris|Macey House|707345|Japanese|180.20|Luxury
+Vaughn|Clio Deleon|Uriah Dejesus|751713|Arabic|122.71|Super luxury
+Reyes|Oscar James|Quail Crawford|771641|Brazilian|250.11|Master
+Hurst|Ella Wong|Anika Stout|371581|Japanese|299.32|Intermediary
+Jimenez|Alec Jordan|Eric Horton|551207|Italian|224.01|Intermediary
+Farley|Francis Buckley|Barclay Howard|298344|Japanese|215.56|Luxury
+Arnold|Naida Sweeney|Uta Turner|788207|Italian|114.88|Super luxury
+Carrillo|Brett Fischer|Ali Britt|957978|Brazilian|134.57|Simple
+Hartman|Isabella Petersen|Zelenia Parks|149487|Arabic|83.24|Intermediary
+Nielsen|Zane Bullock|Finn Valentine|311641|Brazilian|46.92|Simple
+Padilla|Anjolie Justice|Maite Gibson|323786|Japanese|112.39|Super luxury
+George|Mufutau Wilcox|Sacha Campos|985645|Brazilian|273.05|Master
+Lawrence|Haley Booth|Rylee Frank|140401|Japanese|186.67|Luxury
+Bauer|Cadman Garner|Abraham Shelton|236944|Arabic|74.81|Luxury
+Estrada|Bradley Jordan|Karen Dorsey|531702|Brazilian|28.25|Intermediary
+Bradford|Silas Blake|Amaya Witt|323331|Brazilian|173.81|Super luxury
+Dillard|Ingrid Roberson|Shay Townsend|324492|Japanese|52.59|Simple
+Mullins|Joel Luna|Alisa Walker|28609|Brazilian|198.70|Super luxury
+Schultz|Keaton Day|Mechelle Bryan|964139|Brazilian|205.56|Super luxury
+Solis|Carolyn Boyle|Maile Pitts|753219|Brazilian|276.27|Luxury
+Ferrell|Lamar Serrano|Amos Riley|384134|Chinese|235.17|Super luxury
+Roberts|Dane Hill|Nehru Mcgowan|396532|Italian|97.01|Simple
+Baldwin|Bruno Williamson|Demetrius Martin|24709|Japanese|38.18|Super luxury
+Mendoza|Camille Palmer|Eliana Bentley|632485|Brazilian|220.29|Luxury
+Wilkerson|Nichole Pickett|Nicole Melton|885184|Brazilian|208.16|Super luxury
+Farmer|Benjamin Snider|Tanisha Prince|914114|Brazilian|137.22|Luxury
+Hahn|Benedict Blankenship|Priscilla Carson|579608|Japanese|196.04|Simple
+Koch|Katelyn Bowers|Jerry Lee|850183|Arabic|38.60|Intermediary
+Velez|Sonya Shields|Chloe Ray|539114|Italian|175.06|Simple
+Norman|Tanya Martin|Jaquelyn Bradshaw|481491|Brazilian|29.17|Super luxury
+Buck|Shoshana Briggs|Dara Adams|207872|Arabic|119.98|Simple
+Nguyen|Miranda Rowe|Desiree Griffin|58082|Japanese|133.80|Master
+Knapp|Allegra Baker|Neville Ratliff|658102|Arabic|251.76|Super luxury
+Bradshaw|Wendy Daniel|Quintessa Payne|824147|Chinese|45.85|Intermediary
+Hubbard|Alana Ingram|Burton Harvey|61773|Japanese|276.89|Intermediary
+Vaughn|Brent Dodson|Dai Terry|257080|Japanese|26.63|Simple
+Richardson|Petra Underwood|Shoshana Moreno|407162|Italian|200.57|Master
+Anderson|Phelan Hurst|Maite Nelson|423348|Chinese|136.68|Intermediary
+Berg|Yael Sosa|Meghan Dillon|779594|Italian|259.74|Master
+Oliver|Lani Wallace|Tanisha Thornton|119302|Italian|23.39|Master
+Holloway|Tatyana Justice|Dean Singleton|825723|Arabic|20.25|Intermediary
+Reese|Rhona Ramirez|Hayden Lambert|470|Japanese|100.10|Luxury
+Bowers|Whilemina Pruitt|Alec Floyd|573751|Chinese|49.97|Master
+Fernandez|Jonah Harper|Beck Cooper|230138|Brazilian|187.11|Simple
+Mullen|Jade Parsons|Dieter Montgomery|116197|Japanese|202.86|Luxury
+Cole|Megan Douglas|Magee Vincent|51608|Brazilian|172.95|Luxury
+Hyde|Skyler Finley|Lael Fernandez|468997|Arabic|129.41|Super luxury
+Hoover|Erin Herrera|Nevada Scott|211137|Brazilian|88.49|Luxury
+Erickson|Hyatt Casey|McKenzie Hill|899565|Brazilian|275.15|Simple
+Klein|Phillip Huffman|Gail Holloway|538097|Chinese|213.35|Super luxury
+Sanford|Keelie Johnson|Blaze Black|44216|Arabic|23.74|Super luxury
+Robertson|Grady Chapman|Ann Skinner|911378|Brazilian|21.19|Super luxury
+Decker|Eliana Emerson|Adele Mcfarland|480928|Italian|17.11|Intermediary
