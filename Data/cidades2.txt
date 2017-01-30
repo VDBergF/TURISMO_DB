@@ -1,0 +1,500 @@
+Wynne|West Virginia|9675316
+Powell|Nebraska|7738951
+Normal|Utah|7633089
+Boston|Massachusetts|9970468
+Laramie|Maryland|8280271
+San Luis Obispo|Texas|4474972
+Lowell|Connecticut|8625715
+Beaumont|Oregon|1818182
+Gary|Maine|5871213
+Palm Springs|Louisiana|66025
+Cape May|Nebraska|8368397
+Laughlin|Rhode Island|5301913
+Miami Beach|Mississippi|6744715
+Effingham|New York|9177564
+Wausau|Wyoming|2078820
+New Iberia|West Virginia|9660815
+Duarte|Pennsylvania|8248169
+Fitchburg|Alabama|2687157
+Broken Arrow|Georgia|5542420
+Orange|Connecticut|7941605
+Sierra Madre|Georgia|4726263
+Bowie|South Dakota|1413011
+Signal Hill|Indiana|4224354
+Fredericksburg|Colorado|443613
+Brigham City|North Carolina|7227736
+Bend|California|31282
+Carolina|Delaware|6882708
+Orange|Florida|4778260
+Tok|Tennessee|7568345
+Colorado Springs|Arizona|1323708
+West Allis|New Hampshire|9596498
+Sunnyvale|Texas|9677823
+Denver|Ohio|9779256
+Champaign|Massachusetts|9130964
+Mentor|Vermont|9908263
+Haverhill|Rhode Island|4211085
+Twin Falls|Nevada|1121651
+Oneida|Wyoming|4166309
+Cypress|New Hampshire|4907566
+Decatur|Delaware|3468842
+Butler|New Mexico|3176440
+Corinth|Virginia|2315203
+Hagerstown|Virginia|9057494
+Guthrie|South Carolina|3090759
+Brownsville|Massachusetts|3494531
+Corinth|Virginia|5836302
+Webster Groves|Idaho|1198525
+Corona|Arkansas|2269018
+Muncie|Louisiana|4518656
+New Rochelle|Illinois|533729
+Apple Valley|Alaska|8397836
+Temecula|West Virginia|5625452
+Fargo|Colorado|1147777
+Fitchburg|Texas|9732194
+Gardner|Maryland|4764822
+Bremerton|Arizona|4661058
+Cary|North Dakota|957255
+Newburgh|South Carolina|4614371
+Provo|New York|6947374
+Huntington|Arkansas|5286766
+Littleton|Idaho|4725691
+Kent|Connecticut|3730742
+Boise|Tennessee|5578086
+Sacramento|Oklahoma|6345368
+Haverhill|Utah|9763547
+Fontana|New York|2017799
+Cedarburg|Iowa|8809479
+Hermitage|Iowa|2451879
+Newport News|New Jersey|4817169
+Idaho Springs|Pennsylvania|5176128
+San Bernardino|Texas|3723862
+Rolling Hills|Michigan|4244014
+San Antonio|Indiana|7807917
+Jeffersonville|Colorado|1715925
+Ogdensburg|Louisiana|3874215
+Midland|Minnesota|1731887
+Elko|Oklahoma|3303857
+Atlanta|New Jersey|2363519
+Chino|Mississippi|3109560
+Superior|Arizona|1302755
+Kahului|Arizona|8240510
+West Sacramento|Colorado|7814115
+Monterey|New Hampshire|7821212
+Independence|New Hampshire|307938
+Corinth|South Dakota|1771578
+Bozeman|Oklahoma|9303796
+Pico Rivera|Nebraska|6669193
+Pass Christian|Louisiana|5342498
+Oro Valley|Montana|8370637
+Hammond|Connecticut|550266
+International Falls|Maine|8194636
+Alameda|Oklahoma|2117547
+North Charleston|Georgia|519004
+Oklahoma City|Rhode Island|2926357
+Durham|North Dakota|1114005
+Sheboygan|North Carolina|3844238
+Fountain Valley|Delaware|2743265
+Burlington|New Jersey|9863386
+Orangeburg|Louisiana|690453
+North Adams|California|2056955
+Rutland|Alabama|6185863
+Nashua|Utah|5070818
+Monterey Park|Oregon|4808597
+Overland Park|Alabama|2277838
+Chino|New York|2337213
+Clemson|Wisconsin|1747955
+Eureka|Illinois|9628768
+Cruz Bay|Montana|950283
+Kenner|Wisconsin|5435137
+Kent|Pennsylvania|190243
+Stanton|Pennsylvania|6841651
+New Iberia|Florida|4201094
+Cortland|Oregon|5020236
+Binghamton|Rhode Island|7481716
+Lincoln|Montana|6682721
+Tok|Missouri|2188967
+Cedar Falls|Louisiana|1581143
+Scranton|Michigan|586154
+Texas City|North Carolina|5410661
+Eatontown|Iowa|7922218
+Martinsburg|Alaska|726606
+Morrison|Pennsylvania|8007483
+Bell|Nevada|998783
+Cape May|Nevada|8511445
+North Las Vegas|North Dakota|6223831
+Huntington|Hawaii|2303856
+Bossier City|Michigan|2589804
+Palos Verdes Estates|Michigan|7021706
+Saint Cloud|Oregon|2019822
+Lubbock|New York|620538
+Tacoma|South Carolina|8871520
+Guayama|New Mexico|6222986
+Corinth|Michigan|6403138
+Houston|Pennsylvania|5445006
+Santa Clarita|Maine|3902474
+Murray|New Hampshire|7757165
+Evanston|Mississippi|2027953
+Chandler|Georgia|1063919
+Hawaiian Gardens|West Virginia|8258866
+Moorhead|New York|1910940
+Brea|Washington|1516469
+Costa Mesa|Indiana|3870350
+Lake Charles|Nevada|2549177
+Columbia|Nebraska|1610306
+Winston-Salem|Oregon|8242922
+Bossier City|Arizona|5006602
+Los Alamitos|Pennsylvania|938141
+Valencia|Arkansas|8245495
+Sanford|Washington|1204209
+Nogales|Rhode Island|3439734
+Pittsburgh|South Carolina|3239171
+Monterey|South Dakota|5149639
+Honolulu|Louisiana|7885982
+Ansonia|Tennessee|2754184
+East Lansing|Texas|7566164
+Montebello|Ohio|6381308
+Idaho Falls|Washington|2848908
+San Francisco|Alaska|5008638
+Duluth|Utah|4553711
+San Clemente|Kentucky|8698333
+Danbury|Vermont|1226833
+White Plains|Connecticut|8631789
+Saint Louis|Missouri|984955
+Zanesville|Kentucky|9647598
+Greensburg|Illinois|2192324
+Fargo|Pennsylvania|5365094
+Kokomo|Maryland|417938
+Danville|Massachusetts|5917096
+Yazoo City|North Dakota|6033153
+Sheboygan|Colorado|2790597
+Woodward|Florida|8137341
+Port Orford|New Hampshire|8904697
+Somersworth|Colorado|3497871
+Saginaw|Nevada|1946070
+Paramount|Indiana|213746
+Duquesne|Texas|325756
+Caguas|Massachusetts|521442
+Columbus|Indiana|8732475
+Williston|Delaware|2902787
+Farmer City|South Dakota|8128669
+Gloversville|New York|1949562
+Fort Lauderdale|Indiana|5301757
+Lahaina|Maine|5996972
+Twin Falls|West Virginia|9210439
+Rialto|Minnesota|816620
+Orlando|Vermont|4608076
+East Lansing|Delaware|2044386
+Ephraim|Kentucky|9805430
+Dubuque|Nebraska|4348486
+Ponce|Nevada|8224856
+Lansing|Wisconsin|559277
+Sherrill|Wisconsin|5217675
+Stillwater|Illinois|585942
+Fredericksburg|Maryland|8570058
+Astoria|Minnesota|9566602
+Wilson|Virginia|3525017
+Tyler|North Carolina|8295255
+Hayward|Wisconsin|7199603
+Aurora|New Jersey|9453176
+Yukon|Virginia|6470064
+Niagara Falls|Oklahoma|545072
+Blythe|Iowa|9634028
+Billings|Ohio|1140786
+Seaford|Tennessee|7981542
+San Juan|New York|6124662
+Burbank|Kansas|8972745
+Enfield|Alabama|938167
+East St. Louis|Missouri|5697081
+Michigan City|Mississippi|226095
+Olympia|District of Columbia|9756982
+Cedar Rapids|New York|8183826
+Oxnard|Idaho|8936406
+Superior|Florida|140611
+La Mirada|Connecticut|9053948
+Peabody|Iowa|6790969
+Gulfport|Michigan|8323037
+Alpharetta|Illinois|6248807
+Saint Albans|New York|7824580
+Waycross|Nebraska|7373863
+Springfield|Vermont|4438243
+Missoula|Arizona|3237159
+Saint Albans|South Dakota|786243
+Ruston|Rhode Island|2363510
+Kingsport|Arkansas|2740452
+Belleville|South Carolina|4427626
+New Madrid|North Dakota|9855502
+Kokomo|Idaho|5714338
+Rancho Santa Margarita|Maryland|7710847
+Kenner|Oregon|7091040
+Arlington|West Virginia|1587874
+New Bedford|District of Columbia|9187501
+North Adams|Missouri|9014777
+Fairfield|Kentucky|161472
+Ames|New Jersey|6193194
+Revere|Nevada|3338490
+Beckley|Nevada|2250674
+Oxnard|Illinois|1209572
+Tampa|Montana|322717
+Chicopee|Alabama|3461509
+Aberdeen|Rhode Island|8568526
+Myrtle Beach|New York|5346128
+Lower Burrell|Maine|2753752
+Chicago|Nevada|8894020
+Carbondale|Indiana|4412810
+Sugar Land|Montana|6038380
+Dunkirk|Ohio|8817423
+Niagara Falls|New York|9630490
+Pullman|Mississippi|934262
+Westminster|Utah|1858074
+Healdsburg|Virginia|6961905
+Hermosa Beach|Ohio|3003008
+Sioux Falls|Maine|5849211
+Enfield|Louisiana|269693
+Macon|West Virginia|1855935
+Jackson|District of Columbia|3635106
+Redding|Montana|5854499
+Poughkeepsie|South Dakota|9668462
+Hackensack|Montana|6997554
+Astoria|Massachusetts|4526118
+Merced|South Dakota|6695914
+Raleigh|New Hampshire|8462538
+Cedarburg|Ohio|9975740
+Hackensack|Massachusetts|2117416
+Carson City|Wyoming|2124239
+Joplin|Ohio|8255497
+Covington|South Carolina|9094990
+McAllen|Virginia|5109332
+Twin Falls|New York|854348
+Diamond Bar|North Dakota|3261845
+Peru|Idaho|9784998
+Grafton|Maine|4830234
+Galesburg|Ohio|5765986
+Loudon|Idaho|8911123
+Dover|Massachusetts|1005210
+Covington|Kentucky|916382
+Omaha|Delaware|5098177
+Woburn|Florida|8810699
+Flint|Georgia|8517249
+Johnstown|Wisconsin|1821154
+Waterloo|Idaho|6895105
+Santa Rosa|Tennessee|3352678
+Artesia|Hawaii|6491478
+McAllen|Delaware|2728885
+East Lansing|South Dakota|5643796
+West Memphis|Wisconsin|8272973
+Waukegan|Nevada|5260669
+Oneonta|Ohio|5632896
+La Verne|Indiana|3924638
+Newburgh|New York|6062748
+Waterbury|Texas|6673742
+Laconia|New Mexico|3144812
+Concord|Texas|7683978
+Tuscaloosa|Kansas|7011468
+Malibu|Ohio|922676
+Wilson|West Virginia|8554881
+Sandy|Michigan|6091788
+Champaign|New Mexico|4213245
+Des Moines|Idaho|1833568
+North Chicago|Kentucky|3518418
+Sheboygan|California|1816053
+Darlington|Kentucky|1035992
+Roswell|South Carolina|2355211
+Lebanon|Nebraska|6439623
+Madison|Washington|8076380
+Somersworth|Alaska|4834463
+Elizabeth City|Rhode Island|5274362
+Klamath Falls|North Dakota|8146665
+Alamogordo|Maine|3020216
+San Diego|Florida|899010
+Bozeman|Georgia|9422806
+Beverly Hills|West Virginia|5402625
+Springdale|Vermont|1721730
+Beacon|Washington|2611430
+Butte|Oregon|5535610
+Orlando|Michigan|2080551
+Hermitage|Utah|5044851
+Nogales|Michigan|3799612
+Tempe|Wyoming|2455117
+Corinth|Rhode Island|8045496
+Oswego|Illinois|8821552
+Allentown|Illinois|4069475
+Morgantown|Massachusetts|1418433
+Aspen|Illinois|2154317
+Hollister|Indiana|5200933
+Cleveland|West Virginia|3510473
+Placentia|Maine|5049615
+Hopkinsville|Alabama|3761141
+Minnetonka|Delaware|5346489
+Walla Walla|Maryland|6139790
+Farmer City|Tennessee|901540
+North Chicago|New Hampshire|1943557
+Worland|Mississippi|1240972
+Raleigh|Massachusetts|8318667
+Yakima|Florida|3456953
+Weirton|Kentucky|2021786
+Bessemer|Maryland|8349289
+Palo Alto|Wyoming|9062919
+Monongahela|Texas|4687841
+Staunton|Delaware|7504268
+Oklahoma City|Arkansas|4715309
+Vergennes|South Dakota|758073
+Needham|Colorado|2712151
+Thomasville|South Carolina|1161319
+Durant|Pennsylvania|3409441
+Lebanon|Hawaii|7578551
+Butler|Arkansas|320557
+Orem|Arkansas|5577260
+Philadelphia|West Virginia|101445
+Cypress|Oklahoma|7780581
+Branson|West Virginia|9123171
+Cedar Falls|Georgia|9142315
+Rock Springs|Oregon|2740784
+Santa Fe Springs|Washington|9260603
+Wilson|Missouri|654939
+Salt Lake City|South Dakota|9686051
+Port Arthur|New York|264822
+Quincy|Connecticut|1432947
+Carrollton|Maine|2057045
+Mount Vernon|Illinois|8104150
+Dover|Pennsylvania|922857
+Morgantown|Louisiana|4017366
+Villa Park|Maryland|4385433
+Reading|Delaware|4306720
+Easthampton|Alabama|4755239
+Plano|North Carolina|5508635
+Newport|South Dakota|6736465
+Staunton|Pennsylvania|7297638
+Annapolis|Tennessee|594056
+Cruz Bay|South Carolina|5196709
+Waco|South Carolina|7431660
+Concord|Kentucky|2214444
+Gloversville|Alaska|3938190
+Broken Arrow|California|8655096
+Stillwater|Alabama|4246471
+Salt Lake City|North Carolina|1251422
+Laguna Hills|Idaho|8171549
+Biloxi|Virginia|2436754
+Temple City|Mississippi|9058116
+Texas City|New Jersey|7061300
+Culver City|Utah|8390377
+Camden|Wisconsin|9763522
+Garden Grove|West Virginia|2965224
+Fayetteville|Nebraska|7220407
+Concord|Mississippi|1232021
+Danbury|Mississippi|7993011
+Bend|Louisiana|6633241
+Guayama|California|5980568
+Claremont|Arizona|4894963
+Gainesville|Colorado|5406681
+Huntsville|Kansas|62650
+West Memphis|New Mexico|2706062
+Falls Church|New Jersey|993985
+St. Marys|Utah|4997911
+Pierre|Texas|1443332
+Highland Park|Kentucky|7834608
+Kona|Connecticut|1395973
+West Jordan|Louisiana|3537888
+Mason City|Missouri|6593233
+Stanton|Virginia|4955526
+Saint Louis|Tennessee|7811988
+Pico Rivera|Mississippi|901724
+Charleston|Virginia|608060
+Calumet City|Pennsylvania|7082979
+Akron|California|5975863
+Kankakee|Illinois|4967658
+Danbury|Alaska|9995071
+South El Monte|Rhode Island|48875
+Tok|West Virginia|5133787
+New Albany|Utah|3663205
+Mandan|Kentucky|2745666
+Ann Arbor|New Jersey|5434843
+Minneapolis|Nebraska|5692747
+Union City|Maryland|2497438
+Columbus|Indiana|5639674
+Shelton|Maine|5312913
+Manassas|Washington|296317
+Hawaiian Gardens|New Hampshire|350596
+Keene|New Mexico|3997445
+Rock Island|Alabama|5828715
+Kalispell|Montana|5093200
+Clairton|Michigan|1174913
+Joliet|New Mexico|631081
+Wisconsin Dells|Alaska|2696266
+Vail|District of Columbia|837480
+New Iberia|Delaware|288567
+Chico|North Dakota|3483640
+Stafford|Washington|8825981
+San Jose|New Mexico|1964973
+Derby|Oregon|9273094
+St. Petersburg|Kentucky|1404769
+Hazleton|District of Columbia|6735546
+Lynchburg|Missouri|2044897
+Layton|Montana|7481791
+Tempe|Missouri|3245995
+Greenfield|Connecticut|804208
+Reading|Connecticut|1305430
+Norfolk|Oregon|1147464
+Paramount|Ohio|3791354
+Gulfport|New York|3882415
+Keene|Idaho|3598381
+Jeffersontown|Washington|438814
+West Valley City|Hawaii|8425923
+La Habra Heights|Washington|61573
+Mechanicville|Ohio|5703428
+Frisco|Hawaii|7921387
+Kahului|Colorado|8619928
+Pottsville|South Dakota|1198852
+Kokomo|Maine|8308106
+Oak Ridge|Connecticut|1356419
+Waterbury|Idaho|4715088
+Yonkers|South Dakota|1857911
+Washington|Alabama|5905451
+Annapolis|Nebraska|7003353
+North Las Vegas|Wisconsin|2991750
+Glen Cove|Massachusetts|3121824
+Ogdensburg|Illinois|5532979
+Branson|Idaho|4560969
+Caguas|Iowa|4018760
+Newark|Nevada|4444972
+Two Rivers|Delaware|9903372
+Port Washington|North Carolina|8475230
+Marietta|Arizona|5704139
+McAllen|Oklahoma|7335123
+Lufkin|South Carolina|8490361
+Temple City|Oregon|8289318
+Lynchburg|Illinois|1715503
+Carolina|Alabama|5327986
+Littleton|Delaware|1250855
+Natchitoches|New Hampshire|6244928
+Irvine|Maryland|1950391
+Visalia|Nebraska|1826824
+Chelsea|Maryland|8493011
+East Lansing|District of Columbia|4311372
+Fall River|Iowa|7166069
+Greenfield|Hawaii|8275962
+Little Rock|New Jersey|7522002
+South Gate|Rhode Island|5228284
+Methuen|Alaska|4476856
+Youngstown|Nevada|8994311
+Marietta|New Hampshire|8667459
+Bowie|New Mexico|6245913
+Rawlins|Wyoming|7585492
+La Jolla|New Jersey|7084025
+West Warwick|Massachusetts|5706337
+Dunkirk|Connecticut|7517427
+Winston-Salem|Hawaii|8955657
+Lafayette|Missouri|1228620
+Greenfield|Rhode Island|5168176
+Thibodaux|Louisiana|8592249
+Tamuning|Pennsylvania|1443108
+Easton|Delaware|6585702
+Syracuse|Hawaii|4402776
+Vincennes|Idaho|1600725
+Galveston|District of Columbia|3042017
+Battle Creek|Delaware|7208314
+Casper|Oklahoma|7543483
+Lincoln|Colorado|9121127
+Pierre|Hawaii|2382968
+Manassas Park|North Dakota|9963089
+Gulfport|Connecticut|4958144

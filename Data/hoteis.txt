@@ -1,0 +1,500 @@
+2 Star|Massey|66622 North Albania St.
+0 Star|Lambert|37336 East Dayton Ave.
+1 Star|Fischer|89779 South Lakewood Ave.
+1 Star|Meadows|70065 South Aliso Viejo Way
+4 Star|Cochran|65001 West Belarus Way
+4 Star|Giles|86817  Seychelles Way
+3 Star|Alexander|82427 North Barbados St.
+4 Star|Watts|6862  Dominican Republic Ave.
+4 Star|Shields|33347 East Del Rio St.
+2 Star|Reilly|44432 East Niue Ln.
+2 Star|Maynard|21020 South Sao Tome and Principe Blvd.
+2 Star|Bowen|97232  Mongolia Ct.
+4 Star|Hopkins|34152 West Swaziland Ct.
+3 Star|Frazier|72134  Angola Way
+0 Star|Parks|80605 West Asbury Park St.
+5 Star|Arnold|11398 North Durango Blvd.
+4 Star|Noel|14083 East India Blvd.
+4 Star|Bishop|94931  Anguilla St.
+4 Star|Higgins|8225 North Mayotte Way
+3 Star|Eaton|96070 West Tunisia Ln.
+5 Star|Nicholson|21213 East Hartland Way
+2 Star|Mathews|56020 East Anderson St.
+3 Star|Brown|62322 South Bell Gardens St.
+2 Star|Mccullough|57720 North Hollywood Ct.
+5 Star|Glenn|48012 South China Ave.
+5 Star|Collier|13170  Dodge City St.
+0 Star|Mcneil|51409 South Bosnia and Herzegovina St.
+4 Star|Cannon|92770 South Trinidad and Tobago St.
+4 Star|Short|8959  Israel Ave.
+2 Star|Cruz|73974 North El Salvador Ave.
+3 Star|Mercado|78758 North Guam St.
+2 Star|Dudley|29995 East Chile Ln.
+5 Star|Carson|20057 South Concord Ct.
+2 Star|Skinner|83596 North France St.
+3 Star|Marsh|2655 South Norway Way
+5 Star|Foster|78792 South Fontana Ln.
+5 Star|Parker|5039  Bhutan Ave.
+0 Star|Kane|98697 South Botswana Blvd.
+3 Star|Fry|69388 North Hawaiian Gardens St.
+4 Star|Mckay|84036 North Brazil Ct.
+0 Star|Murray|84397  Zambia Ct.
+5 Star|Mcpherson|83165  Canada Ave.
+2 Star|Craig|86642  France St.
+5 Star|Sampson|27471 West Algeria Ln.
+5 Star|Rojas|27467  Eufaula St.
+0 Star|Parsons|27406 East Cameroon St.
+5 Star|Castillo|6160 West Beloit Ln.
+1 Star|Randall|78100 North Greenland Ln.
+4 Star|Ratliff|5633 South Mongolia St.
+4 Star|Murray|81215 West Azerbaijan Ct.
+3 Star|Franks|79823 West Belarus Ct.
+0 Star|Burke|39712 West Yemen Blvd.
+2 Star|Dotson|52531 South Afghanistan Ct.
+3 Star|Cantu|18729 South Portsmouth Way
+3 Star|Walters|6786 North Afghanistan Blvd.
+2 Star|Reese|86013 West Fairfax Ct.
+1 Star|Walton|43073 East Cruz Bay Ct.
+5 Star|Giles|8586  Billings Ave.
+2 Star|Dean|77821 East Brazil Ct.
+4 Star|Cain|48336  French Southern Territories St.
+5 Star|Vega|40423  Madagascar Blvd.
+0 Star|Cummings|84627 South Morocco Ave.
+4 Star|Lester|89123 North Kahului Ave.
+2 Star|Wells|1626 South Baltimore Way
+3 Star|Pacheco|75329 East Cayman Islands Ave.
+4 Star|Hanson|25630 West Botswana Ave.
+0 Star|Moreno|27803 South Slovenia Way
+2 Star|Dillon|14375 North Australia Ln.
+5 Star|Hebert|5231 South Kenya Ct.
+2 Star|Livingston|98138 East Niue Ave.
+1 Star|Medina|31824 North Rwanda Blvd.
+1 Star|Hoffman|80588 North Grenada Way
+5 Star|Meyers|29378  Burundi Way
+5 Star|Baldwin|63239 South American Samoa Ln.
+5 Star|Hayes|92309 North Armenia Ln.
+3 Star|Heath|40299 South Israel Blvd.
+3 Star|Watts|59217 East Mauritania Ct.
+0 Star|Hood|5281 North Medford Blvd.
+1 Star|Nelson|96924 East Christmas Island Ct.
+5 Star|Dominguez|77630 North Chula Vista Blvd.
+3 Star|Rios|37164 South Suriname St.
+5 Star|Thornton|55218  United States Minor Outlying Islands Ln.
+3 Star|Boyd|69814 South Mayotte Blvd.
+3 Star|Carrillo|26852 South Azerbaijan Ave.
+4 Star|Foster|83489 East Georgetown Ln.
+2 Star|Jimenez|53891 South Antigua and Barbuda Ave.
+4 Star|Robbins|73549 South Cambodia St.
+1 Star|Richard|42017 North China Ct.
+3 Star|Berry|2418 West Tunisia Ln.
+4 Star|Campbell|225  Australia Blvd.
+2 Star|Cochran|73425 East Honduras Ct.
+0 Star|Hood|14079 West Claremore Ct.
+1 Star|Goodwin|3811 East Austria St.
+0 Star|Hebert|40652 North Bremerton Ct.
+5 Star|Hammond|23641  Atwater Blvd.
+5 Star|Sosa|37142 East San Marino St.
+2 Star|Beard|35812 West Costa Rica Ave.
+3 Star|Lucas|87337 North Beaver Falls Blvd.
+3 Star|Harrington|51438  Aruba Blvd.
+2 Star|Nixon|18528 South Ecuador Way
+1 Star|Chen|45633 South Malta Ct.
+3 Star|Villarreal|34572 West Bangladesh Ct.
+2 Star|Britt|16128 West Syrian Arab Republic Blvd.
+5 Star|Callahan|20141  Artesia St.
+3 Star|Bright|5947 West Liberia St.
+4 Star|Sims|6733 North Armenia Ave.
+1 Star|Schneider|98345 East El Paso Ln.
+2 Star|Osborne|86375 North Peru St.
+3 Star|Pollard|92662 South Greenville Ct.
+4 Star|Klein|42680 East Charleston Ct.
+3 Star|Robles|99350 South Belize St.
+3 Star|Hanson|71982 West Cyprus Ct.
+5 Star|Watts|4124  Agoura Hills Way
+0 Star|Velez|41750 East Pitcairn Ave.
+4 Star|Guzman|86393 West Tokelau Blvd.
+1 Star|Chambers|44599 West Atlantic City Ave.
+4 Star|Wells|49708 West Malaysia Ct.
+1 Star|Park|32586  Galveston Way
+0 Star|Hammond|5725 South Syrian Arab Republic Blvd.
+2 Star|Finley|79413 West Lebanon Ct.
+1 Star|Faulkner|82178 West Georgia Way
+0 Star|Nichols|80461 South Iceland Ave.
+1 Star|Waters|22354 West Monaco Ct.
+1 Star|Harding|73022 West East Rutherford Way
+3 Star|Goff|44650 North Beacon Ave.
+3 Star|Blackburn|35054 East Bangladesh Ave.
+2 Star|Hutchinson|2635 East Costa Rica Ct.
+2 Star|Whitfield|29548 East Nepal Ln.
+4 Star|Newton|91925 South Tanzania, United Republic of Ct.
+1 Star|Shannon|52948 South Elizabeth City Way
+3 Star|Medina|11986  Burkina Faso Way
+3 Star|Velez|69057 North Honduras Ct.
+2 Star|Carrillo|45979  French Southern Territories Ct.
+0 Star|Rios|94016 East Aguadilla Way
+5 Star|Rodriguez|58825 East Bulgaria Way
+3 Star|Odonnell|34141 West Plainfield Blvd.
+2 Star|Puckett|85661 South Cambodia Blvd.
+0 Star|Conner|38414 West Norway Way
+2 Star|Chandler|36832 South Seychelles Ln.
+3 Star|Gamble|305 East Kyrgyzstan Ct.
+5 Star|Gilmore|5936 North El Cerrito Ln.
+4 Star|Kim|52064  Durango Ln.
+1 Star|Morin|18275 North Gambia St.
+4 Star|Hopper|51864 West Azerbaijan Ave.
+2 Star|Stout|13908 North Bhutan St.
+1 Star|Humphrey|29295 North Algeria Ln.
+3 Star|Pate|91536 North Ghana Blvd.
+5 Star|Peters|17502  Papua New Guinea St.
+3 Star|Francis|4814 South Bangladesh Blvd.
+5 Star|Figueroa|26916  Batavia Way
+5 Star|Nichols|13302 North El Salvador Way
+2 Star|Valdez|38851 East Brazil Blvd.
+4 Star|Peters|34461 West Canada St.
+2 Star|Sullivan|25630 West Uganda Blvd.
+3 Star|Britt|24122 South Israel Way
+2 Star|Hull|42274 North Poland Ave.
+1 Star|Ferrell|49007 North Macao Ave.
+2 Star|Leonard|84418 North Bouvet Island Ave.
+4 Star|Barry|88655  Bismarck Ln.
+0 Star|Patrick|88396 North Dallas Ave.
+5 Star|David|19019 East Marshall Islands St.
+1 Star|Hawkins|8375 West Cook Islands St.
+3 Star|Guerrero|98610 North Liechtenstein Ln.
+3 Star|Jones|65694 South Mozambique Ave.
+4 Star|Mosley|32523  Samoa Ln.
+0 Star|Merritt|54137 South Argentina Ct.
+0 Star|Munoz|9563  Myanmar St.
+5 Star|Carver|6686 South Luxembourg Blvd.
+4 Star|Lucas|83800 South Cook Islands Ct.
+1 Star|Nguyen|56525 West Plano Blvd.
+5 Star|Huber|25784 South Chile Blvd.
+5 Star|Mason|27232 West Cook Islands Blvd.
+2 Star|Foster|95321  Palestinian Territory, Occupied Ln.
+0 Star|Contreras|1790 West Niue St.
+3 Star|Mccoy|74028 South Belgium Ave.
+3 Star|Burton|47873  Ireland Ave.
+1 Star|Noel|35662  Bolivia Way
+3 Star|Spence|40216 South Claremont Ave.
+3 Star|Rivers|2612  Brunei Darussalam Blvd.
+3 Star|Harding|77120 North Grenada Way
+2 Star|Irwin|57316 East Morocco Ct.
+4 Star|Barron|23177 North Albany Ln.
+2 Star|Beck|80631 West Botswana Ct.
+2 Star|Long|68897 South Little Rock Way
+2 Star|Brady|99974 East Algeria Way
+0 Star|Salazar|22013 North Uruguay Ln.
+4 Star|Leonard|63563  Netherlands Ln.
+1 Star|Kent|68354 North Micronesia Ct.
+5 Star|Hobbs|62580 East Andorra Ave.
+3 Star|Melendez|15113 East Long Beach Ct.
+5 Star|Barron|45680 North Malaysia Blvd.
+0 Star|Wade|70652 East Chicago Heights Ave.
+1 Star|Mooney|68 West Puerto Rico Ln.
+2 Star|Austin|82163 West Oxnard Way
+4 Star|Wells|61405 West France Blvd.
+4 Star|Witt|41340 North Niue Way
+3 Star|Snyder|53965 North Maldives Way
+5 Star|Davis|91356  Cook Islands St.
+1 Star|Sullivan|22720  Mason City Way
+0 Star|Hardy|81111 North Falkland Islands (Malvinas) St.
+0 Star|Francis|89155 West Luxembourg Ct.
+3 Star|Baird|73845 East Albania Blvd.
+0 Star|Mcguire|91752 South Cocos (Keeling) Islands Ct.
+5 Star|Craft|51778 East Burkina Faso Way
+4 Star|Graves|92431 West Great Falls Way
+5 Star|Emerson|58040 South Sierra Leone St.
+1 Star|Chan|66092 North American Samoa Way
+5 Star|Mclaughlin|16012 East Argentina Ln.
+1 Star|Olson|65683  Western Sahara St.
+4 Star|Wallace|83800 South French Southern Territories Blvd.
+5 Star|Sanford|48981 North Costa Rica Blvd.
+5 Star|Acosta|81266 South Green Bay Way
+2 Star|Knight|33029 East Turkey St.
+5 Star|Bentley|97604 South Butler St.
+0 Star|Mccormick|71592 North Tunisia Blvd.
+1 Star|Lott|1134  Greensburg Way
+4 Star|Le|45646 North Albania Blvd.
+4 Star|Hubbard|99347  Estonia St.
+1 Star|Conway|7257 East Central African Republic Way
+1 Star|Bryant|21558 North Kuwait Ct.
+0 Star|Potter|10063 West Togo Way
+2 Star|Cantrell|30555 West Aruba Ln.
+2 Star|Bowers|14616 North Czech Republic St.
+3 Star|Sherman|60332 West Colombia Way
+0 Star|Fuentes|14810 North Danbury Way
+3 Star|Bradshaw|39267 East Mali Ct.
+2 Star|Santana|16255 West Australia Ct.
+3 Star|Stokes|45536  Chile Ave.
+3 Star|Chan|7814 North Haiti Ct.
+2 Star|Clayton|40970 East Frisco Blvd.
+4 Star|Jacobson|78010 North Burundi Ct.
+2 Star|Randolph|67752 West Bangladesh Ln.
+3 Star|Leach|54541 South Libyan Arab Jamahiriya Way
+3 Star|Arnold|82548 West San Marino Blvd.
+5 Star|Sanford|26889 East Marshall Islands Blvd.
+5 Star|Rojas|48447 West Benin Way
+1 Star|Langley|30458 South Belarus Blvd.
+3 Star|Thomas|44528 East Faroe Islands St.
+0 Star|Stark|27420 East Fulton Ct.
+2 Star|Mcfarland|69190 West Kuwait Blvd.
+4 Star|Benton|17506 East Namibia St.
+1 Star|Shepard|99169 East Bosnia and Herzegovina St.
+3 Star|Pearson|36511 West Brunei Darussalam Ln.
+4 Star|Mueller|49241  Alhambra Ct.
+1 Star|Cantrell|4711 West Algeria Ln.
+1 Star|Weeks|13523 South Papua New Guinea Ave.
+4 Star|Harvey|54060 South Atlanta Way
+0 Star|Guzman|63383  Albania St.
+3 Star|Cannon|82166 South Canada Ln.
+1 Star|Parks|83890 East Switzerland St.
+0 Star|Daniel|3637  Bowie Way
+3 Star|Fry|7241 West Iraq Way
+1 Star|William|77741 West Ecuador Ln.
+4 Star|Harmon|14828  Canada Way
+4 Star|Larsen|41529  Chandler St.
+3 Star|Grant|66787 North Christmas Island St.
+4 Star|Fleming|73090 South Dominican Republic Way
+4 Star|Rivers|20263 South Montpelier Ct.
+2 Star|Valentine|61135 West Guatemala St.
+1 Star|Le|89091 North Anguilla Way
+1 Star|Mcdonald|30035 West Portsmouth St.
+3 Star|Douglas|48369 East Armenia Ln.
+3 Star|Shaffer|51302 South Grand Junction Ln.
+1 Star|Booth|62677 East Cook Islands Ave.
+3 Star|Franks|43094 North Pakistan Ave.
+5 Star|Buck|389 North Chad Ct.
+4 Star|Sanchez|97196  Palau Blvd.
+0 Star|Jackson|42736 West Abilene Ct.
+3 Star|Fischer|91547 East Tonga Ct.
+3 Star|Burks|41679  Marshall Islands Ave.
+3 Star|House|29581  Nigeria Ct.
+2 Star|Whitfield|5836 East Christmas Island Way
+0 Star|Pruitt|62135  Romania Ct.
+5 Star|Franco|70140 West Mauritius Ct.
+1 Star|Delgado|36062 East Flagstaff Ave.
+4 Star|Hopkins|91997 West Niger Ct.
+3 Star|Riley|30914 North Clearwater Ct.
+3 Star|Camacho|51087 East Albania Ct.
+1 Star|Bernard|78754 West Jamaica Ave.
+5 Star|Carey|95899  Bolivia Blvd.
+4 Star|Bush|5622 West Chile Ln.
+2 Star|Benjamin|65909  Bahrain Way
+1 Star|Baxter|48953 East Morocco Blvd.
+4 Star|Greene|48891 West Gadsden Blvd.
+0 Star|Charles|56924 North Congo Ln.
+1 Star|Cole|20230 South Chad Blvd.
+5 Star|Ellis|71476 East Northern Mariana Islands Ln.
+1 Star|Noel|31817 West Miami Beach Ln.
+2 Star|Welch|72064 West American Samoa Ct.
+2 Star|Hansen|83791  Lesotho Blvd.
+2 Star|Kim|65895 South Bouvet Island Way
+3 Star|Bates|73452 South Olean Ln.
+0 Star|Irwin|62658 South Turks and Caicos Islands Ave.
+5 Star|Nixon|40923  Ghana Ave.
+1 Star|Dale|48648 West Austria Ct.
+0 Star|Ayala|16216 East Aruba Way
+3 Star|Lambert|89731 East Duncan Blvd.
+3 Star|Pugh|78737 South Astoria Blvd.
+4 Star|Michael|69366 West Papua New Guinea Blvd.
+3 Star|Larson|95632  Martinique Ln.
+0 Star|Chang|50442 West Suriname St.
+2 Star|Rasmussen|12984 North Samoa Ln.
+0 Star|Martinez|41184 West Uruguay Ln.
+0 Star|Combs|74602 East Chad Way
+0 Star|Noel|86766 North Bakersfield Way
+1 Star|Mann|28751 East Liechtenstein Ave.
+0 Star|Sheppard|22753 North Anaconda St.
+4 Star|Wiggins|96899 South Mexico St.
+3 Star|Emerson|11834 South Hidden Hills St.
+3 Star|Bentley|24448 North Angola Ave.
+1 Star|Delgado|79767  Council Bluffs Way
+2 Star|Reilly|88427  Colombia Ave.
+1 Star|Ayers|8085 North Netherlands Ct.
+5 Star|Stephenson|95661  Dominica Ln.
+0 Star|Merrill|81800  Fernley Ln.
+3 Star|Morton|81856 South South Africa Ave.
+1 Star|Mcknight|20844  Connellsville Ct.
+5 Star|Fields|1891 East Kazakhstan Ln.
+5 Star|Mathews|23373 North Burlingame Blvd.
+5 Star|Rosa|14505 South Dayton Blvd.
+3 Star|Cobb|72162 East Singapore St.
+1 Star|Spears|47077  Rwanda Blvd.
+4 Star|Andrews|63739 East Branson Ct.
+4 Star|Vazquez|97386 West Bouvet Island Blvd.
+3 Star|May|89420 South Rwanda Ct.
+0 Star|Delaney|87693 East Macedonia Ct.
+0 Star|Lynn|71005 East Honduras St.
+5 Star|Ashley|12941  Brazil Blvd.
+0 Star|Henson|9572 East Hungary St.
+2 Star|Mcfarland|53329 West Ecuador Ave.
+3 Star|Colon|29660  Grenada Ct.
+5 Star|Newman|22071 South Tanzania, United Republic of Blvd.
+4 Star|Carr|46198  Gabon Ave.
+0 Star|Strickland|46488  Highland Park Ln.
+1 Star|Stafford|4809 North Afghanistan Way
+5 Star|Case|3857 West France Ct.
+3 Star|Charles|17356 South Grenada Blvd.
+0 Star|Mercer|1533  Hialeah Blvd.
+1 Star|Spencer|41599 West Modesto Ave.
+4 Star|Benson|37531 East Panama Blvd.
+2 Star|Cruz|56312 West Guinea Way
+3 Star|Smith|13736  Hopkinsville Blvd.
+5 Star|Wilkinson|75017  Norway Blvd.
+0 Star|Gamble|58679 East Erie St.
+4 Star|Weiss|99144 South Papua New Guinea Ln.
+5 Star|Cox|75614 West Saudi Arabia Way
+1 Star|Cochran|50511  Andorra Blvd.
+5 Star|Bullock|83683 North Bhutan Blvd.
+3 Star|Sharpe|37945 East Hong Kong Way
+1 Star|Sykes|70431 North Eureka Ave.
+3 Star|Stone|53059 West Aruba St.
+2 Star|Barber|51638 South Aguadilla St.
+4 Star|Mcdonald|31704 West Germany Ct.
+1 Star|Erickson|48070 West Geneva St.
+0 Star|Holman|96250 South Dominican Republic Ave.
+1 Star|Fitzgerald|91534 East Aliso Viejo Ct.
+0 Star|Dillon|32327 West South Africa Ln.
+0 Star|Blake|62491 North Carbondale St.
+1 Star|Pollard|68301 North Cortland Ln.
+2 Star|Brown|70930 West Montserrat Way
+4 Star|Richards|46968 South Sri Lanka St.
+4 Star|Neal|94348 North Congo Ln.
+2 Star|Alvarado|62870 East Svalbard and Jan Mayen Ct.
+1 Star|Adams|29151 West Burkina Faso Blvd.
+3 Star|Cherry|38573 South Turkey Ln.
+4 Star|Travis|78631 East New Zealand Ln.
+5 Star|Anthony|7676 North Del Rio Ln.
+1 Star|Gallegos|64309 West Gatlinburg St.
+2 Star|Gates|94616 West Tanzania, United Republic of Ct.
+3 Star|Gibbs|78413 North China Ln.
+2 Star|Green|40158 East Austria Ln.
+1 Star|Reilly|12607 South Mechanicville Way
+2 Star|Hicks|58671 East Reunion Ln.
+2 Star|Morgan|16267 South Western Sahara Way
+0 Star|Simpson|95330 North Guyana Blvd.
+4 Star|Gill|84133 North Broken Arrow St.
+4 Star|Rosa|92687 South Carson City St.
+2 Star|Keller|35633 South Jamaica Way
+5 Star|Garza|8455 West Burlington Ln.
+5 Star|Joyce|30929 West Bulgaria St.
+0 Star|Savage|25497 South Singapore Blvd.
+4 Star|Cervantes|89869 North Albania Ave.
+5 Star|James|85862 West Agoura Hills Ln.
+5 Star|Kirk|96968 West Cincinnati Ln.
+4 Star|Villarreal|20885 West Singapore St.
+1 Star|Haley|12143 East Ephraim Ave.
+2 Star|Leach|6789 North Comoros Ave.
+4 Star|Suarez|29272 East Belarus Ave.
+3 Star|Barlow|49416  North Charleston Blvd.
+2 Star|Newman|33197  Alameda Ln.
+0 Star|Mcpherson|58495 South Cook Islands Ct.
+4 Star|Russell|6225 West Alhambra Blvd.
+5 Star|Wilkins|61261 South Sri Lanka Ave.
+1 Star|Combs|25025  Half Moon Bay Way
+1 Star|Duran|37249 North Saint Pierre and Miquelon Ln.
+4 Star|Lang|60841 West Aruba St.
+5 Star|Fuentes|46978  Fiji Way
+1 Star|Atkinson|99369  Duncan Ct.
+1 Star|Stafford|36643  Germany Ct.
+2 Star|Brewer|63115  Saint Lucia Way
+0 Star|Noel|98124 West Saudi Arabia Way
+1 Star|Fields|78465 South Gibraltar St.
+2 Star|Burgess|73212 North Trinidad and Tobago Ave.
+3 Star|Sargent|15779 North Bosnia and Herzegovina Way
+0 Star|Kennedy|84070 East Antigua and Barbuda St.
+0 Star|Briggs|69269 East Calabasas St.
+3 Star|Ramsey|70778 South Garden Grove Ct.
+0 Star|Richards|6648 South Aberdeen Ct.
+3 Star|Lowery|65196 North Switzerland Way
+2 Star|Campbell|33339 East Uruguay Ct.
+2 Star|Mendez|3866 South Honduras Ln.
+0 Star|Cohen|8082 North Burkina Faso Ln.
+1 Star|Hopkins|75462  Cape May Blvd.
+5 Star|Patel|87291 South Uganda Ln.
+4 Star|Pratt|48857 North Frankfort Ln.
+3 Star|Bartlett|19007 West Colombia St.
+3 Star|Mcbride|67739  Eden Prairie St.
+3 Star|Alford|47591 East Clemson Blvd.
+4 Star|Thomas|40969 South United States Minor Outlying Islands Ct.
+3 Star|Mueller|16471 North Suriname Ct.
+1 Star|Weaver|47154 South Kyrgyzstan Ct.
+1 Star|Church|4295 West Green Bay Way
+1 Star|Mitchell|330 South Lubbock St.
+4 Star|Manning|77576 West Gambia Ave.
+2 Star|Walton|61793 West Central African Republic St.
+5 Star|Owens|26882 North Western Sahara St.
+1 Star|Reeves|60587 North Charlotte Ave.
+3 Star|Dickerson|76242 South Mauritius St.
+0 Star|Booth|3979 North Palau St.
+5 Star|Rhodes|32914 North Venezuela St.
+0 Star|Barnes|52325 East Saint Kitts and Nevis Way
+0 Star|Fowler|42803 South Paraguay St.
+3 Star|Sellers|1965 South Barbados St.
+5 Star|Rosales|23401 East Gabon Ave.
+3 Star|Mcleod|68953 East Comoros Ct.
+5 Star|Palmer|98016 South Mayotte Blvd.
+1 Star|Cantu|5138 North Bouvet Island Ln.
+1 Star|Johnston|76931 West Malta Ct.
+5 Star|Nicholson|38522  Ecuador Blvd.
+3 Star|Castillo|79734 West Bell St.
+0 Star|Powell|50148 South Lakeland Blvd.
+1 Star|Acevedo|5760 North Switzerland Ln.
+0 Star|Britt|25847 West Dominican Republic Ln.
+3 Star|Combs|51108 East Germany Ln.
+2 Star|Valencia|72666 West Australia Ln.
+5 Star|Morrison|93044 North Wallis and Futuna Ave.
+0 Star|Barnett|40786  Comoros Blvd.
+1 Star|Figueroa|58191 North Serbia and Montenegro Blvd.
+1 Star|Avery|80160 East Helena St.
+4 Star|Cash|53351 North Evansville Way
+1 Star|Vazquez|80306 North Bosnia and Herzegovina Ct.
+2 Star|Serrano|84309 East Antigua and Barbuda St.
+3 Star|Wiggins|64386 North Downey St.
+1 Star|Goodwin|20368  Mexico St.
+1 Star|Gross|35252 South Bahrain St.
+0 Star|Rich|98021 South Chicopee Ave.
+0 Star|Decker|84238 South Cape May St.
+1 Star|Santana|72357 South Hornell Ct.
+5 Star|Morton|94310 East Cook Islands Ct.
+4 Star|Cotton|85587 West Malawi Blvd.
+3 Star|King|5787 West Ada St.
+5 Star|Adams|35567 South Clovis Ct.
+5 Star|Howe|25394  Great Falls Blvd.
+2 Star|Fletcher|17434 South Bangladesh Way
+4 Star|Sullivan|2126 East Angola Ct.
+1 Star|King|63353  Russian Federation Ct.
+1 Star|Hodge|61813 South Slovenia Way
+3 Star|Salinas|91409 South Rwanda Ave.
+4 Star|Warren|60856 East Malta Ct.
+2 Star|Hood|61639 North Malaysia Way
+0 Star|Golden|21594 West Fredericksburg Blvd.
+0 Star|Dennis|76912 East Cambodia Way
+3 Star|Grant|23016 West Uzbekistan Blvd.
+4 Star|Workman|56474  Yemen Ct.
+1 Star|Navarro|83912 East Alexandria Blvd.
+2 Star|Gray|73136 East Norman Way
+0 Star|Callahan|27842  Tuvalu Ct.
+3 Star|Carey|23859 North Senegal St.
+1 Star|Marquez|16055 South Bouvet Island Ct.
+4 Star|Kent|62067 South Centennial Ct.
+0 Star|Hickman|64790 South Netherlands Ave.
+1 Star|French|60122 North Bayamon Blvd.
+4 Star|Nielsen|55464 South Bouvet Island Ct.
+1 Star|Phelps|33545 East Philippines St.
+1 Star|Jarvis|21956  Colombia St.
+1 Star|Lane|26585 West Malta St.
+4 Star|Summers|20101 South Cayman Islands Ave.
+2 Star|Vinson|90790 South Frederick St.
+2 Star|Sparks|21886 East Ethiopia Way
+1 Star|Carroll|16260 West Tuvalu Way
+1 Star|Clayton|97381 West Equatorial Guinea Ct.
+4 Star|Humphrey|88092 East Hartford Blvd.
+5 Star|Brown|11830  Honduras St.
+0 Star|Rocha|59417 South Binghamton Ln.
+3 Star|Kaufman|64815  British Indian Ocean Territory Blvd.
+0 Star|Gilmore|3325  San Marino Way
+2 Star|Sampson|13113 West Hungary Ave.
+1 Star|Daniel|51133  French Southern Territories Way
+1 Star|Hampton|25821 West Liberia Ave.
+4 Star|Ross|71332 East Alhambra Ln.

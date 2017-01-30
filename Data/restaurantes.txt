@@ -1,0 +1,500 @@
+Japanese food|200.17|Luxury|Wright|87436 North Cerritos Way
+Japanese food|289.17|Super luxury|Mack|75181  Comoros Ct.
+Japanese food|18.28|Super luxury|Owens|1832 South Arcadia Ave.
+Arabic food|162.54|Master|Floyd|52567 South Switzerland St.
+Brazilian food|129.59|Super luxury|Jenkins|87165 East Japan Ln.
+Japanese food|240.27|Luxury|Bates|72805 South Greece Ct.
+Chinese food|191.36|Master|Manning|18036  Djibouti Ct.
+Japanese food|117.40|Luxury|Pacheco|27017 West Culver City Ln.
+Chinese food|133.35|Master|Dalton|26564 North Azerbaijan Way
+Arabic food|76.26|Luxury|Callahan|6809 North Costa Rica Ln.
+Brazilian food|32.44|Intermediary|Davis|52557 North Georgia Ct.
+Japanese food|68.27|Simple|Massey|82075 South Philippines Ln.
+Arabic food|225.21|Super luxury|Hood|26790 West El Salvador Way
+Italian food|156.76|Intermediary|Espinoza|71222 North Congo Ln.
+Arabic food|204.55|Intermediary|Curtis|20814 West Kazakhstan Ct.
+Chinese food|276.55|Luxury|Gibson|41075 North Chico Way
+Brazilian food|97.63|Simple|Hooper|37313  Austria Ct.
+Brazilian food|157.42|Master|Ayers|50631 North American Samoa Ave.
+Italian food|97.04|Intermediary|Holmes|19324 North Cameroon Ln.
+Italian food|271.84|Master|Estrada|53751 East Oman Ct.
+Chinese food|134.56|Master|Cervantes|46063 North Tanzania, United Republic of Ave.
+Chinese food|294.54|Simple|Booker|48409  Taiwan, Province of China Ave.
+Arabic food|12.84|Luxury|Burris|52168 South Japan Ct.
+Japanese food|138.55|Simple|Perry|93261 West Taiwan, Province of China Ln.
+Chinese food|109.61|Simple|Parks|71168 East Singapore Ln.
+Arabic food|56.99|Super luxury|Moss|76927 North Bangladesh Ct.
+Arabic food|274.47|Super luxury|Hansen|72866 South Denmark Ct.
+Brazilian food|190.34|Intermediary|Watkins|20510 East Guinea St.
+Italian food|240.85|Simple|Klein|29193 West Blacksburg St.
+Chinese food|147.39|Simple|Blankenship|59367 South Brazil Way
+Chinese food|205.47|Luxury|Francis|52405 North Mozambique Ct.
+Japanese food|181.69|Simple|Rowland|2741 West Saint Lucia St.
+Japanese food|214.57|Master|Chang|24341 West Micronesia Ln.
+Italian food|169.72|Super luxury|Glover|17671  Azusa Blvd.
+Japanese food|243.86|Luxury|Becker|19486 North Odessa Way
+Japanese food|11.92|Intermediary|Alston|2725 North Falkland Islands (Malvinas) Ct.
+Italian food|138.78|Super luxury|Elliott|68874  Cambodia Way
+Chinese food|227.47|Intermediary|Wallace|53252 East Bulgaria Ln.
+Japanese food|27.41|Super luxury|Benson|10880 South Afghanistan St.
+Japanese food|160.25|Super luxury|Merritt|80601  Kyrgyzstan Way
+Brazilian food|140.68|Simple|Tyler|23979 West Japan Ave.
+Brazilian food|217.28|Luxury|Peck|15185 East Cocos (Keeling) Islands Ct.
+Italian food|155.29|Super luxury|Sexton|9595 South Germany Way
+Arabic food|41.70|Master|Mccoy|7839 East Bolivia St.
+Italian food|171.73|Luxury|Phelps|85463 West Lesotho Blvd.
+Italian food|139.06|Luxury|Spence|83208  British Indian Ocean Territory Blvd.
+Arabic food|142.18|Super luxury|Wynn|60734 East Palestinian Territory, Occupied Blvd.
+Arabic food|220.00|Simple|Cherry|28402 South United Arab Emirates Way
+Brazilian food|152.18|Intermediary|Berry|18484 South Georgetown St.
+Chinese food|106.95|Super luxury|Mcintosh|77842 South Beacon Blvd.
+Chinese food|218.06|Intermediary|Byers|33978 South Dickinson Ct.
+Italian food|255.63|Luxury|Dalton|1082 East Aruba St.
+Japanese food|282.11|Luxury|Collins|39006  Aruba Ct.
+Japanese food|122.18|Super luxury|Snyder|61012 West Spain Ln.
+Arabic food|278.95|Simple|Holt|88301  Bolivia Blvd.
+Japanese food|14.43|Luxury|Rodriguez|86904 North Benin Ct.
+Italian food|78.21|Master|West|56725 West New Castle Ln.
+Italian food|85.03|Master|Ingram|73687 South Albuquerque Way
+Arabic food|107.09|Luxury|Davis|62338 East Honduras St.
+Brazilian food|286.61|Simple|Justice|37318 South Virgin Islands, British St.
+Italian food|221.47|Super luxury|Peterson|90738  Equatorial Guinea Ct.
+Chinese food|105.02|Super luxury|Woods|44905 East Cameroon Ct.
+Brazilian food|241.75|Super luxury|Anthony|22403  Albania Way
+Italian food|29.09|Intermediary|Shannon|74073 South Bahrain Ave.
+Arabic food|11.00|Master|Ortiz|5293 North Anderson St.
+Arabic food|55.20|Intermediary|Mccoy|82911 West Angola Ave.
+Brazilian food|276.35|Simple|Lindsey|79727 North Chula Vista Blvd.
+Brazilian food|45.62|Master|Herman|42786  United Arab Emirates St.
+Arabic food|45.17|Master|Gentry|21634 West Namibia Blvd.
+Japanese food|76.11|Master|Franks|80466 North Myanmar Ct.
+Brazilian food|204.88|Simple|Ramirez|348 South Pomona Ln.
+Arabic food|151.78|Luxury|Wilkerson|2115 East Cairo Way
+Italian food|22.02|Intermediary|Terrell|41258 East Dodge City St.
+Arabic food|289.51|Super luxury|Fitzgerald|91811 South Fiji Ln.
+Chinese food|215.29|Luxury|Mcbride|97423 East Burundi Way
+Japanese food|196.30|Master|Frost|23959 East Falkland Islands (Malvinas) Ln.
+Italian food|111.44|Simple|Mays|4532 North Botswana Ln.
+Italian food|279.72|Super luxury|Parsons|41503 East Farrell St.
+Italian food|226.53|Luxury|Steele|4314 South Yemen Blvd.
+Arabic food|207.12|Super luxury|Clark|55106  Bangladesh St.
+Brazilian food|277.72|Luxury|Franco|30019 South Hungary Ln.
+Japanese food|274.86|Super luxury|Moore|65709 South Deadwood Ct.
+Arabic food|247.39|Intermediary|Winters|32746 North Hannibal Ln.
+Chinese food|146.50|Super luxury|Mcneil|23649 South Finland Ln.
+Italian food|285.80|Super luxury|Browning|44976 North Manassas Park Blvd.
+Brazilian food|204.02|Master|Burgess|86694  Japan Ave.
+Chinese food|87.96|Luxury|Little|77783 East Fiji Ave.
+Italian food|253.51|Luxury|Casey|9864 East North Tonawanda St.
+Japanese food|137.76|Simple|Morton|32927 West Saudi Arabia Ln.
+Japanese food|216.09|Simple|Shannon|24643 South Cumberland Ct.
+Italian food|139.81|Luxury|Fulton|16606  Belize Blvd.
+Brazilian food|259.44|Luxury|Cortez|16845 East Newcastle Way
+Brazilian food|178.34|Master|Vasquez|72783  Hampton Ln.
+Japanese food|215.92|Master|Finley|90509 South East Hartford Way
+Brazilian food|139.17|Simple|Mcmillan|11813 West Venezuela Ln.
+Chinese food|117.83|Super luxury|Mason|18905 East Nepal Ave.
+Brazilian food|67.12|Simple|Melton|77905 East Glens Falls Blvd.
+Brazilian food|103.60|Intermediary|Hess|65689 North Uruguay Way
+Chinese food|268.14|Luxury|Mercer|18973  Falkland Islands (Malvinas) Ct.
+Japanese food|243.88|Intermediary|Burns|34817  Antigua and Barbuda Way
+Italian food|63.26|Intermediary|Meadows|81446 East Nepal St.
+Japanese food|118.40|Simple|Clark|143 South Berlin Ct.
+Japanese food|184.88|Intermediary|Lee|73785 North Jordan Ave.
+Italian food|86.88|Luxury|Graves|23977 South Antarctica Blvd.
+Japanese food|162.23|Simple|Sharpe|6993 West Duncan Way
+Brazilian food|195.08|Super luxury|Reid|39447 North Afghanistan Ln.
+Italian food|100.97|Super luxury|Farmer|84951 North Gettysburg Ct.
+Italian food|181.53|Simple|Cline|29590  Pasco Way
+Italian food|88.19|Super luxury|Davis|56405 North Cook Islands Ct.
+Japanese food|16.20|Super luxury|Gilliam|15769  Frisco Ave.
+Italian food|107.14|Simple|Haynes|44510  Bermuda Ln.
+Italian food|29.85|Master|Jefferson|91365  Eritrea Ave.
+Brazilian food|264.52|Super luxury|Cross|84489 West Suriname St.
+Brazilian food|43.90|Master|Higgins|88860  Burbank Ln.
+Italian food|119.79|Luxury|Knowles|99079 South Fairmont Ct.
+Brazilian food|226.13|Super luxury|Benjamin|11150 South Algeria St.
+Italian food|72.81|Master|Kelly|45741 East Saint Pierre and Miquelon Way
+Brazilian food|196.35|Super luxury|Crawford|24723 West Georgia St.
+Japanese food|44.50|Master|Pace|30137 West Barbados Ln.
+Arabic food|208.62|Super luxury|Hurley|45001 East Fresno Ave.
+Japanese food|284.71|Intermediary|Brewer|17523 West French Polynesia St.
+Arabic food|219.57|Master|Keith|83302 East Burundi Ln.
+Arabic food|251.49|Super luxury|Travis|44824 North Chile Way
+Japanese food|127.19|Intermediary|Greene|19561 East Camden Ln.
+Chinese food|159.83|Super luxury|Reyes|38185 North Jordan Valley Blvd.
+Italian food|154.10|Simple|Sherman|3528 South Belgium Ct.
+Arabic food|56.61|Simple|Rowe|69642  Concord Blvd.
+Arabic food|173.25|Super luxury|Santana|63978 East Georgia Way
+Japanese food|87.42|Intermediary|Herrera|86373  Mongolia Ave.
+Brazilian food|296.17|Super luxury|Summers|57178 South Chad Ave.
+Arabic food|228.62|Simple|Randall|58641 East Bessemer Ln.
+Arabic food|38.30|Simple|Bruce|82360 East China Ln.
+Brazilian food|127.54|Luxury|Glass|69248 West Bolivia Ln.
+Chinese food|207.55|Simple|Gordon|6233  Moline Ave.
+Italian food|12.66|Luxury|Hawkins|60312 West Kuwait Way
+Chinese food|155.72|Intermediary|Glenn|47048 North Samoa St.
+Chinese food|54.88|Super luxury|Robbins|41885 South Guadeloupe St.
+Italian food|12.42|Luxury|Shepherd|42684 West Qatar St.
+Chinese food|22.16|Luxury|Davenport|34139 North Chad St.
+Arabic food|250.86|Super luxury|Faulkner|60843 North Guam Ct.
+Chinese food|24.89|Super luxury|Aguilar|29296 South Korea, Republic of Ave.
+Chinese food|42.27|Luxury|May|59641 West Dallas Ave.
+Japanese food|183.72|Simple|Burnett|18826  Tanzania, United Republic of St.
+Italian food|197.65|Luxury|Chaney|16147 North Norfolk Island Ln.
+Chinese food|216.89|Simple|Macias|76186 West Dover Blvd.
+Japanese food|263.92|Luxury|Wells|36174 West Mongolia Ct.
+Japanese food|121.67|Simple|Scott|59233 North Hayward Way
+Arabic food|80.56|Simple|Benton|96162  Fairfield Ave.
+Japanese food|78.68|Intermediary|Carney|16137 West Bolivia Ave.
+Italian food|227.43|Simple|Oconnor|36276 East Hoover Ct.
+Brazilian food|34.10|Super luxury|Woodward|56539 North Croatia St.
+Chinese food|111.20|Super luxury|Myers|22202 South Gadsden Ct.
+Arabic food|155.29|Intermediary|Carey|98499 West Ireland St.
+Arabic food|247.89|Intermediary|Woodward|62837 West Bolivia Ln.
+Italian food|63.66|Super luxury|Farley|66984 North India Way
+Brazilian food|227.00|Simple|Cash|44152 East Austria Ln.
+Japanese food|118.48|Intermediary|Rutledge|10443  Denver Way
+Brazilian food|209.11|Intermediary|Bird|87346 East Dominica Ln.
+Italian food|79.93|Master|Harrell|66876 North Heard Island and Mcdonald Islands Blvd.
+Brazilian food|19.09|Master|Gill|20513 West Knoxville Ct.
+Italian food|158.74|Simple|Thomas|83567  Independence Way
+Brazilian food|148.93|Super luxury|Hester|55466 East Micronesia St.
+Italian food|28.50|Luxury|Mayo|21104 North Biloxi St.
+Brazilian food|232.73|Intermediary|Hebert|60890 East Bhutan Ct.
+Chinese food|44.74|Master|Burgess|3353 South Tokelau Ave.
+Japanese food|212.90|Super luxury|Decker|25113 North Uzbekistan St.
+Italian food|122.22|Simple|Shannon|95372 West Mauritania St.
+Arabic food|34.14|Intermediary|Colon|85269 West Iowa City Way
+Arabic food|284.31|Super luxury|Becker|63175 West Afghanistan Ave.
+Chinese food|248.21|Master|Hendricks|60742  New Caledonia Blvd.
+Japanese food|108.54|Luxury|Barber|89966 East Ponce Ln.
+Brazilian food|130.98|Intermediary|Sosa|5276 East Maldives Ln.
+Italian food|202.83|Simple|Ruiz|1854  Angola Blvd.
+Brazilian food|42.87|Simple|Emerson|4336 East Botswana Blvd.
+Chinese food|266.51|Master|Garner|13471 North Cocos (Keeling) Islands Ave.
+Brazilian food|194.79|Luxury|Stevens|30455 South Heard Island and Mcdonald Islands Way
+Japanese food|70.97|Luxury|Rosales|66625  United Arab Emirates Ct.
+Chinese food|281.18|Luxury|Turner|93366 North Joliet Ct.
+Italian food|180.05|Luxury|Merritt|27695 West Flint Way
+Japanese food|263.30|Intermediary|Harrell|42170 South Martinique Blvd.
+Italian food|28.73|Master|Maddox|20914 South Botswana St.
+Chinese food|35.33|Intermediary|Berry|78665 West Greenfield St.
+Chinese food|26.75|Luxury|Odom|70313  Luxembourg St.
+Chinese food|51.71|Simple|Juarez|87280  Alexandria St.
+Chinese food|147.89|Master|Woods|71757 North Barbados Ct.
+Italian food|262.77|Simple|Byrd|74289 East Claremore Ave.
+Japanese food|124.73|Simple|Sampson|83725 West Guinea St.
+Brazilian food|177.00|Luxury|Smith|62191 West Ansonia St.
+Brazilian food|291.24|Luxury|Bryan|48046 North Belgium Blvd.
+Italian food|290.63|Super luxury|Bell|37171 East Bermuda St.
+Brazilian food|101.87|Intermediary|Conrad|86778  Philippines Blvd.
+Italian food|123.25|Super luxury|Savage|78925 East Brazil Ave.
+Arabic food|242.97|Super luxury|Casey|58684 East Malaysia Way
+Japanese food|277.91|Intermediary|Knox|5152  Lebanon Blvd.
+Arabic food|37.25|Luxury|Ochoa|3283 West Cuba Way
+Brazilian food|131.35|Luxury|Pugh|38437 East Botswana Way
+Arabic food|93.86|Super luxury|Kirkland|70610 South Bolivia Ln.
+Arabic food|291.74|Master|Palmer|85907 East Algeria Ct.
+Japanese food|128.84|Master|Stanley|76951 West Mongolia Ct.
+Japanese food|251.91|Luxury|Mathis|25977 North Peekskill Way
+Chinese food|161.85|Simple|Pena|34260  Malaysia Ave.
+Arabic food|30.86|Luxury|Castaneda|62149  Aspen Ct.
+Arabic food|62.59|Luxury|Navarro|99983 West Belarus Blvd.
+Brazilian food|90.89|Intermediary|Washington|67601 North Oak Ridge Blvd.
+Brazilian food|125.33|Master|Gaines|43979 East Vanuatu Way
+Arabic food|229.25|Simple|Becker|21627 South Niger St.
+Japanese food|206.50|Simple|Zamora|84971 East Barbados Way
+Japanese food|223.62|Luxury|Riddle|17259 North Comoros Way
+Chinese food|258.10|Intermediary|Blake|5360 West New Zealand Ln.
+Chinese food|118.63|Luxury|Espinoza|21305 West Tajikistan Ln.
+Brazilian food|233.93|Intermediary|Terrell|46619 North Aruba Blvd.
+Arabic food|90.20|Intermediary|Humphrey|37858 West Lakeland Ave.
+Brazilian food|154.48|Luxury|Ellison|95297  Grenada St.
+Brazilian food|137.81|Super luxury|Nicholson|88735  Togo Ave.
+Brazilian food|149.09|Simple|Lambert|54399  Slovenia St.
+Italian food|179.35|Super luxury|Acevedo|70177 West Florence St.
+Japanese food|64.85|Intermediary|Jacobs|15895 South Iraq Ave.
+Italian food|220.63|Intermediary|Cash|54044  Pitcairn Ln.
+Arabic food|53.59|Simple|Cote|9735 East Irving Ave.
+Italian food|203.51|Simple|Blevins|71314  Buena Park Ave.
+Italian food|41.63|Simple|Oliver|85515 South Western Sahara Way
+Italian food|153.16|Super luxury|Whitehead|70058 East Gulfport St.
+Chinese food|157.03|Super luxury|Stark|30815  Congo Blvd.
+Japanese food|215.36|Simple|Hunter|65344 South Brownsville Ct.
+Japanese food|84.56|Super luxury|Sparks|86385 West Saint Helena Blvd.
+Japanese food|195.54|Super luxury|Dorsey|24502 South Fairfield Ave.
+Chinese food|48.97|Super luxury|Rios|97507 West East Hartford Ave.
+Brazilian food|220.41|Super luxury|Ware|80332 South Biddeford Blvd.
+Japanese food|227.47|Super luxury|Contreras|39220 East Cocos (Keeling) Islands St.
+Italian food|194.42|Super luxury|Pate|13072 East Cocos (Keeling) Islands Ct.
+Japanese food|201.00|Luxury|Ashley|33596  South Georgia and The South Sandwich Islands Way
+Arabic food|110.27|Master|Stephenson|80579 West Bulgaria Blvd.
+Arabic food|228.80|Super luxury|Hendrix|49211 East Carbondale Way
+Arabic food|113.75|Simple|Noble|86845 West Montserrat Blvd.
+Arabic food|151.98|Intermediary|Green|92989 North Bahamas Ln.
+Italian food|123.84|Super luxury|Mann|41010 North Spain Ln.
+Chinese food|237.61|Luxury|Mccray|13202  Fountain Valley Ln.
+Japanese food|241.89|Simple|Boyle|19416 South Burundi Ave.
+Japanese food|17.69|Master|Sweeney|28753 South Syrian Arab Republic Blvd.
+Arabic food|104.22|Luxury|Horton|48962 South Chicago Way
+Italian food|85.73|Master|Bolton|97194 North Uruguay Ave.
+Italian food|182.58|Super luxury|Rhodes|85057 North Eden Prairie St.
+Chinese food|156.01|Master|Schroeder|63769  South Africa Way
+Chinese food|153.11|Super luxury|Parks|41093 North Biddeford St.
+Arabic food|245.65|Luxury|Kelley|14760 East Suriname Ln.
+Chinese food|242.32|Super luxury|Lee|74235 West Canada Blvd.
+Japanese food|266.42|Intermediary|Robertson|25459 South Chicago Blvd.
+Brazilian food|137.63|Luxury|Dodson|71064 South Lock Haven Blvd.
+Japanese food|179.41|Simple|Mccormick|19070 West Eritrea Ct.
+Arabic food|184.29|Luxury|Mclean|51509 West Ogden Ln.
+Arabic food|15.15|Simple|Walters|31933 South Estonia Ct.
+Brazilian food|198.69|Master|Pearson|23196 North Hungary Way
+Italian food|125.33|Master|Riddle|84727 South Saint Kitts and Nevis Ln.
+Japanese food|71.66|Simple|Donaldson|23933 East Asheville Ln.
+Japanese food|168.77|Master|Brock|47098 North El Segundo Blvd.
+Italian food|143.05|Master|Carroll|4451 West Edmond Way
+Japanese food|297.99|Intermediary|Blair|31223 South Chad Ln.
+Arabic food|239.73|Intermediary|Lyons|42025 East Binghamton Ln.
+Italian food|189.64|Super luxury|Santiago|51783 East India Ln.
+Japanese food|223.81|Simple|Baxter|64386 West Enid Blvd.
+Arabic food|256.72|Luxury|Rose|38755  Bay St. Louis Ct.
+Chinese food|21.36|Intermediary|Becker|27967 West Bangladesh St.
+Arabic food|111.13|Super luxury|Allen|19041 West Haiti Blvd.
+Arabic food|294.10|Intermediary|Parks|32719  French Guiana Way
+Chinese food|84.69|Luxury|Roy|78029 South Haverhill Ct.
+Japanese food|105.93|Simple|Duran|87291 West Antigua and Barbuda St.
+Japanese food|155.48|Simple|Bernard|90920  Armenia Ct.
+Japanese food|35.80|Master|Patterson|36057 South Bowie Way
+Arabic food|201.90|Intermediary|Beard|75502 North Yemen Ave.
+Chinese food|128.97|Master|Todd|61882 West Palau Ln.
+Arabic food|196.91|Master|Washington|9706 East Iran, Islamic Republic of Ct.
+Arabic food|255.80|Luxury|Valencia|97704 West Huntington Beach Ct.
+Italian food|164.61|Master|Martinez|89698 West Turkey Blvd.
+Brazilian food|72.48|Super luxury|Mcpherson|26911 West Brunei Darussalam Ave.
+Brazilian food|132.66|Luxury|Bullock|29707 West Tuvalu Ave.
+Arabic food|40.33|Intermediary|Brennan|58417  Macao Ave.
+Arabic food|31.17|Master|Benjamin|55100 North Chad St.
+Chinese food|171.76|Luxury|Brewer|26188  Tokelau Way
+Arabic food|150.25|Simple|Pugh|49821 North Chester St.
+Chinese food|69.45|Luxury|Nunez|3615 East Laughlin St.
+Brazilian food|25.35|Master|Nielsen|13827  Falkland Islands (Malvinas) Blvd.
+Arabic food|209.89|Luxury|Christian|93730 North Belize Ave.
+Arabic food|44.97|Luxury|Bates|36112  Goose Creek Ct.
+Chinese food|276.68|Master|Boyer|94696 North Agoura Hills St.
+Japanese food|265.85|Intermediary|Valentine|18961 South Spain Ave.
+Chinese food|170.38|Simple|Morton|40197  Cayman Islands Blvd.
+Arabic food|132.08|Luxury|Stafford|48544 East Northern Mariana Islands Way
+Brazilian food|71.96|Luxury|Morrison|2729 East Norfolk Island Ave.
+Japanese food|101.44|Simple|Juarez|10403 East Palestinian Territory, Occupied Blvd.
+Brazilian food|129.19|Intermediary|Kemp|16875 North Serbia and Montenegro Ln.
+Japanese food|97.36|Luxury|Head|36861  Virgin Islands, British St.
+Brazilian food|37.99|Luxury|Carter|34665 West Australia Ct.
+Italian food|101.95|Intermediary|Robertson|27923 South Papua New Guinea Way
+Chinese food|238.82|Intermediary|Odonnell|55223  Grambling Way
+Japanese food|52.97|Luxury|Sloan|14314 East Trinidad and Tobago Ln.
+Arabic food|138.35|Simple|Terry|21256 East Christmas Island Ave.
+Chinese food|116.49|Luxury|Mayo|11217 West Champaign Ln.
+Italian food|191.37|Simple|Calhoun|15227  Canada Ave.
+Italian food|268.43|Super luxury|Hester|47640  Burkina Faso St.
+Chinese food|22.22|Simple|Morse|46808  Andorra Ave.
+Japanese food|134.98|Master|Dawson|40013 West Suriname Ct.
+Chinese food|55.00|Luxury|Ramirez|97399 South Boulder Junction Ct.
+Chinese food|161.00|Master|Noble|14700 South Brazil Way
+Japanese food|192.56|Luxury|Poole|6556 North Svalbard and Jan Mayen Ln.
+Brazilian food|285.62|Intermediary|Franco|20996 North Oman Ave.
+Japanese food|146.50|Simple|Dodson|41462 North Gallup St.
+Italian food|111.34|Master|Burton|16429 North Lancaster Way
+Chinese food|244.96|Intermediary|Mcclure|43490 South Manhattan Beach Way
+Italian food|19.36|Master|Boyle|30817 East Cedarburg Blvd.
+Arabic food|179.92|Luxury|Harper|25068 North American Samoa St.
+Italian food|177.31|Master|Kane|31668 East Bouvet Island Ave.
+Chinese food|281.09|Master|Gomez|74328 South Altoona St.
+Italian food|62.44|Intermediary|Ingram|30528  Dallas Ln.
+Brazilian food|54.69|Master|Hayes|61055 West Bosnia and Herzegovina Ln.
+Italian food|154.22|Intermediary|Hines|18983 East Bermuda Ave.
+Italian food|189.07|Intermediary|Nash|15999 East LaGrange Blvd.
+Brazilian food|63.45|Master|Cash|59137 South Bangladesh Ct.
+Chinese food|126.56|Master|Stanton|17815 East El Salvador St.
+Arabic food|186.52|Super luxury|Owen|77078 North Frisco Ave.
+Italian food|67.51|Simple|Garrett|44177 East Saint Helena Blvd.
+Japanese food|140.02|Luxury|Charles|31240 South Myanmar Ln.
+Italian food|286.30|Simple|Alvarado|64448 East Uruguay St.
+Chinese food|259.82|Intermediary|Todd|31061 South Cranston Ln.
+Japanese food|240.97|Luxury|Huff|49048 West Chile St.
+Japanese food|287.78|Simple|Stein|98817 West Bosnia and Herzegovina Ln.
+Arabic food|210.30|Luxury|Wynn|51018 West Dubuque Ct.
+Chinese food|279.39|Intermediary|Lawrence|95226 West Saint Helena Way
+Chinese food|196.45|Luxury|Bernard|52446 South Austria Ave.
+Japanese food|40.64|Super luxury|Brown|31669 North South Africa Way
+Brazilian food|282.07|Luxury|Dickson|52437  Idabel Ct.
+Italian food|129.85|Luxury|Hunter|13565 South France Ln.
+Italian food|156.25|Super luxury|Valdez|58616 East Bakersfield Ave.
+Italian food|197.04|Simple|Acevedo|46601  Mongolia Way
+Italian food|298.52|Master|Howard|57412 West Fort Wayne Way
+Arabic food|155.26|Intermediary|Cantrell|58610  Basin St.
+Italian food|130.22|Intermediary|Palmer|55854 South Myanmar Ave.
+Italian food|83.73|Intermediary|Hays|29934 South Botswana Ln.
+Chinese food|46.81|Simple|Griffith|71099 North Bangladesh Ave.
+Chinese food|52.65|Simple|Cotton|70395 South Argentina Blvd.
+Japanese food|213.37|Super luxury|Anthony|33094 West Mauritius Way
+Arabic food|152.88|Simple|Bernard|27701 North Charlottesville St.
+Arabic food|293.89|Luxury|Meyer|61201 South Sri Lanka St.
+Japanese food|203.28|Luxury|Guthrie|16988 North Australia Ave.
+Arabic food|93.97|Master|Hinton|73852 North New Haven Blvd.
+Japanese food|243.60|Simple|Castro|82290  Afghanistan Blvd.
+Chinese food|62.11|Luxury|Patel|97979 East Botswana Blvd.
+Japanese food|65.38|Super luxury|Nieves|33735 West Comoros Ct.
+Chinese food|146.55|Master|Dominguez|29155 North Costa Rica Way
+Chinese food|104.21|Luxury|Johnston|40801 West Mexico Ave.
+Italian food|236.28|Simple|Velasquez|22702 East Djibouti Blvd.
+Arabic food|265.41|Master|Norris|91187 West Algeria Way
+Arabic food|33.53|Simple|Grant|54717 South Nigeria St.
+Chinese food|114.18|Master|Gross|29478 West Beckley Ct.
+Arabic food|203.48|Master|Russo|6847 South Oman Ave.
+Japanese food|277.56|Intermediary|Wise|46614 South Haiti Ct.
+Chinese food|39.01|Master|Lowery|97534 West Nashville Way
+Arabic food|268.33|Intermediary|Hurst|25927 North Israel Ct.
+Japanese food|18.41|Simple|Gross|72111 West Bermuda Blvd.
+Chinese food|166.38|Intermediary|Harper|75200 South Bangor Way
+Chinese food|188.78|Master|Ayers|88271  Bouvet Island Ln.
+Brazilian food|164.53|Simple|Levy|35288 South Andorra Ave.
+Italian food|140.87|Master|Huff|73556 West Fort Worth St.
+Chinese food|153.55|Super luxury|Hester|54755 East Marshall Islands Ct.
+Arabic food|89.88|Super luxury|Lamb|37454  Batavia Way
+Arabic food|168.20|Simple|Sexton|71482  Andorra Ln.
+Arabic food|176.72|Intermediary|Tyler|57507 East Cape Verde Ave.
+Chinese food|274.33|Luxury|Herring|58732 East Guatemala Way
+Brazilian food|125.49|Master|Hart|80875 North Brown Deer Ave.
+Brazilian food|218.14|Master|Delgado|29665 West Peru Ave.
+Brazilian food|16.52|Master|Bush|23114  Bulgaria Ave.
+Italian food|175.88|Luxury|Vasquez|52033 East Gibraltar Way
+Brazilian food|77.56|Simple|Joyce|63228  Hong Kong Blvd.
+Arabic food|201.84|Super luxury|Howard|50893 East Botswana Ct.
+Brazilian food|86.36|Luxury|Delacruz|80625 North Canada Ct.
+Italian food|297.28|Simple|Haley|9672 North Chad Ave.
+Brazilian food|274.09|Super luxury|Matthews|97382 East Saudi Arabia Ave.
+Japanese food|52.92|Luxury|Donovan|83174 South Guadeloupe Ln.
+Arabic food|129.09|Master|Sims|37675 North Canada Ave.
+Japanese food|266.05|Intermediary|Zimmerman|61850 West Oman Way
+Chinese food|170.88|Master|Barker|79878  Elkhart St.
+Brazilian food|73.55|Master|Waller|31771  Vanuatu St.
+Brazilian food|100.77|Super luxury|England|27889  Finland Ln.
+Arabic food|285.72|Super luxury|Hudson|4598 East Manhattan Beach Ave.
+Japanese food|231.36|Super luxury|Bush|61554 North Puerto Rico Blvd.
+Brazilian food|129.43|Intermediary|Pitts|53426 West Russian Federation Blvd.
+Arabic food|245.95|Simple|Riddle|37087 North British Indian Ocean Territory Ln.
+Arabic food|174.69|Simple|Osborn|5547 East Bosnia and Herzegovina Ln.
+Japanese food|238.29|Simple|Giles|86129  Taiwan, Province of China Blvd.
+Italian food|224.87|Master|Carney|43310 West Lebanon Way
+Italian food|62.34|Super luxury|Wilder|72738 West Lander Blvd.
+Japanese food|200.23|Luxury|Estes|17208 East Canada Way
+Brazilian food|196.27|Master|Singleton|91635 East Macedonia Blvd.
+Italian food|295.15|Super luxury|Elliott|83151 East Mongolia St.
+Italian food|288.22|Master|Mejia|431 East Pakistan Ave.
+Brazilian food|130.38|Luxury|Hopkins|30709 West Maldives Ct.
+Japanese food|212.74|Master|Vinson|28655 West New Zealand St.
+Brazilian food|227.24|Master|Lopez|21705 East Greece Ct.
+Brazilian food|269.63|Luxury|Ayala|77261 South Christmas Island St.
+Arabic food|273.27|Simple|Preston|70553 West Cook Islands Way
+Italian food|222.89|Intermediary|Phillips|84310 East Butte Ln.
+Brazilian food|126.90|Simple|Morse|83109 South Bahamas Ct.
+Arabic food|160.41|Simple|Chen|43315 South Jeannette Blvd.
+Chinese food|236.70|Simple|Weaver|79609  Belize Way
+Japanese food|250.72|Super luxury|Peterson|91745 North Oakland Ct.
+Brazilian food|42.56|Master|Lowe|80658 South Portugal Ln.
+Chinese food|213.34|Super luxury|Baird|22677 East Fulton Ct.
+Japanese food|262.93|Master|Keith|4907 South Thailand Way
+Italian food|283.42|Simple|Hess|15945 West American Samoa Blvd.
+Japanese food|196.29|Intermediary|Sloan|69053  Covina Ct.
+Arabic food|146.74|Simple|Ellison|13933  Cody Ln.
+Brazilian food|156.76|Intermediary|Frost|55017  Faroe Islands Ct.
+Japanese food|231.09|Simple|Tyson|42662 West Mauritania St.
+Arabic food|165.45|Super luxury|Ewing|19362  Boston Ln.
+Arabic food|237.84|Master|Mueller|24521  Alpharetta Way
+Chinese food|130.24|Master|Delgado|50628 North Kyrgyzstan Ln.
+Japanese food|296.95|Simple|Nixon|97838 North Nicaragua Way
+Arabic food|208.83|Luxury|Mitchell|64832 South Barbados Ave.
+Japanese food|233.98|Simple|Mills|75660  Svalbard and Jan Mayen Blvd.
+Arabic food|53.72|Luxury|Obrien|41293 North Baldwin Park Way
+Brazilian food|221.24|Super luxury|Obrien|34133 East Guatemala Ave.
+Japanese food|192.97|Simple|Guthrie|89771 South Derby St.
+Italian food|165.28|Intermediary|Estrada|35804 South Bakersfield Way
+Brazilian food|297.88|Simple|Nielsen|99077  Burundi Ave.
+Japanese food|271.23|Luxury|Watson|40865  Suriname Blvd.
+Brazilian food|33.29|Master|Oliver|81336 West Irving Ct.
+Chinese food|236.19|Simple|Rosales|52495 East Finland Way
+Italian food|195.74|Luxury|Merrill|47036 North Lakeland Way
+Brazilian food|246.17|Luxury|Schultz|19634 North Central African Republic Ln.
+Chinese food|149.49|Luxury|Case|55576 South Peru Way
+Arabic food|259.11|Luxury|Rasmussen|29558 East Senegal Ct.
+Chinese food|296.91|Luxury|Goff|10461 South Aruba Ave.
+Japanese food|97.29|Master|Baker|3406 East Central African Republic Blvd.
+Arabic food|43.14|Luxury|Wilcox|92842 East Brunei Darussalam Ave.
+Japanese food|182.41|Intermediary|Gilliam|95291  Cameroon Ct.
+Italian food|235.17|Simple|Berger|86055 South Gibraltar Ct.
+Chinese food|98.16|Super luxury|Ratliff|53124 East Anchorage Ave.
+Japanese food|87.13|Intermediary|Oneill|34345 North Svalbard and Jan Mayen Way
+Arabic food|231.09|Intermediary|Langley|78633 East Gibraltar Ave.
+Italian food|219.45|Luxury|Lindsey|42770 West Costa Rica Ln.
+Italian food|95.28|Simple|Mccall|77841 West Pakistan Ln.
+Chinese food|279.24|Master|Castro|14543  Ada Way
+Italian food|174.39|Intermediary|Mcguire|26780 West Armenia St.
+Brazilian food|127.88|Simple|Mcconnell|26738 North Clearwater Ct.
+Chinese food|295.36|Super luxury|Duke|37137 South China Ln.
+Japanese food|18.10|Intermediary|Burns|59814  Paraguay St.
+Chinese food|34.32|Super luxury|Dotson|30062 North Costa Rica St.
+Japanese food|186.13|Simple|Waller|36797 East Ukraine Way
+Italian food|244.85|Simple|Vazquez|61246 South Grand Rapids Way
+Chinese food|136.61|Luxury|Maldonado|93355 North Latvia Ct.
+Arabic food|235.81|Luxury|Lawson|29326 East Libyan Arab Jamahiriya Ct.
+Chinese food|198.15|Intermediary|Cameron|27137  Dominican Republic Ave.
+Chinese food|228.21|Master|Hensley|46237 North Tuvalu Ave.
+Italian food|31.85|Super luxury|Gilliam|21183  Bosnia and Herzegovina Ln.
+Brazilian food|97.30|Master|Byers|2126 South Beaver Falls Blvd.
+Chinese food|278.31|Luxury|Vance|75971 South Dixon Blvd.
+Japanese food|109.32|Super luxury|Bullock|18108 West Gloucester Ln.
+Chinese food|228.14|Intermediary|Rosa|72331 East Bosnia and Herzegovina Ave.
+Italian food|199.17|Luxury|Madden|48908 East Kahului Ave.
+Italian food|210.77|Luxury|Farmer|36399  Central African Republic St.
+Japanese food|211.04|Super luxury|Wilkinson|22167 South Martinique Ave.
+Brazilian food|39.87|Simple|Gilliam|234 North Easthampton Ln.
+Italian food|214.47|Luxury|Lyons|81769 South Cocos (Keeling) Islands Ave.
+Chinese food|63.39|Intermediary|Underwood|58749 West Concord St.
+Chinese food|102.55|Master|Sherman|72123  Algeria Ave.
+Arabic food|34.08|Super luxury|Lucas|1726 West Norway Ave.
+Italian food|202.93|Super luxury|Tanner|69013 East Afghanistan Way
+Italian food|206.42|Luxury|Barton|29220 West Hong Kong Way
+Brazilian food|209.33|Luxury|Goodwin|10720 North Greenland St.
+Chinese food|107.67|Super luxury|Ramirez|93008 West Paraguay Way
+Italian food|205.50|Luxury|Lancaster|93209 South Jeffersonville St.
+Japanese food|223.61|Luxury|Conrad|15799 East Hungary Ct.
+Brazilian food|276.86|Luxury|Patton|25820 West Gettysburg St.
+Japanese food|28.59|Intermediary|Lambert|29578 East La Verne St.
+Brazilian food|97.39|Master|Whitfield|13122 East Plattsburgh Ln.
+Japanese food|59.92|Super luxury|Sanford|84343 West East Rutherford Ln.
+Brazilian food|193.86|Intermediary|Maldonado|31137 West Somalia Ave.
+Japanese food|17.42|Luxury|Watson|68661 North Netherlands Ln.
+Brazilian food|292.09|Master|Tran|2706 North Belgium St.
+Japanese food|190.34|Intermediary|Trevino|51322 East Mali Ct.
+Japanese food|17.75|Super luxury|Harper|7087 West Brunei Darussalam St.
+Arabic food|245.27|Luxury|Santana|15608 North Saint Pierre and Miquelon Ct.
+Chinese food|235.42|Luxury|Keith|93938 North Azerbaijan Ave.
+Brazilian food|96.60|Simple|Norris|84955  Wallis and Futuna Blvd.
+Japanese food|118.07|Simple|Hines|89441 East Antigua and Barbuda Blvd.
+Brazilian food|192.35|Simple|Carey|13812 West Bolivia Ln.
+Arabic food|226.40|Master|Henson|22827  Charleston Way
+Arabic food|292.58|Simple|Yates|27003 North Chicopee Ct.
+Brazilian food|138.49|Luxury|Atkinson|71192 South Burkina Faso Ave.
+Japanese food|170.42|Intermediary|Carr|941 South Belarus Way
+Chinese food|287.74|Luxury|Bush|62927 West Jordan Ave.
+Italian food|88.20|Luxury|Singleton|43737 North Bethlehem Ln.
+Brazilian food|71.53|Super luxury|Pickett|41936 South Duarte Blvd.
+Arabic food|172.44|Luxury|Barnett|31134 East Western Sahara St.
+Brazilian food|179.87|Master|Webb|33716 East Clearwater Ave.
+Japanese food|43.62|Intermediary|Richmond|85291 East Anguilla St.
+Italian food|248.24|Luxury|Holman|29468  Bhutan Blvd.
+Japanese food|249.02|Master|Scott|64277  Gainesville Ave.
+Chinese food|115.18|Master|Hutchinson|66379 East Armenia St.
+Brazilian food|136.53|Intermediary|Mann|21536 East Lahaina Way
+Chinese food|87.86|Luxury|Ray|40189 East Burkina Faso Ave.

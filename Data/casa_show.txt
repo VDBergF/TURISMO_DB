@@ -1,0 +1,500 @@
+21|Tuesday|Ballad show house that amuses all audiences|Caleb|83013  Moldova Ln.
+20|Monday|Ballad show house that amuses all audiences|Isaac|28486 West Alpharetta Way
+20|Monday|Ballad show house that amuses all audiences|Amena|4170 South Avalon Way
+20|Monday|Ballad show house that amuses all audiences|Velma|41397  Central African Republic Ct.
+19|Monday|Ballad show house that amuses all audiences|Lee|84025 South Belgium Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Stacey|80800  Denmark Way
+21|Tuesday|Ballad show house that amuses all audiences|Walker|30983 West La Jolla Blvd.
+19|Monday|Ballad show house that amuses all audiences|Lucy|4825 East Palau Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Moana|95918 West Meriden Ct.
+19|Monday|Ballad show house that amuses all audiences|Jarrod|74837 West Tuvalu Way
+19|Wednesday|Ballad show house that amuses all audiences|Ezekiel|83280  Latvia Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Arden|43420 North Cameroon Ct.
+19|Monday|Ballad show house that amuses all audiences|Aidan|87955 West Peru Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Dale|15986 North Commerce Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Cleo|85135  Bolivia Ct.
+19|Monday|Ballad show house that amuses all audiences|Travis|27691  Burundi Ln.
+19|Monday|Ballad show house that amuses all audiences|Macaulay|84287 South Menomonee Falls Ave.
+20|Monday|Ballad show house that amuses all audiences|Justina|73655 West Chad Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Odessa|8106 North Romania Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Cassady|4253  Greece St.
+19|Monday|Ballad show house that amuses all audiences|Galena|11648 South Australia Blvd.
+19|Monday|Ballad show house that amuses all audiences|Mufutau|50352 North Denver Ave.
+21|Monday|Ballad show house that amuses all audiences|Yoshio|55785 North Saint Pierre and Miquelon Blvd.
+21|Monday|Ballad show house that amuses all audiences|Rosalyn|30864  Bouvet Island Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Orson|31943 West Cary Ln.
+20|Monday|Ballad show house that amuses all audiences|Hammett|75942 West American Samoa Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Rowan|13263 East Merced Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Blake|89018 East Timor-leste St.
+19|Monday|Ballad show house that amuses all audiences|Wade|21035 South Gabon Way
+21|Monday|Ballad show house that amuses all audiences|Jameson|49870 West Barbados Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Bo|94877 West Bahrain Way
+21|Monday|Ballad show house that amuses all audiences|Dillon|25978 East Antarctica Way
+21|Tuesday|Ballad show house that amuses all audiences|Nerea|60060  Greenville Ave.
+19|Monday|Ballad show house that amuses all audiences|Holly|29819 North Iran, Islamic Republic of Blvd.
+19|Monday|Ballad show house that amuses all audiences|Upton|33360  Cook Islands Ave.
+19|Monday|Ballad show house that amuses all audiences|Owen|99703 West Saudi Arabia Ln.
+19|Monday|Ballad show house that amuses all audiences|Henry|60084 North Holy See (Vatican City State) Ln.
+21|Monday|Ballad show house that amuses all audiences|Hashim|57563 South Kuwait Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Oscar|8893  Brunei Darussalam Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Orson|17584 North Monongahela Blvd.
+21|Monday|Ballad show house that amuses all audiences|Joy|64765 North Del Rio Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Diana|99231 South Bahrain Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Brenden|54522 South Austria Way
+20|Tuesday|Ballad show house that amuses all audiences|Risa|27378 South Alamogordo Way
+19|Wednesday|Ballad show house that amuses all audiences|Gavin|6207 East Slovenia Ln.
+20|Monday|Ballad show house that amuses all audiences|Lenore|28854 North Congo Ln.
+20|Monday|Ballad show house that amuses all audiences|Camille|60839 South Austria St.
+20|Tuesday|Ballad show house that amuses all audiences|Denise|98642 West Benin St.
+21|Tuesday|Ballad show house that amuses all audiences|Tyrone|14022 East Panama Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Gary|76641  Mali Blvd.
+21|Monday|Ballad show house that amuses all audiences|Isabelle|24964 North Canandaigua Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Cassandra|11244 North Enid Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Bertha|6814 North Chino Blvd.
+21|Monday|Ballad show house that amuses all audiences|Nadine|22339 South Netherlands Antilles Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Rhoda|92361 East Bouvet Island Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Lyle|9779  San Marino Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Hop|48498 South Chula Vista Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Cheryl|61395 East United Arab Emirates Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Dana|63415 North Brookfield Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Blaze|68160 South Albania St.
+21|Monday|Ballad show house that amuses all audiences|Asher|23725 West Armenia St.
+21|Tuesday|Ballad show house that amuses all audiences|George|90411  Azerbaijan St.
+20|Monday|Ballad show house that amuses all audiences|Cailin|75904 East Hidden Hills Ct.
+21|Monday|Ballad show house that amuses all audiences|Zeph|89946  Afghanistan Ave.
+19|Monday|Ballad show house that amuses all audiences|Ryan|1897 South French Polynesia Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Josephine|42456 North Iceland Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Ciara|33733 North Malawi St.
+21|Monday|Ballad show house that amuses all audiences|Harper|30124 North Mongolia Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Channing|31071 North Mauritius St.
+20|Tuesday|Ballad show house that amuses all audiences|Quinlan|3667 East Brunei Darussalam Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Garrett|49430 South Chile Way
+20|Tuesday|Ballad show house that amuses all audiences|Serina|79288 West Korea Way
+19|Tuesday|Ballad show house that amuses all audiences|Josiah|20917 North Glendora St.
+21|Monday|Ballad show house that amuses all audiences|Rylee|63710 East Fitchburg St.
+20|Tuesday|Ballad show house that amuses all audiences|Shelby|13124 West Martinique Way
+21|Wednesday|Ballad show house that amuses all audiences|Grady|53493 South Cape Verde Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Aimee|12039 South British Indian Ocean Territory Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Gail|42111 West Haiti Way
+21|Wednesday|Ballad show house that amuses all audiences|John|52923 South Botswana Ct.
+21|Monday|Ballad show house that amuses all audiences|Duncan|19354 North Netherlands Blvd.
+21|Monday|Ballad show house that amuses all audiences|Vielka|56024 West Myanmar Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Jesse|48553 East Timor-leste Blvd.
+21|Monday|Ballad show house that amuses all audiences|Amy|65051 South Macedonia Ct.
+19|Monday|Ballad show house that amuses all audiences|Mollie|50689 South Cyprus St.
+19|Monday|Ballad show house that amuses all audiences|Geraldine|67688  Chile Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Yoko|47211 North Maldives Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Zahir|88809 East Frankfort Way
+20|Tuesday|Ballad show house that amuses all audiences|Raya|27143 East Arvada Ave.
+21|Monday|Ballad show house that amuses all audiences|Wang|49809 East Serbia and Montenegro Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Macey|19626 North Downey Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Holly|47057 West Italy Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Burton|16863 North Barbados Way
+19|Monday|Ballad show house that amuses all audiences|Camille|87779 South Antarctica Way
+20|Monday|Ballad show house that amuses all audiences|MacKenzie|43984  Congo Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Chadwick|66405  Dunkirk Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Leonard|24659 North Jackson Ln.
+20|Monday|Ballad show house that amuses all audiences|Zahir|60414 South Eureka Way
+21|Wednesday|Ballad show house that amuses all audiences|Blaze|10051 North Brazil Way
+20|Monday|Ballad show house that amuses all audiences|Conan|82826 South Aruba Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Jacob|96258 East Colombia Blvd.
+19|Monday|Ballad show house that amuses all audiences|Zorita|74672 East Fajardo Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Porter|45548 South Saudi Arabia St.
+20|Monday|Ballad show house that amuses all audiences|Ashely|94192 West Dubuque Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Lucy|46019  Sri Lanka Ln.
+19|Monday|Ballad show house that amuses all audiences|Duncan|20733  Fitchburg Way
+19|Monday|Ballad show house that amuses all audiences|Quinlan|94924 South American Samoa Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Mechelle|79644 West Hidden Hills Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Bruce|40125 South Idaho Springs Blvd.
+20|Wednesday|Ballad show house that amuses all audiences|Ulla|72223 North Jonesboro Way
+19|Wednesday|Ballad show house that amuses all audiences|Molly|70965 East Gaithersburg Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Dante|88584 North Niger Way
+21|Wednesday|Ballad show house that amuses all audiences|Macon|94457 West Dominica St.
+20|Wednesday|Ballad show house that amuses all audiences|Ezra|88597 West Thailand St.
+20|Wednesday|Ballad show house that amuses all audiences|Cecilia|98664 East Sri Lanka Ct.
+20|Monday|Ballad show house that amuses all audiences|Ivan|50370 North China Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Chiquita|85710  Chad Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Todd|80475 East Guam Way
+20|Monday|Ballad show house that amuses all audiences|Noelle|30777  Asbury Park Ct.
+20|Monday|Ballad show house that amuses all audiences|Signe|62934 North Poland Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Nomlanga|98270 West Turkey Blvd.
+20|Wednesday|Ballad show house that amuses all audiences|Steel|12436 East Lesotho Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Evan|7258 North Barbados St.
+20|Wednesday|Ballad show house that amuses all audiences|Neil|50682  Costa Mesa Ct.
+21|Monday|Ballad show house that amuses all audiences|Stuart|83227 North China Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Leroy|40422 West Martinique St.
+19|Monday|Ballad show house that amuses all audiences|Tad|41302 West Bhutan Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Cheyenne|99378 South Brunei Darussalam Ave.
+19|Monday|Ballad show house that amuses all audiences|Daria|2574 South Cape Verde Way
+19|Wednesday|Ballad show house that amuses all audiences|James|28734 West Virgin Islands, British Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Thane|5726  Cody Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Kelly|59337 East Burundi Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Tatiana|32340 East New Zealand Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Amy|43573 South Peru Ln.
+20|Monday|Ballad show house that amuses all audiences|Lyle|74496 West Kazakhstan St.
+19|Monday|Ballad show house that amuses all audiences|Leigh|2094 South Jamaica Ln.
+19|Monday|Ballad show house that amuses all audiences|Raymond|37491  Wallis and Futuna Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Raven|30778 North Dover St.
+20|Monday|Ballad show house that amuses all audiences|Eugenia|41680 West Armenia St.
+19|Tuesday|Ballad show house that amuses all audiences|Bernard|35218 South Virgin Islands, British St.
+19|Wednesday|Ballad show house that amuses all audiences|Holly|60174 North Chad Ln.
+20|Tuesday|Ballad show house that amuses all audiences|Hermione|19324 East Liberia Blvd.
+20|Monday|Ballad show house that amuses all audiences|Lucian|65839 South Korea, Republic of Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Cadman|69231 South Czech Republic Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Ashely|36868  French Southern Territories Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Wanda|19546 North Ann Arbor Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Raven|91 South South Africa Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Delilah|46282  Brunei Darussalam Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Allegra|19493 East Diamond Bar Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Isaiah|94047 East Bhutan Blvd.
+20|Monday|Ballad show house that amuses all audiences|Galvin|76203 North Newark Ln.
+20|Monday|Ballad show house that amuses all audiences|Briar|38254  Slovakia Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Adele|36556 East Eritrea Way
+20|Tuesday|Ballad show house that amuses all audiences|Destiny|74006 North Canandaigua Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Garrison|38993 North Ogden Ave.
+21|Monday|Ballad show house that amuses all audiences|Kimberly|40683  Saint Lucia Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Giselle|28248 North Gary St.
+21|Monday|Ballad show house that amuses all audiences|Stephen|25188 East United Arab Emirates Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Akeem|50111 East Clairton Ct.
+21|Monday|Ballad show house that amuses all audiences|Felicia|12723 South Liechtenstein St.
+19|Wednesday|Ballad show house that amuses all audiences|Zahir|32826 South Argentina Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Seth|16194 North Portugal Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Cecilia|16409 North Oman Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Quon|16320 North North Pole St.
+20|Monday|Ballad show house that amuses all audiences|Quyn|84702 North Hagerstown Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Nash|48736 North Canada St.
+20|Monday|Ballad show house that amuses all audiences|Jasper|15967 South Romania Ave.
+21|Monday|Ballad show house that amuses all audiences|Conan|17034 West Bouvet Island Way
+19|Wednesday|Ballad show house that amuses all audiences|Keaton|83075 West Chad Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Rae|69074  Venezuela Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Brooke|72942 South Durango St.
+19|Wednesday|Ballad show house that amuses all audiences|Dolan|79690 West Hagerstown Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Elmo|66634  Estonia St.
+19|Monday|Ballad show house that amuses all audiences|Virginia|83696 East Sierra Leone Ave.
+20|Monday|Ballad show house that amuses all audiences|Melissa|89384 South Carolina Blvd.
+20|Monday|Ballad show house that amuses all audiences|Ocean|20677 West Vanuatu Way
+19|Wednesday|Ballad show house that amuses all audiences|Zane|96887 South Somalia Way
+19|Monday|Ballad show house that amuses all audiences|Halla|66061 North South Africa Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Nicholas|95322 East Bulgaria Ave.
+19|Monday|Ballad show house that amuses all audiences|Silas|28159 East Martinique Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Walker|17749 North Cook Islands Ct.
+20|Monday|Ballad show house that amuses all audiences|Lars|14552  Algeria Way
+19|Wednesday|Ballad show house that amuses all audiences|Plato|73477 East Bahrain Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Emerson|97561  Angola Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Quinlan|10595 East Burundi Way
+21|Wednesday|Ballad show house that amuses all audiences|Lysandra|6480  City of Industry Ln.
+19|Monday|Ballad show house that amuses all audiences|Britanney|72350  Sao Tome and Principe St.
+20|Tuesday|Ballad show house that amuses all audiences|Thane|44691 West Madagascar Way
+19|Tuesday|Ballad show house that amuses all audiences|Ursula|82288 East Aurora Ln.
+19|Monday|Ballad show house that amuses all audiences|Nehru|55180 East Thailand Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Jared|25543 West Ghana Way
+19|Monday|Ballad show house that amuses all audiences|Knox|18482 South Marshall Islands St.
+20|Wednesday|Ballad show house that amuses all audiences|Peter|38917 North Colombia Ct.
+20|Monday|Ballad show house that amuses all audiences|Blossom|29071 East Swaziland St.
+21|Monday|Ballad show house that amuses all audiences|Dawn|60015 East Australia Way
+21|Monday|Ballad show house that amuses all audiences|Kibo|30465 South South Africa Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Leilani|39481 South Argentina Ln.
+20|Monday|Ballad show house that amuses all audiences|Slade|75843 West Central African Republic Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Jorden|42145  Lancaster St.
+20|Tuesday|Ballad show house that amuses all audiences|Amal|31765  Cambodia Ave.
+20|Monday|Ballad show house that amuses all audiences|Carolyn|95203 South Bosnia and Herzegovina St.
+21|Tuesday|Ballad show house that amuses all audiences|Xavier|12224  Comoros St.
+19|Monday|Ballad show house that amuses all audiences|Ferris|91754 West Alexandria Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Dora|88938  Benin Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Adrian|68045  Guayama Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Jerome|50139 West Holy See (Vatican City State) Ave.
+19|Monday|Ballad show house that amuses all audiences|Raven|93283 South Alexandria Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Jackson|83667 East Belarus Way
+20|Wednesday|Ballad show house that amuses all audiences|Iris|42363 West Grenada Ave.
+21|Monday|Ballad show house that amuses all audiences|Gail|78852 South Cortland Ct.
+21|Monday|Ballad show house that amuses all audiences|Nissim|53852  Council Bluffs Blvd.
+20|Monday|Ballad show house that amuses all audiences|Farrah|21195 South Meridian Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Acton|9122 South France Ave.
+20|Tuesday|Ballad show house that amuses all audiences|April|13009 North Canada Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Nola|25785 East Martinique Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Pearl|89558 East Estonia Way
+19|Wednesday|Ballad show house that amuses all audiences|Chantale|40354  Australia Way
+20|Wednesday|Ballad show house that amuses all audiences|Quentin|16787 West Anchorage Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Harlan|60178 South Sweden St.
+19|Tuesday|Ballad show house that amuses all audiences|Harriet|50084 East Houston St.
+20|Wednesday|Ballad show house that amuses all audiences|Ishmael|21979 North Kuwait Way
+20|Wednesday|Ballad show house that amuses all audiences|Anne|6934  Bolivia St.
+20|Wednesday|Ballad show house that amuses all audiences|Emma|5112 South Barbados Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Ria|57664 East Christmas Island Ct.
+21|Monday|Ballad show house that amuses all audiences|Fallon|11764  Brazil Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Barry|33845  Calabasas Ct.
+21|Monday|Ballad show house that amuses all audiences|Norman|17915 West Manassas Park Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Macey|72062  Brunei Darussalam Blvd.
+20|Monday|Ballad show house that amuses all audiences|Justin|50046 East Saudi Arabia Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Reece|47882 North Pass Christian Way
+20|Monday|Ballad show house that amuses all audiences|Clayton|40061 North Mauritius Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Adara|36827 East Charlotte Amalie St.
+19|Monday|Ballad show house that amuses all audiences|Tiger|11028 North Guinea-bissau Blvd.
+21|Monday|Ballad show house that amuses all audiences|Geoffrey|93879 North China Way
+19|Wednesday|Ballad show house that amuses all audiences|Elaine|61422  Niue Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Carson|21203  Bosnia and Herzegovina Ct.
+20|Monday|Ballad show house that amuses all audiences|Hyatt|11813 East Elizabeth City Way
+20|Tuesday|Ballad show house that amuses all audiences|Tatiana|27468 North South Georgia and The South Sandwich Islands Ct.
+21|Monday|Ballad show house that amuses all audiences|Oprah|36321 North Niger Way
+19|Tuesday|Ballad show house that amuses all audiences|Sophia|29822 North Argentina Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Summer|85136 West Lodi Blvd.
+21|Monday|Ballad show house that amuses all audiences|Naomi|74120 South Cape Girardeau Blvd.
+19|Monday|Ballad show house that amuses all audiences|Sarah|13448 West Cyprus Way
+19|Wednesday|Ballad show house that amuses all audiences|Gay|67171 East Bowling Green Way
+20|Monday|Ballad show house that amuses all audiences|Eric|9169 West Lebanon Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Herrod|38778 West British Indian Ocean Territory Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Amela|77022 East Hamilton Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Patricia|24377  Durant Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Buffy|52006  American Samoa Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Naida|91332 East Jonesboro Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Kelly|44502 North Arcadia Way
+20|Tuesday|Ballad show house that amuses all audiences|Irene|67177 East Ann Arbor Way
+20|Monday|Ballad show house that amuses all audiences|Jacob|33459 North Namibia Ct.
+19|Monday|Ballad show house that amuses all audiences|Akeem|41500 West Haverhill St.
+19|Wednesday|Ballad show house that amuses all audiences|Scarlet|21346 East Luxembourg St.
+21|Tuesday|Ballad show house that amuses all audiences|Ronan|80730 South Iraq Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Harlan|83580  Frisco Way
+20|Wednesday|Ballad show house that amuses all audiences|Abbot|18087 South Taiwan, Province of China Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Macaulay|70606 West East St. Louis Ct.
+20|Monday|Ballad show house that amuses all audiences|Gil|43828  Virgin Islands, British Way
+21|Tuesday|Ballad show house that amuses all audiences|Alvin|86095 East Cayman Islands Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Darius|63230  Hawthorne Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Lisandra|17767 South Morocco Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Michael|51457 West Monaco Ave.
+19|Monday|Ballad show house that amuses all audiences|Genevieve|51995  Canada Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Paul|36863 North Bouvet Island Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Christine|43094 West Bhutan Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Hasad|1072 West Central African Republic Blvd.
+21|Tuesday|Ballad show house that amuses all audiences|Neve|20763 South DuBois Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Gary|64076 South Arlington Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Warren|38657 East Armenia Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Dalton|84353 East Tuvalu Blvd.
+21|Monday|Ballad show house that amuses all audiences|Wendy|14353 South United States Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Tobias|41904 West Timor-leste Blvd.
+20|Monday|Ballad show house that amuses all audiences|Latifah|13008 East Somalia Way
+20|Wednesday|Ballad show house that amuses all audiences|Cally|15586 North Cape Verde St.
+20|Tuesday|Ballad show house that amuses all audiences|Orson|49411 West Lander Ln.
+20|Tuesday|Ballad show house that amuses all audiences|Denton|9538 North South Georgia and The South Sandwich Islands Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Vernon|60390 South Great Falls Ct.
+19|Monday|Ballad show house that amuses all audiences|Kasper|89705 North Guinea-bissau Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Yoshio|10669 South Deadwood Way
+21|Monday|Ballad show house that amuses all audiences|Herman|5898 East Faroe Islands Ave.
+20|Monday|Ballad show house that amuses all audiences|Seth|24283  Antigua and Barbuda Blvd.
+19|Monday|Ballad show house that amuses all audiences|Urielle|91204 South South Georgia and The South Sandwich Islands Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Colt|62618  Angola St.
+21|Wednesday|Ballad show house that amuses all audiences|Maxwell|64994 West Niue Blvd.
+21|Tuesday|Ballad show house that amuses all audiences|Jeanette|13579  Easthampton Ln.
+20|Monday|Ballad show house that amuses all audiences|Yuri|98734 East Panama Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Knox|10631 West Bosnia and Herzegovina Ln.
+19|Monday|Ballad show house that amuses all audiences|Kessie|39378  Los Alamitos Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Harding|47806 North Jackson St.
+19|Tuesday|Ballad show house that amuses all audiences|Eagan|5834  Fullerton Blvd.
+21|Monday|Ballad show house that amuses all audiences|Quail|19488 South Cape Verde Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Alden|74649 East Antigua and Barbuda Way
+21|Wednesday|Ballad show house that amuses all audiences|Oliver|80803  Belgium Way
+19|Monday|Ballad show house that amuses all audiences|Barrett|55045 North French Polynesia Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Mason|44941 North Mexico Way
+19|Tuesday|Ballad show house that amuses all audiences|Lara|96197 North Guinea Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Nissim|54339 East Ethiopia Ave.
+21|Monday|Ballad show house that amuses all audiences|Joel|28955  Nauru Ave.
+19|Monday|Ballad show house that amuses all audiences|Georgia|25050 East Malaysia Ln.
+19|Monday|Ballad show house that amuses all audiences|Galena|53344 East Bouvet Island Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Sigourney|25787 North Council Bluffs St.
+20|Wednesday|Ballad show house that amuses all audiences|Chiquita|74655 East Oman Blvd.
+21|Monday|Ballad show house that amuses all audiences|Hedda|13407 North Cameroon Way
+19|Tuesday|Ballad show house that amuses all audiences|Zorita|10333  Burundi Blvd.
+21|Monday|Ballad show house that amuses all audiences|Ramona|64893 North Cape Verde Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Ulysses|81202 East Norwalk Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Jeanette|65098 North Brookings Ave.
+21|Tuesday|Ballad show house that amuses all audiences|Gail|3766  Dothan Ct.
+19|Monday|Ballad show house that amuses all audiences|Glenna|22207 South Estonia St.
+19|Tuesday|Ballad show house that amuses all audiences|Paul|95896 South Cape Verde Ave.
+19|Monday|Ballad show house that amuses all audiences|Karen|2239 South Cerritos Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Tobias|84740 East Casper Way
+21|Wednesday|Ballad show house that amuses all audiences|Lilah|32048 East Elkhart St.
+19|Monday|Ballad show house that amuses all audiences|Igor|10347  Norway Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Beau|67080  Albania Way
+20|Tuesday|Ballad show house that amuses all audiences|Adrienne|92243 West Antigua and Barbuda St.
+20|Wednesday|Ballad show house that amuses all audiences|Walter|4439 South Northampton Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Rowan|4327 East Tuvalu Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Keegan|40187 North Costa Rica Blvd.
+19|Monday|Ballad show house that amuses all audiences|Nero|99601 South Franklin Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Nathan|12543 West Malta Ln.
+21|Monday|Ballad show house that amuses all audiences|Aladdin|36351 East Pitcairn Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Xyla|18162 South El Cerrito Blvd.
+21|Monday|Ballad show house that amuses all audiences|Rhea|305 North Monongahela Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Ralph|72923 East Jefferson City Ln.
+20|Monday|Ballad show house that amuses all audiences|Anthony|70356  Iceland Ln.
+20|Wednesday|Ballad show house that amuses all audiences|George|93212 East Timor-leste Way
+19|Wednesday|Ballad show house that amuses all audiences|Petra|78419 East Cameroon Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Zephania|88246  Eureka Way
+21|Monday|Ballad show house that amuses all audiences|Sonia|24524 North Samoa Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Austin|15105  Charleston Ln.
+19|Monday|Ballad show house that amuses all audiences|Vielka|86005  Belize Ln.
+20|Wednesday|Ballad show house that amuses all audiences|Gavin|87364 North Spain Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Leah|44651 South Dominican Republic Blvd.
+20|Monday|Ballad show house that amuses all audiences|Aimee|61360 West Zambia Blvd.
+21|Tuesday|Ballad show house that amuses all audiences|Dominique|67001 West Niger Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Renee|30893 South Bahrain Ct.
+20|Tuesday|Ballad show house that amuses all audiences|Duncan|13994 West Ecuador St.
+19|Tuesday|Ballad show house that amuses all audiences|Nayda|37977  French Guiana Way
+19|Tuesday|Ballad show house that amuses all audiences|Stewart|26956  Saint Vincent and The Grenadines Ln.
+20|Tuesday|Ballad show house that amuses all audiences|Wing|33841  Bosnia and Herzegovina Blvd.
+21|Monday|Ballad show house that amuses all audiences|Venus|84094 North Tajikistan St.
+21|Wednesday|Ballad show house that amuses all audiences|Brenda|3388  Angola St.
+19|Wednesday|Ballad show house that amuses all audiences|Octavia|93088 South Haiti Ave.
+21|Monday|Ballad show house that amuses all audiences|Ryder|26643 East Burkina Faso Ln.
+20|Monday|Ballad show house that amuses all audiences|Katelyn|57278 North Belize St.
+19|Tuesday|Ballad show house that amuses all audiences|Wing|13844  Passaic Way
+21|Wednesday|Ballad show house that amuses all audiences|Zachery|39326  Estonia St.
+19|Wednesday|Ballad show house that amuses all audiences|Clare|78814  Cleveland Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Ivana|306 East Bosnia and Herzegovina Ct.
+20|Monday|Ballad show house that amuses all audiences|Drew|80298 North Alexandria Blvd.
+21|Wednesday|Ballad show house that amuses all audiences|Flynn|76467 East Slovenia Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Acton|63522  Albany Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Martena|29097 East Albania Way
+20|Monday|Ballad show house that amuses all audiences|Phoebe|16599 East Korea, Republic of Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Bernard|58009 East Monterey Way
+21|Tuesday|Ballad show house that amuses all audiences|Libby|3569  Hoboken Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Mariam|84740 South Bosnia and Herzegovina Ave.
+20|Monday|Ballad show house that amuses all audiences|Colorado|6961 North Cape Girardeau Blvd.
+20|Monday|Ballad show house that amuses all audiences|Norman|38996  Comoros Way
+19|Tuesday|Ballad show house that amuses all audiences|Imani|8989  French Southern Territories Ct.
+19|Monday|Ballad show house that amuses all audiences|Megan|24076 West Birmingham Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Katelyn|26439 South Brazil St.
+20|Monday|Ballad show house that amuses all audiences|Uriel|92031  Syrian Arab Republic Way
+20|Wednesday|Ballad show house that amuses all audiences|Ulric|86552  Guam St.
+21|Wednesday|Ballad show house that amuses all audiences|Anika|67436  Bulgaria Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Dennis|49252  Guam St.
+21|Monday|Ballad show house that amuses all audiences|Paloma|14110 North Nauru Ct.
+19|Monday|Ballad show house that amuses all audiences|Joel|49951 South Indonesia Way
+19|Wednesday|Ballad show house that amuses all audiences|Sarah|16788 East Aruba Blvd.
+21|Tuesday|Ballad show house that amuses all audiences|Castor|35843 North Aruba Ct.
+21|Wednesday|Ballad show house that amuses all audiences|Cain|63254 West Liechtenstein Blvd.
+20|Monday|Ballad show house that amuses all audiences|Ignacia|48883  Iraq Way
+21|Wednesday|Ballad show house that amuses all audiences|Barbara|59914  Cape Verde St.
+20|Wednesday|Ballad show house that amuses all audiences|Fuller|86191 West Tokelau Blvd.
+19|Monday|Ballad show house that amuses all audiences|Keefe|87983 West Burlingame Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Kyra|84080 East Abilene Ln.
+20|Tuesday|Ballad show house that amuses all audiences|Colette|90880 South Caguas Ln.
+21|Tuesday|Ballad show house that amuses all audiences|Summer|93960 East Armenia Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Armando|27057 East Paraguay Way
+21|Monday|Ballad show house that amuses all audiences|Nina|30810  Georgetown Blvd.
+20|Wednesday|Ballad show house that amuses all audiences|Madonna|67991 South Alhambra St.
+21|Wednesday|Ballad show house that amuses all audiences|Tarik|67885 South Sao Tome and Principe Blvd.
+20|Monday|Ballad show house that amuses all audiences|Felix|88678  Lowell Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Graham|83922 West Mali Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Ginger|15074 East Tajikistan St.
+19|Monday|Ballad show house that amuses all audiences|Olivia|36893 East Swaziland Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Isadora|23090 North Cayman Islands St.
+19|Wednesday|Ballad show house that amuses all audiences|Joel|39948 North Germany St.
+21|Tuesday|Ballad show house that amuses all audiences|Isabelle|74502 West Edmond Ln.
+19|Monday|Ballad show house that amuses all audiences|Quamar|82270 East Aurora Blvd.
+19|Monday|Ballad show house that amuses all audiences|Jael|95049 South Columbus Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Nola|58524 East Cameroon Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Blythe|32453  El Cerrito Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Carly|78001 North Guadeloupe Way
+19|Tuesday|Ballad show house that amuses all audiences|MacKensie|10312 West Namibia St.
+20|Wednesday|Ballad show house that amuses all audiences|Sylvia|1433 South Armenia St.
+20|Tuesday|Ballad show house that amuses all audiences|Dylan|21003 West Seychelles Blvd.
+21|Monday|Ballad show house that amuses all audiences|Aquila|42902 East Costa Rica Ave.
+19|Monday|Ballad show house that amuses all audiences|Miranda|98834 North Green Bay Way
+20|Wednesday|Ballad show house that amuses all audiences|Oren|17682 West Falkland Islands (Malvinas) Way
+20|Tuesday|Ballad show house that amuses all audiences|Erich|2022 West South Georgia and The South Sandwich Islands Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Veda|31256  Papua New Guinea Way
+20|Monday|Ballad show house that amuses all audiences|Eugenia|77257 North Belarus Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Harding|81573 East Azerbaijan Way
+19|Wednesday|Ballad show house that amuses all audiences|April|11656  Venezuela Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Ramona|33799 East Central African Republic St.
+19|Wednesday|Ballad show house that amuses all audiences|Lara|15947  Cocos (Keeling) Islands Ln.
+20|Tuesday|Ballad show house that amuses all audiences|Graiden|17435 South Chad St.
+21|Wednesday|Ballad show house that amuses all audiences|Ainsley|29107 South Virgin Islands, U.S. Way
+21|Monday|Ballad show house that amuses all audiences|Ima|90826 North Bradbury Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Adam|26783 West Durango Ave.
+20|Monday|Ballad show house that amuses all audiences|Malik|52860 South Tokelau Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Gary|43898 North Hattiesburg Ave.
+20|Monday|Ballad show house that amuses all audiences|Urielle|66175 West Turkmenistan Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Elvis|29111 West Niue Ct.
+20|Tuesday|Ballad show house that amuses all audiences|John|3323 North Belgium Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Rhoda|80169 West Douglas Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Karly|62611 East Palmdale Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Deborah|38224 South Belarus Blvd.
+20|Wednesday|Ballad show house that amuses all audiences|Colby|53594 South Fairbanks Way
+21|Wednesday|Ballad show house that amuses all audiences|Hamish|57584 South Decatur Way
+19|Tuesday|Ballad show house that amuses all audiences|Fredericka|48173 South Grass Valley Way
+19|Tuesday|Ballad show house that amuses all audiences|Jacob|95388 South Falkland Islands (Malvinas) Way
+21|Tuesday|Ballad show house that amuses all audiences|Xanthus|36836 West Nepal Ln.
+21|Monday|Ballad show house that amuses all audiences|Bruno|19813  Comoros Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Risa|30053 North Bermuda Blvd.
+21|Tuesday|Ballad show house that amuses all audiences|Karly|18797 East Bahamas Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Libby|8141 North Andorra Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Tarik|58632  Qatar Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Irene|88700 South Baltimore Way
+21|Wednesday|Ballad show house that amuses all audiences|Hilary|72305 East Barrow Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Fritz|29495 North Botswana St.
+21|Wednesday|Ballad show house that amuses all audiences|Clark|32363 North Niagara Falls St.
+19|Tuesday|Ballad show house that amuses all audiences|Slade|40587 South New Zealand Blvd.
+20|Monday|Ballad show house that amuses all audiences|Colby|24510 North Chad Blvd.
+19|Monday|Ballad show house that amuses all audiences|Rowan|93158 East Cape Verde Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Anastasia|11012 North Germany Blvd.
+19|Monday|Ballad show house that amuses all audiences|Jasmine|73127 North Fort Wayne Ln.
+20|Monday|Ballad show house that amuses all audiences|Julian|58774 North Australia Blvd.
+20|Monday|Ballad show house that amuses all audiences|Kimberley|83086  San Marino Ct.
+19|Tuesday|Ballad show house that amuses all audiences|Keith|91093 South Menomonee Falls Ave.
+21|Monday|Ballad show house that amuses all audiences|Malik|36796 South Bulgaria Ave.
+19|Wednesday|Ballad show house that amuses all audiences|Macon|93092 North Estonia St.
+19|Wednesday|Ballad show house that amuses all audiences|Melodie|74211  Cape Verde Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Reed|50855 South Romania Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Sandra|90422 North Liberia Way
+20|Monday|Ballad show house that amuses all audiences|Jared|85583  Harrisburg Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Kristen|74975 East Peru Way
+21|Tuesday|Ballad show house that amuses all audiences|Tanya|88580  Viet Nam Way
+20|Tuesday|Ballad show house that amuses all audiences|Lionel|32855  Bell Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Gary|19311 East Tanzania, United Republic of Blvd.
+21|Monday|Ballad show house that amuses all audiences|Oscar|65666 East Clarksville Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Hector|4446 East Palau Blvd.
+20|Wednesday|Ballad show house that amuses all audiences|Kareem|1273 East Tonga Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Kylee|50761 West Galveston Ct.
+21|Monday|Ballad show house that amuses all audiences|Riley|22410  Farrell St.
+20|Monday|Ballad show house that amuses all audiences|Meredith|75272 North Hilo Ave.
+20|Monday|Ballad show house that amuses all audiences|Cadman|97748 West Qatar Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Ava|30210  Fullerton St.
+21|Tuesday|Ballad show house that amuses all audiences|Fleur|52567 East Croatia Ct.
+19|Monday|Ballad show house that amuses all audiences|Quinn|41042 West Swaziland Blvd.
+19|Tuesday|Ballad show house that amuses all audiences|Ross|68599 South Vanuatu Blvd.
+19|Monday|Ballad show house that amuses all audiences|Otto|22165 North Erie Ln.
+20|Monday|Ballad show house that amuses all audiences|Indira|30240 South Fairbanks Ln.
+21|Wednesday|Ballad show house that amuses all audiences|Jolene|17367 North Germany Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Dorothy|69654  Beverly Way
+19|Monday|Ballad show house that amuses all audiences|Marcia|64848 East Cook Islands Way
+19|Tuesday|Ballad show house that amuses all audiences|Kylee|89613 West Burundi Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Myra|87261 South Luxembourg Blvd.
+20|Monday|Ballad show house that amuses all audiences|Silas|15336 North Branson St.
+20|Tuesday|Ballad show house that amuses all audiences|Kay|24621  Montserrat St.
+21|Wednesday|Ballad show house that amuses all audiences|Mary|13099 East American Samoa St.
+21|Monday|Ballad show house that amuses all audiences|Raphael|40030  Belleville Ave.
+21|Wednesday|Ballad show house that amuses all audiences|Richard|15215 West Slovakia Ln.
+20|Monday|Ballad show house that amuses all audiences|Emery|35591 South Argentina Ave.
+20|Wednesday|Ballad show house that amuses all audiences|Isaiah|42623 West Hermitage Ave.
+19|Tuesday|Ballad show house that amuses all audiences|Blake|69737  Argentina Way
+20|Tuesday|Ballad show house that amuses all audiences|Ebony|27384  Burundi Ct.
+21|Tuesday|Ballad show house that amuses all audiences|Ferdinand|62603 North Tokelau Ave.
+20|Monday|Ballad show house that amuses all audiences|Bethany|8584  Martinique St.
+20|Tuesday|Ballad show house that amuses all audiences|Mannix|13864 South American Samoa Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Kadeem|60978 West Northern Mariana Islands Blvd.
+20|Monday|Ballad show house that amuses all audiences|Shana|11229 South Ireland Ln.
+19|Wednesday|Ballad show house that amuses all audiences|Alvin|90864  Chile St.
+21|Monday|Ballad show house that amuses all audiences|Amena|27017 North Grenada Way
+19|Tuesday|Ballad show house that amuses all audiences|Justine|32216  Hawaiian Gardens Ln.
+19|Tuesday|Ballad show house that amuses all audiences|Kane|24958  Svalbard and Jan Mayen Ln.
+20|Monday|Ballad show house that amuses all audiences|Jessamine|69229 South Ukraine Blvd.
+20|Tuesday|Ballad show house that amuses all audiences|Chancellor|24857 West Peru Way
+20|Tuesday|Ballad show house that amuses all audiences|Randall|63909 South Congo Way
+19|Wednesday|Ballad show house that amuses all audiences|Lamar|4099 South Cuba Ave.
+20|Tuesday|Ballad show house that amuses all audiences|Wilma|43516 South Bahrain Blvd.
+19|Wednesday|Ballad show house that amuses all audiences|Allistair|90622 East Tunisia Ct.
+19|Wednesday|Ballad show house that amuses all audiences|Daniel|69277 South Chile St.
+21|Monday|Ballad show house that amuses all audiences|James|36779 North Cyprus Way
+20|Monday|Ballad show house that amuses all audiences|Liberty|18012 West Timor-leste Ct.
+20|Wednesday|Ballad show house that amuses all audiences|Jesse|31924 East Alpharetta Ct.
+19|Monday|Ballad show house that amuses all audiences|Elaine|26787 East Saint Helena Ave.

@@ -1,0 +1,527 @@
+[
+	{
+		"nome": "Juazeiro do Norte",
+		"estado": "Ceará",
+		"populacao": 4430979
+	},
+	{
+		"nome": "Caxias do Sul",
+		"estado": "Rio Grande do Sul",
+		"populacao": 3626637
+	},
+	{
+		"nome": "Santa Luzia",
+		"estado": "Minas Gerais",
+		"populacao": 3418222
+	},
+	{
+		"nome": "Criciúma",
+		"estado": "Santa Catarina",
+		"populacao": 3003753
+	},
+	{
+		"nome": "Ponta Grossa",
+		"estado": "Paraná",
+		"populacao": 5549863
+	},
+	{
+		"nome": "Campos dos Goytacazes",
+		"estado": "Rio de Janeiro",
+		"populacao": 3274575
+	},
+	{
+		"nome": "Pelotas",
+		"estado": "Rio Grande do Sul",
+		"populacao": 1620958
+	},
+	{
+		"nome": "Belo Horizonte",
+		"estado": "Minas Gerais",
+		"populacao": 1201949
+	},
+	{
+		"nome": "Novo Hamburgo",
+		"estado": "Rio Grande do Sul",
+		"populacao": 4081800
+	},
+	{
+		"nome": "Betim",
+		"estado": "Minas Gerais",
+		"populacao": 7086226
+	},
+	{
+		"nome": "Osasco",
+		"estado": "São Paulo",
+		"populacao": 6619822
+	},
+	{
+		"nome": "Recife",
+		"estado": "Pernambuco",
+		"populacao": 6638088
+	},
+	{
+		"nome": "Luziânia",
+		"estado": "Goiás",
+		"populacao": 5561378
+	},
+	{
+		"nome": "Fortaleza",
+		"estado": "Ceará",
+		"populacao": 6021621
+	},
+	{
+		"nome": "Mauá",
+		"estado": "São Paulo",
+		"populacao": 1018344
+	},
+	{
+		"nome": "Vitória da Conquista",
+		"estado": "Bahia",
+		"populacao": 3680804
+	},
+	{
+		"nome": "Chapecó",
+		"estado": "Santa Catarina",
+		"populacao": 1749336
+	},
+	{
+		"nome": "Sobral",
+		"estado": "Ceará",
+		"populacao": 3632834
+	},
+	{
+		"nome": "Petrópolis",
+		"estado": "Rio de Janeiro",
+		"populacao": 9504547
+	},
+	{
+		"nome": "Campinas",
+		"estado": "São Paulo",
+		"populacao": 2606908
+	},
+	{
+		"nome": "Camaçari",
+		"estado": "Bahia",
+		"populacao": 5755050
+	},
+	{
+		"nome": "Sousa",
+		"estado": "Paraíba",
+		"populacao": 4496762
+	},
+	{
+		"nome": "São Gonçalo",
+		"estado": "Rio de Janeiro",
+		"populacao": 4538857
+	},
+	{
+		"nome": "Ipatinga",
+		"estado": "Minas Gerais",
+		"populacao": 9789776
+	},
+	{
+		"nome": "Belford Roxo",
+		"estado": "Rio de Janeiro",
+		"populacao": 333534
+	},
+	{
+		"nome": "Itajaí",
+		"estado": "Santa Catarina",
+		"populacao": 7279162
+	},
+	{
+		"nome": "Crato",
+		"estado": "Ceará",
+		"populacao": 5608580
+	},
+	{
+		"nome": "Ribeirão Preto",
+		"estado": "São Paulo",
+		"populacao": 3604631
+	},
+	{
+		"nome": "Divinópolis",
+		"estado": "Minas Gerais",
+		"populacao": 6502994
+	},
+	{
+		"nome": "Sete Lagoas",
+		"estado": "Minas Gerais",
+		"populacao": 7437549
+	},
+	{
+		"nome": "Duque de Caxias",
+		"estado": "Rio de Janeiro",
+		"populacao": 6446345
+	},
+	{
+		"nome": "Juiz de Fora",
+		"estado": "Minas Gerais",
+		"populacao": 2929274
+	},
+	{
+		"nome": "Petrolina",
+		"estado": "Pernambuco",
+		"populacao": 1958794
+	},
+	{
+		"nome": "Guarulhos",
+		"estado": "São Paulo",
+		"populacao": 6524870
+	},
+	{
+		"nome": "Cascavel",
+		"estado": "Paraná",
+		"populacao": 942657
+	},
+	{
+		"nome": "Rio Grande",
+		"estado": "Rio Grande do Sul",
+		"populacao": 8146949
+	},
+	{
+		"nome": "Anápolis",
+		"estado": "Goiás",
+		"populacao": 782631
+	},
+	{
+		"nome": "Governador Valadares",
+		"estado": "Minas Gerais",
+		"populacao": 3437116
+	},
+	{
+		"nome": "Niterói",
+		"estado": "Rio de Janeiro",
+		"populacao": 3421783
+	},
+	{
+		"nome": "Ilhéus",
+		"estado": "Bahia",
+		"populacao": 8421403
+	},
+	{
+		"nome": "Mogi das Cruzes",
+		"estado": "São Paulo",
+		"populacao": 6020235
+	},
+	{
+		"nome": "Jaboatão dos Guararapes",
+		"estado": "Pernambuco",
+		"populacao": 5028546
+	},
+	{
+		"nome": "Maracanaú",
+		"estado": "Ceará",
+		"populacao": 3486006
+	},
+	{
+		"nome": "Blumenau",
+		"estado": "Santa Catarina",
+		"populacao": 1318244
+	},
+	{
+		"nome": "Porto Alegre",
+		"estado": "Rio Grande do Sul",
+		"populacao": 5273188
+	},
+	{
+		"nome": "Ribeirão das Neves",
+		"estado": "Minas Gerais",
+		"populacao": 1642156
+	},
+	{
+		"nome": "Diadema",
+		"estado": "São Paulo",
+		"populacao": 9407932
+	},
+	{
+		"nome": "Jundiaí",
+		"estado": "São Paulo",
+		"populacao": 3627451
+	},
+	{
+		"nome": "Patos",
+		"estado": "Paraíba",
+		"populacao": 7702931
+	},
+	{
+		"nome": "Carapicuíba",
+		"estado": "São Paulo",
+		"populacao": 9744379
+	},
+	{
+		"nome": "Feira de Santana",
+		"estado": "Bahia",
+		"populacao": 523748
+	},
+	{
+		"nome": "Curitiba",
+		"estado": "Paraná",
+		"populacao": 5868359
+	},
+	{
+		"nome": "João Pessoa",
+		"estado": "Paraíba",
+		"populacao": 1406614
+	},
+	{
+		"nome": "Maringá",
+		"estado": "Paraná",
+		"populacao": 8780887
+	},
+	{
+		"nome": "Paulista",
+		"estado": "Pernambuco",
+		"populacao": 4417888
+	},
+	{
+		"nome": "Marabá",
+		"estado": "Pará",
+		"populacao": 5042169
+	},
+	{
+		"nome": "Valparaíso de Goiás",
+		"estado": "Goiás",
+		"populacao": 7630119
+	},
+	{
+		"nome": "Canoas",
+		"estado": "Rio Grande do Sul",
+		"populacao": 3697391
+	},
+	{
+		"nome": "Goiânia",
+		"estado": "Goiás",
+		"populacao": 9137457
+	},
+	{
+		"nome": "Parauapebas",
+		"estado": "Pará",
+		"populacao": 8319633
+	},
+	{
+		"nome": "Olinda",
+		"estado": "Pernambuco",
+		"populacao": 9959069
+	},
+	{
+		"nome": "Itapipoca",
+		"estado": "Ceará",
+		"populacao": 6806187
+	},
+	{
+		"nome": "Santa Maria",
+		"estado": "Rio Grande do Sul",
+		"populacao": 7912098
+	},
+	{
+		"nome": "Contagem",
+		"estado": "Minas Gerais",
+		"populacao": 4930937
+	},
+	{
+		"nome": "Abaetetuba",
+		"estado": "Pará",
+		"populacao": 4348386
+	},
+	{
+		"nome": "Caruaru",
+		"estado": "Pernambuco",
+		"populacao": 4271653
+	},
+	{
+		"nome": "Uberlândia",
+		"estado": "Minas Gerais",
+		"populacao": 2761250
+	},
+	{
+		"nome": "Cametá",
+		"estado": "Pará",
+		"populacao": 6741643
+	},
+	{
+		"nome": "São José dos Pinhais",
+		"estado": "Paraná",
+		"populacao": 377179
+	},
+	{
+		"nome": "Camaragibe",
+		"estado": "Pernambuco",
+		"populacao": 642227
+	},
+	{
+		"nome": "Lauro de Freitas",
+		"estado": "Bahia",
+		"populacao": 2189899
+	},
+	{
+		"nome": "São Luís",
+		"estado": "Maranhão",
+		"populacao": 320201
+	},
+	{
+		"nome": "Açailândia",
+		"estado": "Maranhão",
+		"populacao": 1243345
+	},
+	{
+		"nome": "Florianópolis",
+		"estado": "Santa Catarina",
+		"populacao": 118335
+	},
+	{
+		"nome": "Imperatriz",
+		"estado": "Maranhão",
+		"populacao": 9876211
+	},
+	{
+		"nome": "João Pessoa",
+		"estado": "Paraíba",
+		"populacao": 5093754
+	},
+	{
+		"nome": "Juazeiro",
+		"estado": "Bahia",
+		"populacao": 508203
+	},
+	{
+		"nome": "Bacabal",
+		"estado": "Maranhão",
+		"populacao": 1472929
+	},
+	{
+		"nome": "Cabo de Santo Agostinho",
+		"estado": "Pernambuco",
+		"populacao": 3001954
+	},
+	{
+		"nome": "Rio de Janeiro",
+		"estado": "Rio de Janeiro",
+		"populacao": 2069175
+	},
+	{
+		"nome": "Montes Claros",
+		"estado": "Minas Gerais",
+		"populacao": 8745238
+	},
+	{
+		"nome": "Colombo",
+		"estado": "Paraná",
+		"populacao": 6607316
+	},
+	{
+		"nome": "São João de Meriti",
+		"estado": "Rio de Janeiro",
+		"populacao": 137509
+	},
+	{
+		"nome": "Belém",
+		"estado": "Pará",
+		"populacao": 2521222
+	},
+	{
+		"nome": "Caucaia",
+		"estado": "Ceará",
+		"populacao": 8733315
+	},
+	{
+		"nome": "Castanhal",
+		"estado": "Pará",
+		"populacao": 6649643
+	},
+	{
+		"nome": "Ananindeua",
+		"estado": "Pará",
+		"populacao": 4531709
+	},
+	{
+		"nome": "Aparecida de Goiânia",
+		"estado": "Goiás",
+		"populacao": 5945683
+	},
+	{
+		"nome": "Santarém",
+		"estado": "Pará",
+		"populacao": 8206888
+	},
+	{
+		"nome": "Timon",
+		"estado": "Maranhão",
+		"populacao": 650973
+	},
+	{
+		"nome": "Salvador",
+		"estado": "Bahia",
+		"populacao": 2136434
+	},
+	{
+		"nome": "Itabuna",
+		"estado": "Bahia",
+		"populacao": 146190
+	},
+	{
+		"nome": "Cajazeiras",
+		"estado": "Paraíba",
+		"populacao": 146475
+	},
+	{
+		"nome": "Londrina",
+		"estado": "Paraná",
+		"populacao": 6058455
+	},
+	{
+		"nome": "Chapadinha",
+		"estado": "Maranhão",
+		"populacao": 2700398
+	},
+	{
+		"nome": "Nova Iguaçu",
+		"estado": "Rio de Janeiro",
+		"populacao": 5646253
+	},
+	{
+		"nome": "Balsas",
+		"estado": "Maranhão",
+		"populacao": 3101235
+	},
+	{
+		"nome": "Foz do Iguaçu",
+		"estado": "Paraná",
+		"populacao": 5000049
+	},
+	{
+		"nome": "Paço do Lumiar",
+		"estado": "Maranhão",
+		"populacao": 5715799
+	},
+	{
+		"nome": "Caxias",
+		"estado": "Maranhão",
+		"populacao": 8021302
+	},
+	{
+		"nome": "Codó",
+		"estado": "Maranhão",
+		"populacao": 5362867
+	},
+	{
+		"nome": "Rio Verde",
+		"estado": "Goiás",
+		"populacao": 115232
+	},
+	{
+		"nome": "Águas Lindas de Goiás",
+		"estado": "Goiás",
+		"populacao": 6956791
+	},
+	{
+		"nome": "Manaus",
+		"estado": "Amazonas",
+		"populacao": 2100000
+	},
+	{
+		"nome": "Rio Branco",
+		"estado": "Acre",
+		"populacao": 6953591
+	}
+]
