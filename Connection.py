@@ -134,9 +134,12 @@ class Connection():
         file = open('./Data/quartos.txt', 'r')
         if (self.lstHotel == None): self.lstHotel = self.select_data_in_hotel()
 
+        j = 0
         for i in file:
             preco, tipo = i.split('|')
-            self.cur.execute("INSERT INTO quarto VALUES (%d, '%s', %d, %s)" % (float(preco), tipo, random.choice(self.lstHotel), 'default'))
+            codigo_hotel = random.choice(self.lstHotel)
+            self.cur.execute("INSERT INTO quarto VALUES (%d, '%s', %s, %d)" % (float(preco), tipo, 'default', codigo_hotel))
+
         self.con.commit()
 
     def insert_data_in_fundacoes(self):
@@ -151,11 +154,11 @@ class Connection():
         self.con.commit()
 
 c = Connection()
-# c.insert_data_in_city()
-# c.insert_data_in_restaurante()
-# c.insert_data_in_casa_show()
-# c.insert_data_in_hotel()
-#c.insert_data_in_quarto()
+#c.insert_data_in_city()
+#c.insert_data_in_restaurante()
+#c.insert_data_in_casa_show()
+#c.insert_data_in_hotel()
+c.insert_data_in_quarto()
 #c.insert_data_in_igreja()
 #c.insert_data_in_museu()
 #c.insert_data_in_fundador()
